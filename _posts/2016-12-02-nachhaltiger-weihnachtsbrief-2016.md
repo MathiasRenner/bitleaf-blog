@@ -9,7 +9,7 @@ permalink: >
   https://bitleaf.de/2016/12/02/nachhaltiger-weihnachtsbrief-2016/
 published: true
 sharing_disabled:
-  - "1"
+  - 'a:1:{i:0;s:1:"1";}'
 ---
 Ich möchte Dich einladen, Deine Art zu Leben zu reflektieren. Dazu empfehle ich, es Dir gemütlich zu machen und die nachfolgenden Zeilen in Ruhe auf Dich wirken zu lassen.
 
@@ -32,9 +32,7 @@ Ich fasse zusammen: Wir sind abhängig von Rohstoffen und Geräten, deren Gewinn
 Aber zurück zu den seltenen Erden. Experten schätzen, dass die Nachfrage nach seltenen Erden weiter stark steigen wird. Manche Länder, wie z.B. China, verfolgen deswegen eine bemerkenswerte Strategie: China pachtet große Flächen in afrikanischen Ländern, in denen seltene Erden vermutet werden. Diese Gebiete werden dann mit hohen Zäunen gesichert. Bauern, die in diesen Gebieten ihre Felder bewirtschaftet haben, werden vertrieben und verlieren Ihre Existenz. Ich durfte diese Vorgänge mit eigenen Augen beobachten.
 
 Zuletzt möchte ich die Näherinnen in Bangladesch erwähnen. Sie stellen den Großteil der Kleidung her, die wir täglich tragen. Ihre Arbeit müssen sie allerdings unter zum Teil menschenverachtenden Bedingungen verrichten — so, wie auch die Arbeiter in China und im Kongo.
-
 <h3>Genug der Fakten. Was heißt das alles für uns hier in Deutschland?</h3>
-
 Ich behaupte, dass ein Zusammenhang besteht zwischen unserer Lebensweise und dem Leid der Menschen in anderen Ländern. Denn wir hier in Europa und in Nordamerika sind es, die diesen immens großen Energiehunger haben. Alle anderen Länder der Erde kommen mit bedeutend weniger aus. Zudem kaufen wir viele Produkte, die in einem globalen Wertschöpfungsnetzwerk entstehen, das vor Menschenrechtsverletzungen offensichtlich keinen Halt macht.
 
 Die ganz logische Folgerung wäre doch, dass jeder von uns bewusster konsumiert und weniger Energie verbraucht. Und zwar nicht nur ein bisschen! Die beschriebenen Fakten, die übrigens im Internet frei verfügbar sind, sollten eigentlich jeden von uns zu unmittelbarem Handeln motivieren. Denn aus meiner Sicht lassen wir es aktuell zu, dass wir in Deutschland einen Lebensstil führen, der nur durch das Leid der Menschen in anderen Ländern ermöglicht wird!
@@ -46,19 +44,14 @@ Ich finde deshalb, dass wir unseren Lebensstil reflektieren sollten, insbesonder
 Ich werde den Moment nicht vergessen, als ich im letzten Jahr an einem Strand in Afrika stand, an dem viele Fischerboote an Land lagen. So weit das Auge reichte waren nach rechts und nach links Fischerboote zu sehen. Auf Nachfrage erfuhr ich, dass seit Kurzem die dortigen Fischgründe von westlichen Konzernen aufgekauft wurden, um der steigenden Nachfrage nach Fischen in Europa und Nordamerika gerecht zu werden. Die einheimischen Fischer dürfen nun mit Ihren Booten nicht mehr ins Meer fahren. Bei diesem Deal freute sich die korrupte Regierung über einige Einnahmen — die Fischerfamilien allerdings verloren ihre Lebensgrundlage.
 
 Ich frage wieder: Gibt es hier einen Zusammenhang oder sehe ich Gespenster? Ich denke, wir sollten uns alle die folgende, entscheidende Frage stellen:
-
 <blockquote>Wie viel dürfen wir uns mit unserem Lebensstil leisten, ohne ökologisch (Umweltverschmutzung) oder sozial (Menschenrechtsverletzungen) über unsere Grenzen zu gehen?</blockquote>
-
 Um diese Frage zu beantworten, möchte ich das Wort abgeben an Prof. Niko Paech, der sich eingängig damit beschäftigt. Er belegt, dass das Wachstums-Mantra unserer Gesellschaft nach „immer mehr“ und „immer größer“ die Ursache vieler der beschriebenen Probleme ist. Er regt an, zu einfacheren Lebensstilen überzugehen, die mit weniger Energie und weniger Konsum auskommen (ich empfehle an dieser Stelle meinen Weihnachtsbrief von 2014 über „Weihnachten, Geschenke und Liebe“). Er empfiehlt also, weniger zu arbeiten, entsprechend weniger Geld zu haben und weniger zu kaufen, sowie weniger zu verbrauchen. Statt 40 Stunden in der Woche auf die Arbeit zu gehen, rät er, lieber 20 Stunden auf die Arbeit zu gehen und die so frei gewordene Zeit zu nutzen, um selbst Dinge herzustellen und zu reparieren, sich mit Nachbarn auszutauschen und sich gegenseitig zu helfen.
 
 Das hat unter anderem den Vorteil, dass die sozialen Gefüge auf lokaler Ebene wiederbelebt werden, die so viele der älteren Jahrgänge heute vermissen. Statt gegenseitigen Austausch mit der näheren sozialen Umgebung beobachte ich zunehmend eine Isolation der Menschen zu Ihrer näheren Umgebung. Die sozialen Netzwerke wie z.B. Facebook ermöglichen es, die direkte Umgebung zu ignorieren und die sozialen Bedürfnisse bevorzugt mit Gleichgesinnten und über große Distanzen hinweg zu befriedigen. Doch Prof. Niko Paech betont, dass ein starkes, lokales Sozialgefüge großen Einfluss hat auf den Energieverbrauch einer Gesellschaft. Denn unser Durst nach Mobilität benötigt sehr viel Energie. Genauer gesagt sogar ein Drittel der gesamten Energie, die jeder von uns verbraucht. In diesem Bereich (Mobilität) ist der Auto- und LKW-Verkehr für etwa drei Viertel der Treibhausgas-Emissionen verantwortlich (!). Eine Reduktion unserer Mobilität durch starke lokale Sozialgefüge birgt also großes Potenzial, Umweltbelastungen deutlich zu reduzieren und einen energiearmen Lebensstil zu führen.
 
 Abschließend argumentiert Niko Paech, dass ein energiearmer Lebensstil unausweichlich zu einem glücklicheren Leben führt. Gründe dafür sind das gegenseitige Helfen der Menschen in ihrem direkten Umfeld und die dadurch häufige persönliche Interaktion, sowie die Herstellung und der Genuss eigener Erzeugnisse. Viele Menschen, die einen energiearmen Lebensstil führen, bestätigen diese These.
-
 <h4><img class="alignnone size-large wp-image-212" src="https://bitleaf.de/wp-content/uploads/2017/02/standard-of-living-life-1024x440.png" alt="" width="750" height="322" /></h4>
-
 <h3>Also: Welchen Lebensstil leistest Du Dir aktuell? Überschreitet er und dessen Folgen ökologische (Umweltverschmutzung) oder soziale (Menschenrechtsverletzungen) Grenzen?</h3>
-
 Als „Nachhaltigkeits-Fetischist“, wie mich Freunde liebevoll bezeichnen, recherchiere ich gerne über derartige Themen. Positiv überrascht war ich zuletzt, dass die katholische Kirche tolles Material zu diesem Thema veröffentlicht hat. Das ist zum Beispiel die Dokumentation eines Vortrags von Prof. Niko Paech. Er wurde eingeladen, auf dem Neujahrsempfang des Bamberger Erzbischofs vor 2 Jahren einen Vortrag zu halten. Sein Vortrag ist in diesem Büchlein in Schriftform enthalten.
 
 Ich lade Dich ein, dich anhand dieses Vortrags mit Lebensstilen zu beschäftigen, die es ermöglichen, unseren Kindern und Kindeskindern eine Erde zu hinterlassen, die zumindest die gleiche Lebensqualität ermöglicht, wie wir sie heute genießen. Das schaffen wir aus meiner Sicht nur, indem wir uns soziale Gerechtigkeit auf globaler Ebene als Ziel setzen. Dafür ist ein energiearmer Lebensstil hilfreich, wenn nicht sogar notwendig.
