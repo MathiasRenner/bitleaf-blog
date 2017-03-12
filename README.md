@@ -1,6 +1,6 @@
 # Bitleaf blog
 
-This repo contains the content of the [Bitleaf website and blog](https://bitleaf.de/blog). Everyone is welcome to add new or improve existing content. 
+This repo contains the content of the [Bitleaf blog](https://bitleaf.de/blog). Everyone is welcome to add new or improve existing content. 
 
 
 How to use
