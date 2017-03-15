@@ -9,63 +9,46 @@ permalink: https://bitleaf.de/impressum/
 published: true
 ---
 <h3>Impressum</h3>
-
-<p style="vertical-align: middle">Bitleaf
+<p style="vertical-align: middle;">Bitleaf
 c/o Mathias Renner
 Bauchwitzstr. 12
 96049 Bamberg
 Deutschland</p>
-
 <strong>Email:</strong> <a href="mailto:mail@bitleaf.de">mail@bitleaf.de</a>
-Wenn möglich, verschlüsseln Sie bitte Emails mit OpenPGP!
+Wenn möglich, verschlüsseln Sie bitte Emails mit <a href="http://mathias-renner.com/mail-bitleaf-de-pub-key.asc">meinem OpenPGP key</a>!
 Fingerprint: 1206 40C5 435F 462B BB06 4258 A96B 31EF 6AA8 A9FE
 
 <strong>Private Webseite:</strong> <a href="http://www.mathias-renner.com">www.mathias-renner.com</a>
 
 &nbsp;
-
 <h3>Datenschutzhinweis</h3>
-
 <h4><strong>Generelles</strong><strong>
 </strong></h4>
-
 Die Webseiten von BitLeaf.de werden ohne die Verwendung externer Dienste betrieben, wie z.B. Google Analytics, Tracking- oder Werbe-Dienste. Dadurch erhalte ich bewusst kaum Informationen über die Besucher meiner Webseite – aus Respekt vor der Privatsphäre meiner Gäste.
 
 <strong>Eine Weitergabe jeglicher von Ihnen an BitLeaf.de übermittelten Daten an Dritte erfolgt grundsätzlich nicht</strong>. Es wurden entsprechende technische und organisatorische Maßnahmen getroffen, Angreifern das Ausspähen von Daten erheblich zu erschweren.
 
 Über die wenigen Informationen, die ich von Ihnen systembedingt erhalte, unterrichte ich Sie nachfolgend.
-
 <h4><strong>Automatisch übermittelte Daten</strong></h4>
-
 Wenn Sie die Seiten von BitLeaf.de besuchen, werden durch Ihren Browser automatisch Informationen an den Server von BitLeaf.de übermittelt und dort für einen Monat lang gespeichert. Dies sind:
-
 <ul>
-    <li>Browsertyp/Browserversion</li>
-    <li>verwendetes Betriebssystem</li>
-    <li>Referrer URL</li>
-    <li>Hostname des zugreifenden Rechners</li>
-    <li>Name der vom Server abgerufenen Datei</li>
-    <li>Datum und Uhrzeit der Serveranfrage</li>
+ 	<li>Browsertyp/Browserversion</li>
+ 	<li>verwendetes Betriebssystem</li>
+ 	<li>Referrer URL</li>
+ 	<li>Hostname des zugreifenden Rechners</li>
+ 	<li>Name der vom Server abgerufenen Datei</li>
+ 	<li>Datum und Uhrzeit der Serveranfrage</li>
 </ul>
-
 Diese Daten werden aussschließlich für die technische Bereitstellung und Wartung der Webseiten von Bitleaf.de verwendet (z.b. zur Fehleranalyse).
-
 <h4><strong>Kontaktformular</strong></h4>
-
 Wenn Sie uns per Kontaktformular Anfragen zukommen lassen, werden Ihre Angaben aus dem Anfrageformular inklusive der von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns gespeichert.
-
 <h4><strong>Newsletterdaten</strong></h4>
-
 Wenn Sie den auf der Webseite angebotenen Newsletter beziehen möchten, benötigen wir von Ihnen eine E-Mail-Adresse sowie Informationen, welche uns die Überprüfung gestatten, dass Sie der Inhaber der angegebenen E-Mail-Adresse sind und mit dem Empfang des Newsletters einverstanden sind. Weitere Daten werden nicht erhoben. Diese Daten verwenden wir ausschließlich für den Versand des Newsletters verwendet.
-
 <h4><strong>Cookies</strong></h4>
-
 Ich verwende so genannte <em>Cookies</em>. Cookies sind kleine Textdateien, die Ihr Browser speichert, um Ihr Erlebnis auf BitLeaf.de zu verbessern (z.B. für Spracheinstellungen oder zur Reduzierung der Ladezeiten durch Caching). Dabei verwende ich aussschließlich sogenannte „Session-Cookies“, die nach Ende Ihres Besuchs automatisch gelöscht werden.
 
 &nbsp;
-
 <h3>Haftungsausschluss</h3>
-
 <strong>Haftung für Inhalte</strong>
 Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
 Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
