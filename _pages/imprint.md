@@ -15,7 +15,7 @@ Bauchwitzstr. 12
 96049 Bamberg
 Germany</p>
 <strong>Email:</strong> <a href="mailto:mail@bitleaf.de">mail@bitleaf.de</a>
-Ideally, encrypt emails with PGP!
+Ideally, encrypt emails with <a href="http://mathias-renner.com/dl/mail-bitleaf-de-pub-key.asc">my OpenPGP key</a>!
 Fingerprint: 1206 40C5 435F 462B BB06 4258 A96B 31EF 6AA8 A9FE
 
 <strong>Private webseite:</strong> <a href="http://www.mathias-renner.com">www.mathias-renner.com</a>
