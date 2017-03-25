@@ -1,6 +1,6 @@
 ---
 ID: 1209
-post_title: 'The all-in-one and secure sync solution: Nextcloud'
+post_title: 'Review: Nextcloud, the all-in-one and secure sync solution'
 author: Mathias Renner
 post_date: 2017-03-25 13:07:05
 post_excerpt: ""
