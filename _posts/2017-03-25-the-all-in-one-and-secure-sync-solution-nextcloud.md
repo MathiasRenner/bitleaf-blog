@@ -19,8 +19,7 @@ When choosing a good sync software, I stick to my values of <em>sustainable IT a
  	<li>High security on all layers (transport and storage)</li>
  	<li>Data sovereignty, i.e. full control over all data the software processes (esp. your business or personal data).</li>
 </ul>
-<p class="info-title">Proprietary sync services from Apple, Google, Microsoft, Dropbox etc. don't comply with several of these requirements because they incorporate security leaks intentionally. This has been shown by the leaked documents of Edward Snowden (<a href="https://www.eff.org/document/2013-06-06-wapo-prism">see one of the leaked documents as example here</a>).</p>
-
+Proprietary sync services from Apple, Google, Microsoft, Dropbox etc. don't comply with several of these requirements because they incorporate security leaks intentionally. This has been shown by the leaked documents of Edward Snowden (<a href="https://www.eff.org/document/2013-06-06-wapo-prism">see one of the leaked documents as example here</a>).
 <h3 class="info-title">Found: Nextcloud</h3>
 The software project "Nextcloud" (former: "OwnCloud") meets all the mentioned requirements. It has been <a href="https://nextcloud.com/wp-content/themes/next/assets/files/NCC_report_full.pdf">audited by an external security specialist</a> with very good results.
 
