@@ -50,7 +50,7 @@ Nextcloud can be installed on a server that is owned by you (requirement of data
  	<li>get a server package, which starts at 55 Cents per month (at <a href="https://wircon-int.net/aff.php?aff=171">the hosting provider Wint.Global</a>, and even includes an own domain and email address!)</li>
  	<li>get a Nextcloud account on a foreign server.</li>
 </ul>
-I recommend getting an own server package since many Nextcloud accounts are provided in a non-secure environment (mostly because the Software has not regularly been updated - you can check the security level of an existing Nextcloud installation <a href="https://scan.nextcloud.com/">here</a>).
+I recommend getting an own server package since many Nextcloud accounts are provided in a non-secure environment (mostly because the software has not regularly been updated - you can check the security level of an existing Nextcloud installation <a href="https://scan.nextcloud.com/">here</a>).
 
 After you've setup Nextcloud on a server, download Nextcloud's sync apps to your computer and your phone, which then can connect to the Nextcloud on your server. Afterwards, enjoy your own and secure sync infrastructure!
 
