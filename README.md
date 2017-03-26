@@ -20,7 +20,7 @@ How to use
 
   ![](propose-file-change.png)
 
-**That's all!** At that point I have already been notified about your suggestions for review. Make sure that your email settings of your Github account trigger a notification email to you after my review on your changes.
+**That's all!** At that point I have already been notified about your suggestions for review. 
 
 If I am happy with your edits, I'll merge it and your changes will immediately be public on the blog. If I am not super happy, I might  ask you for further improvements on your suggestion.
 
