@@ -12,5 +12,4 @@ published: true
 As many of you already know, I have recently moved to Berlin! I was able to set up all my workshop equipment here and thus are able to offer repair services in Berlin, too!
 
 If travel costs are too high, I am also available for remote support, as usual.
-
-Image courtesy of user <em>Pedelecs</em> at Wikimedia Commons.
+<p style="text-align: right;">Image courtesy: user <em>Pedelecs</em> at Wikimedia Commons.</p>
