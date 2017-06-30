@@ -1,9 +1,9 @@
 ---
 ID: 226
 post_title: >
-  Start using a Whatsapp-like chat
-  messaging that respects your
-  privacy–in just 10 minutes
+  Whatsapp-like chat messaging that
+  respects your privacy–in just 10
+  minutes
 author: Mathias Renner
 post_date: 2016-11-28 21:33:11
 post_excerpt: ""
