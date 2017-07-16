@@ -13,10 +13,8 @@ published: true
 </span>
 
 &nbsp;
-
-<span class="lesscontent"><em>Seit vielen Jahren bin ich Kundin von Mathias Renner in Sachen IT. Bei Problemen mit meinem PC kann ich mich immer auf seine schnelle Hilfe verlassen. Sehr schätze ich die professionelle und individuelle IT-Beratung auch unter den Aspekten von Nachhaltigkeit und Datensicherheit. Mit der IT-Beratung von Mathias fühle ich mich immer in besten Händen und bin rundum zufrieden.</em>
-– Kerstin John</span>
-
+<p style="text-align: right;"><span class="lesscontent"><em>Seit vielen Jahren bin ich Kundin von Mathias Renner in Sachen IT. Bei Problemen mit meinem PC kann ich mich immer auf seine schnelle Hilfe verlassen. Sehr schätze ich die professionelle und individuelle IT-Beratung auch unter den Aspekten von Nachhaltigkeit und Datensicherheit. Mit der IT-Beratung von Mathias fühle ich mich immer in besten Händen und bin rundum zufrieden.</em>
+– Kerstin John</span></p>
 &nbsp;
 
 <em>Ich bin Ausländer. Ich bin auch älter als fünfzig, d.h., ich bin aus einer Generation, die nicht besonders gut mit der spätesten Technologie vertraut ist. Mathias Renner hat mich ständig und geduldig in vielen Aspekten meiner Office Umgebungen geholfen. Für nun mehr als ein Jahrzehnt finde ich Mathias immer fair,  vertrauenswürdig und  zuverlässig, auch in kurzfristigen und unerwarteten Situationen, sowie kompetent über alle Dimensionen der IT, die nötig für ein Kleinunternehmen sind.</em>
