@@ -23,7 +23,7 @@ To me, timestamps in file names are useful for two reasons:
 <ul>
  	<li><strong>They easily communicate how old the information in the containing file is – in an easy to grasp manner</strong>, without having to take a look at the timestamp column in your file manager. That often requires to scroll to the right.</li>
  	<li><strong>They are transparent to any IT system:</strong> If you share the file via email, hard drive or the cloud, the timestamp in the filename will show up and persist in <strong>any</strong> IT system. However, if you open it in the web interface of a cloud service (e.g. Dropbox, Nextcloud etc.) or on another operating system, sometimes the timestamp shown there either changed, is displayed in a different format or is not displayed at all. The timestamps in the file name and its format persists.
-They persist also if you move the file or restore a file from a backup, sometimes the timestamp of the file ("last modified") changes. If you think of images you took some years ago, they won't appear in your software as taken some years ago, but taken today. This happend to me a few times – annoying.</li>
+They persist also if you move the file or restore a file from a backup, sometimes the timestamp of the file ("last modified") changes. If you think of images you took some years ago, they won't appear in your photo software as taken some years ago, but taken today. This happend to me a few times – annoying.</li>
 </ul>
 Of course, timestamps are not useful for all type of files. Files that are changed very often rather should go with a version control system or document management system etc.
 Roughly, I recommend timestamps in file names for archived files (images, videos etc.) or files that are updated and shared just a few times.
