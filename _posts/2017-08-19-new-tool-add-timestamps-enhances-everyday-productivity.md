@@ -1,6 +1,6 @@
 ---
 ID: 1325
-post_title: 'New tool &#8222;Add timestamp to file&#8220; enhances everyday productivity'
+post_title: 'New tool &#8222;Add timestamp to files&#8220; enhances everyday productivity'
 author: Mathias Renner
 post_date: 2017-08-19 15:06:27
 post_excerpt: ""
