@@ -1,6 +1,6 @@
 ---
 ID: 1406
-post_title: 'Thanks for your message! You&#8217;ll receive a reply soon!'
+post_title: 'Thanks! You&#8217;ll receive a reply soon!'
 author: Mathias Renner
 post_excerpt: ""
 layout: page
