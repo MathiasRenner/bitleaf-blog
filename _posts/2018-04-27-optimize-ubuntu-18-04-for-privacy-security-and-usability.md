@@ -30,10 +30,8 @@ Unfortunately, Ubuntu extended its data aggregation practices in recent years. C
 At the same time, I extended this software to optimize Ubuntu also for enhanced protection of a user's privacy when browsing online. E.g. it installs a set of Firefox add-ons against common tracking techniques. It also hardens Firefox, i.e. changes its internal configuration to be more effective against tracking. Of course, most of a user's trackability is still up to his users browsing behavior and to how he uses more advanced plugins like <a href="https://addons.mozilla.org/de/firefox/addon/noscript/">NoScript</a>. NoScript is not installed using my tool here it's not easy to use for everyone.
 
 My tool will also install the most basic software I highly recommend for everyone to use. Think about a clipboard manager or a screenshot tool with a rich feature set.
-<h3>All done within just 5 minutes</h3>
-This software is easy to use and not depending on specific user behavior. It's intended to help everyone, regardless if he uses his Ubuntu just for browsing or for professional video editing.
 
-It takes about minute of downloading and starting the software, and about 5 minutes of watching the software performing its magic - it's really that easy!
+&nbsp;
 <h3>What exactly does it do?</h3>
 For instance, it...
 <ul>
@@ -46,5 +44,9 @@ For instance, it...
 At the beginning, you are asked about which tasks you want the tool to do:
 
 <img class="alignnone size-full wp-image-1416" src="https://bitleaf.de/wp-content/uploads/2018/04/Selection_001.png" alt="" width="872" height="333" />
+<h3>All done within just 5 minutes</h3>
+This software is easy to use and not depending on specific user behavior. It's intended to help everyone, regardless if he uses his Ubuntu just for browsing or for professional video editing.
+
+It takes about minute of downloading and starting the software, and about 5 minutes of watching the software performing its magic - it's really that easy!
 <h3>How to use</h3>
 Visit its <a href="https://github.com/bitleaf/optimize-ubuntu">Github page</a> and get started. If you have any feedback or suggestions of how to improve it, please open a Github issue, create a pull request, or leave a comment! There are many options to further improve the tool. Let's collaborate on it!
