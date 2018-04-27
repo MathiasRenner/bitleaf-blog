@@ -30,8 +30,6 @@ Unfortunately, Ubuntu extended its data aggregation practices in recent years. C
 At the same time, I extended this software to optimize Ubuntu also for enhanced protection of a user's privacy when browsing online. E.g. it installs a set of Firefox add-ons against common tracking techniques. It also hardens Firefox, i.e. changes its internal configuration to be more effective against tracking. Of course, most of a user's trackability is still up to his users browsing behavior and to how he uses more advanced plugins like <a href="https://addons.mozilla.org/de/firefox/addon/noscript/">NoScript</a>. NoScript is not installed using my tool here it's not easy to use for everyone.
 
 My tool will also install the most basic software I highly recommend for everyone to use. Think about a clipboard manager or a screenshot tool with a rich feature set.
-
-&nbsp;
 <h3>What exactly does it do?</h3>
 For instance, it...
 <ul>
