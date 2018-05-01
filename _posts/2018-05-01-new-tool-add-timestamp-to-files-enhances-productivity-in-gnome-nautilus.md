@@ -11,7 +11,7 @@ post_date: 2018-05-01 23:19:08
 ---
 I am proud to share a new open source tool: It adds timestamps to files in the Nautilus file manager.<!--more-->
 
-Recently, I <a href="https://bitleaf.de/2017/08/19/new-tool-add-timestamps-enhances-everyday-productivity/">published a tool with similar features</a> for the default file manager in KDE, i.e. Dolphin. Now, this piece of software lets the standard file manager of GNOME, i.e. Nautilus, add timestamps to files.
+I already <a href="https://bitleaf.de/2017/08/19/new-tool-add-timestamps-enhances-everyday-productivity/">published a tool with similar features</a> for the default file manager in KDE, i.e. Dolphin. Now, this piece of software lets the standard file manager of GNOME, i.e. Nautilus, add timestamps to files.
 <h3>How does it work?</h3>
 It's as simply as it sounds: Say you have a file <strong>my-file.pdf</strong>, the tool adds a timestamp in front of the file name and produces: <strong>2017-08-19-my-file.pdf</strong>. To do so, you just right click on a file and choose which timestamp you prefer:
 
