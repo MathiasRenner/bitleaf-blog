@@ -1,13 +1,13 @@
 ---
 ID: 1325
-post_title: 'New tool &#8222;Add timestamp to files&#8220; enhances everyday productivity'
+post_title: 'New tool &#8222;Add timestamp to files&#8220; enhances productivity in KDE &#038; Dolphin'
 author: Mathias Renner
-post_date: 2017-08-19 15:06:27
 post_excerpt: ""
 layout: post
 permalink: >
   https://bitleaf.de/2017/08/19/new-tool-add-timestamps-enhances-everyday-productivity/
 published: true
+post_date: 2017-08-19 15:06:27
 ---
 Today, I am proud to share a new open source tool that I just created: It adds timestamps to files. Yes, simply, but mighty!
 
