@@ -15,7 +15,7 @@ Recently, I <a href="https://bitleaf.de/2017/08/19/new-tool-add-timestamps-enhan
 <h3>How does it work?</h3>
 It's as simply as it sounds: Say you have a file <strong>my-file.pdf</strong>, the tool adds a timestamp in front of the file name and produces: <strong>2017-08-19-my-file.pdf</strong>. To do so, you just right click on a file and choose which timestamp you prefer:
 
-<img class="wp-image-1433 size-medium aligncenter" src="https://bitleaf.de/wp-content/uploads/2018/05/screenshot-300x202.png" alt="" width="300" height="202" />
+<img class="aligncenter wp-image-1433 size-full" src="https://bitleaf.de/wp-content/uploads/2018/05/screenshot.png" alt="" width="739" height="498" />
 
 Merely by that, it saves me lots of time in my everyday productivity – and I guess it helps many other people, too.
 <h3>Why should I add timestamps to files?</h3>
