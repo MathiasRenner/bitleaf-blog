@@ -13,6 +13,8 @@ Today, I am proud to share a new open source tool that I just created: It adds t
 
 <!--more-->
 
+This piece of software lets the standard file manager of KDE, i.e. Dolphin, add timestamps to files. If you look for this functionality in GNOME with its default file manager Nautilus, see <a href="https://bitleaf.de/2018/05/01/new-tool-add-timestamp-to-files-enhances-productivity-in-gnome-nautilus/">this blog post</a>.
+
 It's as simply as it sounds: Say you have a file <strong>my-file.pdf</strong>, the tool adds a timestamp in front of the file name and produces: <strong>2017-08-19-my-file.pdf</strong>. To do so, you just right click on a file and choose which timestamp you prefer:
 
 <img class="size-full wp-image-1329 aligncenter" src="https://bitleaf.de/wp-content/uploads/2017/08/2017-08-19-add-timestamp-v0-2.png" alt="" width="351" height="103" />
