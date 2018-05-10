@@ -34,11 +34,5 @@ I'll extend this list with more of the open source projects creating accunts on 
 As donation  platform, I recently found <a href="https://liberapay.com/">Liberapay</a>. It's a platform developed in France, which pays its bills receiving donations on its own platform! As transaction fees for payments this platform only asks for the fees they are charged by their financial provider. In addition, Liberapay is fully open source! This strategy is very different from other famous platforms like <a href="https://www.patreon.com/">Patreon</a> (closed source, high transaction fees, not EU based). Software stemming from within the EU got more important to me with the advent of the new <a href="https://www.eugdpr.org/">GDPR</a>.
 
 Liberapay seems to receive a lot of attraction recently, which I like. Looking forward to see more and more projects migrating to Liberapay.
-
-&nbsp;
 <h3>I also accept donations</h3>
 Next to giving donations as shares from my revenue, I also take donations to fund my development activity for the open source software I <a href="https://github.com/bitleaf">publish</a>. For instance, I started a <a href="https://bitleaf.de/2018/04/27/optimize-ubuntu-18-04-for-privacy-security-and-usability/">project to optimize Ubuntu 18.04</a> for better privacy and usability. Also, I recently published a <a href="https://bitleaf.de/2018/05/01/new-tool-add-timestamp-to-files-enhances-productivity-in-gnome-nautilus/">tool that adds timestamps to files</a> thereby enhancing tracability of file creation time.
-
-&nbsp;
-
-<script src="https://liberapay.com/Bitleaf/widgets/giving.js"></script>
