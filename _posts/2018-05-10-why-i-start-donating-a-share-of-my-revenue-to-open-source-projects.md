@@ -36,3 +36,7 @@ As donation  platform, I recently found <a href="https://liberapay.com/">Libera
 Liberapay seems to receive a lot of attraction recently, which I like. Looking forward to see more and more projects migrating to Liberapay.
 <h3>I also accept donations</h3>
 Next to giving donations as shares from my revenue, I also take donations to fund my development activity for the open source software I <a href="https://github.com/bitleaf">publish</a>. For instance, I started a <a href="https://bitleaf.de/2018/04/27/optimize-ubuntu-18-04-for-privacy-security-and-usability/">project to optimize Ubuntu 18.04</a> for better privacy and usability. Also, I recently published a <a href="https://bitleaf.de/2018/05/01/new-tool-add-timestamp-to-files-enhances-productivity-in-gnome-nautilus/">tool that adds timestamps to files</a> thereby enhancing tracability of file creation time.
+<h3>Let's start donating to open source!</h3>
+If you use open source software (you probably do), please see if the software is listed at Liberapay. If you enjoy my articles and software, you can start <a href="https://en.liberapay.com/Bitleaf/">supporting me with a few cents</a>!
+
+Happy donating!
