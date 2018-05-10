@@ -24,6 +24,13 @@ How to use
 
 If I am happy with your edits, I'll merge it and your changes will immediately be public on the blog. If I am not super happy, I might  ask you for further improvements on your suggestion.
 
+Support this project
+----
+
+If you want this project to get better, support me with a few cents:
+
+<a href="https://liberapay.com/Bitleaf/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+
 
 License
 ------
