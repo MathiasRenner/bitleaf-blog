@@ -14,8 +14,8 @@ post_date: 2018-05-10 17:50:28
 Open source software is free? Downloading and using it it, yes, but developing it, not. Let's help developers to buy their bills with their community contributions.
 
 <!--more-->
-<h3>Motivation</h3>
-Software, closed and open source, is developed by humans who also have to pay their bills for living. In my private and professional context, I use much open source software, which adds value to my work and eventually to my wallet. Giving back a share of my revenue to the software that I use for free seems natual to me. Thus I decided to send a share of my revenue with Bitleaf back to the community of developers.
+<h3>Why donate?</h3>
+Open source software is developed by humans who also have to pay their bills for living. In my professional context with Bitleaf, I use much open source software, which adds value to my work and eventually to my wallet. It seems natual to me to send back a share of my revenues to the ones that develop the open source software that I use for free.
 This is in addition of several pieces of software that I already develop and publish free for everyone to use on <a href="https://github.com/bitleaf">Github</a>.
 <h3>To whom do I donate?</h3>
 As target group for my donations next to open source projects I also selected information sources (blogs) about open source software, like the <a href="https://liberapay.com/kuketzblog/">Kuketz Blog</a>. This blog is a wonderful source of information about IT-Security and data sovereignty.
@@ -29,7 +29,7 @@ For now, I started donating to:
  	<li>Liberapay - the donation platform itself</li>
 </ul>
 I'll extend this list with more of the open source projects creating accunts on the donation platform.
-<h3>Donation platform</h3>
+<h3>Which donation platform to use?</h3>
 As donation  platform, I recently found <a href="https://liberapay.com/">Liberapay</a>. It's a platform developed in France, which pays its bills receiving donations on its own platform! As transaction fees for payments this platform only asks for the fees they are charged by their financial provider. In addition, Liberapay is fully open source! This strategy is very different from other famous platforms like <a href="https://www.patreon.com/">Patreon</a> (closed source, high transaction fees, not EU based). Software stemming from within the EU got more important to me with the advent of the new <a href="https://www.eugdpr.org/">GDPR</a>.
 
 Liberapay seems to receive a lot of attraction recently, which I like. Looking forward to see more and more projects migrating to Liberapay.
