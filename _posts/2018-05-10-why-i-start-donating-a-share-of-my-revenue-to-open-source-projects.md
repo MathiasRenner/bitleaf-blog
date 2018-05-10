@@ -15,7 +15,7 @@ Open source software is free? Downloading and using it it, yes, but developing i
 
 <!--more-->
 <h3>Why donate?</h3>
-Open source software is developed by humans who also have to pay their bills for living. In my professional context with Bitleaf, I use much open source software, which adds value to my work and eventually to my wallet. It seems natual to me to send back a share of my revenues to the ones that develop the open source software that I use for free.
+Open source software is developed by humans who also have to pay their bills for living. In my professional context with Bitleaf, I use much open source software, which adds value to my work and eventually to my wallet. It seems natual to me to send back a share of my revenues to the ones that develop the open source software that I use for free. I decided to stepwise increase my donations to 5% of my revenue until the end of this year.
 This is in addition of several pieces of software that I already develop and publish free for everyone to use on <a href="https://github.com/bitleaf">Github</a>.
 <h3>To whom do I donate?</h3>
 As target group for my donations next to open source projects I also selected information sources (blogs) about open source software, like the <a href="https://liberapay.com/kuketzblog/">Kuketz Blog</a>. This blog is a wonderful source of information about IT-Security and data sovereignty.
