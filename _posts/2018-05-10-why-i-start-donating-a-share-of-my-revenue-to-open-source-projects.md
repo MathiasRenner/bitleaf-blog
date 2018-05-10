@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2018-05-10 17:50:28
 ---
-Open source software is free? Downloading and using it it, yes, but developing it, nope. Let's help developers to buy their bills with their community contributions.
+<strong>Open source software is free? Downloading and using it it, yes, but developing it, nope. Let's help developers to buy their bills with their community contributions.</strong>
 
 <!--more-->
 
