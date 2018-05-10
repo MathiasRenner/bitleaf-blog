@@ -11,12 +11,11 @@ permalink: >
 published: true
 post_date: 2018-05-10 17:50:28
 ---
-Open source software is free? Downloading and using it it, yes, but developing it, nope. Let's help developers to buy their bills with their community contributions.
+Open source software is free? Downloading and using it it, yes, but developing it, not. Let's help developers to buy their bills with their community contributions.
 
 <!--more-->
-
-Software, closed and open source, is developed by humans who also have to pay their bills for living. In my private and professional context, I use much open source software, so I decided to give a share of my revenue back to the community of developers.
-
+<h3>Motivation</h3>
+Software, closed and open source, is developed by humans who also have to pay their bills for living. In my private and professional context, I use much open source software, which adds value to my work and eventually to my wallet. Giving back a share of my revenue to the software that I use for free seems natual to me. Thus I decided to send a share of my revenue with Bitleaf back to the community of developers.
 This is in addition of several pieces of software that I already develop and publish free for everyone to use on <a href="https://github.com/bitleaf">Github</a>.
 <h3>To whom do I donate?</h3>
 As target group for my donations next to open source projects I also selected information sources (blogs) about open source software, like the <a href="https://liberapay.com/kuketzblog/">Kuketz Blog</a>. This blog is a wonderful source of information about IT-Security and data sovereignty.
