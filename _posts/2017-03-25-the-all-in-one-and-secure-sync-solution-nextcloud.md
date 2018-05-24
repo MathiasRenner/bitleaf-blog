@@ -2,12 +2,12 @@
 ID: 1209
 post_title: 'Review: Nextcloud, the all-in-one and secure sync solution'
 author: Mathias Renner
-post_date: 2017-03-25 13:07:05
 post_excerpt: ""
 layout: post
 permalink: >
   https://bitleaf.de/2017/03/25/the-all-in-one-and-secure-sync-solution-nextcloud/
 published: true
+post_date: 2017-03-25 13:07:05
 ---
 Software that keeps your files, calendar, contacts and notes in sync across all your devices is one of the most used software type – for business as well as for private users. In this article I'll show one of the best-in-class sync solutions.
 
