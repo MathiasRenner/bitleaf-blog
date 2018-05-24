@@ -4,22 +4,22 @@ post_title: >
   Setup XMPP with OMEMO encryption on your
   Desktop
 author: Mathias Renner
-post_date: 2016-12-07 21:38:19
 post_excerpt: ""
 layout: post
 permalink: >
   https://bitleaf.de/2016/12/07/setup-xmpp-with-omemo-encryption-on-your-desktop/
 published: true
+post_date: 2016-12-07 21:38:19
 ---
 In this article we will setup secure messaging on your desktop such that you have a safe wire to your friends – on all your devices.
 
 <!--more-->
 
-If you haven’t read “<a class="markup--anchor markup--p-anchor" href="https://medium.com/@mathiasrenner/setup-whatsapp-like-chat-messaging-with-open-source-software-complete-guide-ec7adc0d3519?source=user_profile---------2---------" target="_blank" data-href="https://medium.com/@mathiasrenner/setup-whatsapp-like-chat-messaging-with-open-source-software-complete-guide-ec7adc0d3519?source=user_profile---------2---------">Setup a Whatsapp-like chat messaging that respects your privacy–in just 10 minutes</a>”, read at least the introduction to understand why XMPP with OMEMO is useful. Best, take these 10 minutes and follow the instructions of the blog post.
+If you haven’t read “<a class="markup--anchor markup--p-anchor" href="https://medium.com/@mathiasrenner/setup-whatsapp-like-chat-messaging-with-open-source-software-complete-guide-ec7adc0d3519?source=user_profile---------2---------" target="_blank">Setup a Whatsapp-like chat messaging that respects your privacy–in just 10 minutes</a>”, read at least the introduction to understand why XMPP with OMEMO is useful. Best, take these 10 minutes and follow the instructions of the blog post.
 <h3 id="6f59" class="graf graf--h3 graf-after--p"><strong>Requirements</strong></h3>
 <ul class="postList">
  	<li id="4cdb" class="graf graf--li graf-after--h3"><strong class="markup--strong markup--li-strong">You need Ubuntu as Operating System on your Desktop</strong>
-I show all steps using the operating system <strong class="markup--strong markup--li-strong">Ubuntu</strong>. With some effort, you can probably get it up and running <a class="markup--anchor markup--li-anchor" href="http://xmpp.org/software/clients.html" target="_blank" rel="nofollow noopener" data-href="http://xmpp.org/software/clients.html">on Windows and macOS</a>. However, a Linux operating system such as Ubuntu respects your privacy more, therefore I recommend using Linux.</li>
+I show all steps using the operating system <strong class="markup--strong markup--li-strong">Ubuntu</strong>. With some effort, you can probably get it up and running <a class="markup--anchor markup--li-anchor" href="http://xmpp.org/software/clients.html" target="_blank" rel="nofollow noopener">on Windows and macOS</a>. However, a Linux operating system such as Ubuntu respects your privacy more, therefore I recommend using Linux.</li>
  	<li id="e8c8" class="graf graf--li graf-after--li"><strong class="markup--strong markup--li-strong">You do NOT need IT skills</strong></li>
 </ul>
 <h3 id="92a6" class="graf graf--h3 graf-after--li"><strong>Setup messenger on your Desktop</strong></h3>
@@ -58,7 +58,7 @@ I show all steps using the operating system <strong class="markup--strong markup
 <p class="graf graf--p graf-after--p"><img class="aligncenter" src="https://cdn-images-1.medium.com/max/800/1*iVS618vri0a1byRrXMm2nA.png" /></p>
 <p id="e3b7" class="graf graf--p graf-after--figure">If you don’t see the <strong class="markup--strong markup--p-strong">OMEMO encryption enabled </strong>— just restart Gajim and have a look again.</p>
 <p id="be6c" class="graf graf--p graf-after--p"><strong class="markup--strong markup--p-strong">Congratulations! That’s all!</strong></p>
-<p id="d3da" class="graf graf--p graf-after--p"><strong class="markup--strong markup--p-strong">If you wanna chat also on your Smartphone,</strong><a class="markup--anchor markup--p-anchor" href="https://medium.com/@mathiasrenner/setup-whatsapp-like-chat-messaging-with-open-source-software-complete-guide-ec7adc0d3519#.9xbv7f2zd" target="_blank" data-href="https://medium.com/@mathiasrenner/setup-whatsapp-like-chat-messaging-with-open-source-software-complete-guide-ec7adc0d3519#.9xbv7f2zd"><strong class="markup--strong markup--p-strong"> just follow this </strong></a><a class="markup--anchor markup--p-anchor" href="http://guide/" target="_blank" rel="nofollow noopener" data-href="http://guide"><strong class="markup--strong markup--p-strong">guide</strong></a><strong class="markup--strong markup--p-strong">.</strong></p>
+<p id="d3da" class="graf graf--p graf-after--p"><strong class="markup--strong markup--p-strong">If you wanna chat also on your Smartphone,</strong><a class="markup--anchor markup--p-anchor" href="https://medium.com/@mathiasrenner/setup-whatsapp-like-chat-messaging-with-open-source-software-complete-guide-ec7adc0d3519#.9xbv7f2zd" target="_blank"><strong class="markup--strong markup--p-strong"> just follow this </strong></a><a class="markup--anchor markup--p-anchor" href="http://guide/" target="_blank" rel="nofollow noopener"><strong class="markup--strong markup--p-strong">guide</strong></a><strong class="markup--strong markup--p-strong">.</strong></p>
 
 <h3 id="904c" class="graf graf--h4 graf-after--p"><strong>All about “Fingerprints”</strong></h3>
 <p id="b088" class="graf graf--p graf-after--h4"><strong class="markup--strong markup--p-strong"><em class="markup--em markup--p-em">Note:</em></strong><em class="markup--em markup--p-em"> Read this subsection only when you are asked to trust something called “fingerprints”. Otherwise, just skip it!</em></p>
