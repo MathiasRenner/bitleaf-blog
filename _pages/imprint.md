@@ -2,14 +2,14 @@
 ID: 858
 post_title: Imprint
 author: Mathias Renner
-post_date: 2017-02-12 01:40:45
 post_excerpt: ""
 layout: page
 permalink: https://bitleaf.de/imprint/
 published: true
+post_date: 2017-02-12 01:40:45
 ---
 <h3>Imprint</h3>
-<p style="vertical-align: middle;">Bitleaf
+<p style="vertical-align: middle">Bitleaf
 c/o Mathias Renner
 Bauchwitzstr. 12
 96049 Bamberg
