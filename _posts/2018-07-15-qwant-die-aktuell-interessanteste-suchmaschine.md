@@ -18,13 +18,13 @@ Suchmaschinen gehören zu den Software-Lösungen die die Meisten von uns jeden T
 
 Der weltweite Marktführer Google zählt für mich aus mehreren Gründen nicht zu den "guten" Lösungen. Denn je mehr Unternehmen wie Google bzw. dessen Mutterkonzern Alphabet existieren, deren Geschäftsmodell auf Daten und deren Analyse beruht und die gleichzeitig die Privatsphäre der Nutzer mit den Füßen treten, desto mehr verlieren wir Bürger die Kontrolle über unsere Entscheidungen und schlussendlich über unsere Gesellschaft. Das Ergebnis beschreibt Mark-Uwe Kling wunderbar in seinem Buch <a href="http://marcuwekling.de/faq/" target="_blank" rel="noopener">Qualityland</a>, das die negativen Auswirkungen einer stark datengetriebenen Gesellschaft in einer witzigen und verständlichen Form darlegt. Ähnliche Werke sind <a href="https://en.wikipedia.org/wiki/Nineteen_Eighty-Four" target="_blank" rel="noopener">George Orwells 1984</a> oder<a href="https://en.wikipedia.org/wiki/The_Circle_(Eggers_novel)" target="_blank" rel="noopener"> The Circle</a>.
 
-Teile dieser Dystopie sind bereits heute Realität. Algorithmen nehmen uns mehr und mehr Entscheidungen ab. Kontrollierte Automatisierung halte ich generell für gut, allerdings gehören gerade die heute und zukünftig häufig eingesetzten Algorithmen des <strong>Deep Learnings</strong> zu der Klasse, die <strong>nicht deterministisch</strong> sind. Deren Ergebnis ist also nicht kontrollierbar. Unternehmen wie z.B. Facebook verwenden allerdings eine Vielzahl von Deep Learning Algorithmen und verlieren zunehmend die Kontrolle über deren Entscheidungen. Im Folgenden 6-minütigen Video wird das schön dargestellt:
+Teile dieser Dystopie sind bereits heute Realität. Algorithmen nehmen uns mehr und mehr Entscheidungen ab. Kontrollierte Automatisierung halte ich generell für gut, allerdings gehören gerade die heute und zukünftig häufig eingesetzten Algorithmen des Deep Learnings zu der Klasse, die nicht deterministisch sind. Deren Ergebnis ist also nicht kontrollierbar. Unternehmen wie z.B. Facebook verwenden allerdings eine Vielzahl von Deep Learning Algorithmen und verlieren zunehmend die Kontrolle über deren Entscheidungen. Im Folgenden 6-minütigen Video wird das schön dargestellt:
 
 <a href="https://peertube.social/videos/watch/e8870cad-0170-4bcf-b785-e4a3a4e87cfc" target="_blank" rel="noopener"><img class="alignnone wp-image-1540 size-full" src="https://bitleaf.de/wp-content/uploads/2018/07/peertube-guy-verhofstadt-zuckerberg-1.png" alt="" width="888" height="494" /></a>
 
 Was können wir also tun? Die Produkte von Facebook &amp; Co nicht oder möglichst wenig nutzen. Das reduziert - wenn auch sehr sehr geringfügig - die Nachfrage nach deren Produkten und damit (hoffentlich irgendwann einmal) ihre Daseinsberechtigung.
 
-Lasst uns also <strong>Verantwortung für unsere Zukunft</strong> übernehmen, indem wir Produkte nutzen, die unsere Daten respektieren.
+Lasst uns also Verantwortung für unsere Zukunft übernehmen, indem wir Produkte nutzen, die unsere Daten respektieren.
 <h3>Was muss eine gute Suchmaschine bieten?</h3>
 Wie immer bei der Suche nach bestimmten Produkten müssen initial Anforderungen erstellt werden. Die folgende Liste beinhaltet aus meiner Sicht die wichtigsten Anforderungen für eine gute Suchmaschine:
 <ul>
@@ -50,9 +50,9 @@ Der Hersteller ist also überzeugt, dass Werbung, die im Zusammenhang mit dem Su
 
 Für die, die zum Schutz der Privatsphäre JavaScript im Browser deaktiviert haben, bietet Qwant eine "Lite"-Variante an.
 
-Eine der Anforderungen erfüllt Qwant nicht vollständig: <strong>Teile der Suchergebnisse werden durch die Suchmaschine von Microsoft, i.e. "Bing", ergänzt</strong>. Qwant indiziert (i.e. durchsucht) das Internet selbst, allerdings klappt das offenbar noch nicht zu 100% ausreichend gut. Wie hoch dieser ergänzte Anteil ist, ist nicht bekannt. Langfristig will Qwant von Bing natürlich wegkommen.
+Eine der Anforderungen erfüllt Qwant nicht vollständig: Teile der Suchergebnisse werden durch die Suchmaschine von Microsoft, i.e. "Bing", ergänzt. Qwant indiziert (i.e. durchsucht) das Internet selbst, allerdings klappt das offenbar noch nicht zu 100% ausreichend gut. Wie hoch dieser ergänzte Anteil ist, ist nicht bekannt. Langfristig will Qwant von Bing natürlich wegkommen.
 
-<strong>Zusammenfassend ist Qwant die Suchmaschine, die die oben aufgestellten Anforderungen am besten erfüllen kann - trotz seiner aktuellen Teil-Abhängigkeit zu Bing.</strong>
+Zusammenfassend ist Qwant die Suchmaschine, die die oben aufgestellten Anforderungen am besten erfüllen kann - trotz seiner aktuellen Teil-Abhängigkeit zu Bing.
 <h3>Andere Meinungen zu Qwant</h3>
 Der prominente Blogger und IT-Sicherheits-Spezialist <a href="https://www.kuketz-blog.de/suchmaschine-qwant-naeher-betrachtet/">Mike Kuketz</a> hält Qwant ebenso für eine der besten Lösungen für Normal-Anwender.
 
@@ -66,10 +66,10 @@ Optional empfehle ich noch, beim Öffnen eines neuen Fensters oder Tabs eine lee
 
 <img class="alignnone wp-image-1547 size-full" src="https://bitleaf.de/wp-content/uploads/2018/07/Bildschirmfoto-vom-2018-07-15-02-30-30-arrow.png" alt="" width="969" height="430" />
 <h3>Was ist mit Suchmaschine...?</h3>
-<strong><a href="https://duckduckgo.com/">...DuckDuckGo</a>: </strong><a href="https://de.wikipedia.org/wiki/DuckDuckGo">Hauptsitz in den USA</a>, erfüllt damit eine der Anforderungen nicht.
+<a href="https://duckduckgo.com/">...DuckDuckGo</a><strong>: </strong><a href="https://de.wikipedia.org/wiki/DuckDuckGo">Hauptsitz in den USA</a>, erfüllt damit eine der Anforderungen nicht.
 
-<strong><a href="https://www.startpage.com/">...Startpage,</a> <a href="https://metager.de/">Metager,</a> <a href="https://www.unbubble.eu/">UnBubble</a>, <a href="http://searx.me">Searx.me</a>, <a href="https://www.ecosia.org/">Ecosia</a>:</strong> Diese sog. "Meta-Suchmaschinen" aggregieren die Suchergebnisse von einer oder mehreren der großen Suchmaschinen und zeigen diese an. Personenbezogene Daten werden dadurch angeblich nicht übertragen. Problematisch ist, dass deren Nutzung die Nachfrage nach den großen Suchmaschinen erhöht und zudem <a href="https://github.com/nylira/prism-break/issues/168">trotzdem personenbezogene Daten weitergereicht</a> werden.
+<a href="https://www.startpage.com/">...Startpage,</a> <a href="https://metager.de/">Metager,</a> <a href="https://www.unbubble.eu/">UnBubble</a>, <a href="http://searx.me">Searx.me</a>, <a href="https://www.ecosia.org/">Ecosia</a>: Diese sog. "Meta-Suchmaschinen" aggregieren die Suchergebnisse von einer oder mehreren der großen Suchmaschinen und zeigen diese an. Personenbezogene Daten werden dadurch angeblich nicht übertragen. Problematisch ist, dass deren Nutzung die Nachfrage nach den großen Suchmaschinen erhöht und zudem <a href="https://github.com/nylira/prism-break/issues/168">trotzdem personenbezogene Daten weitergereicht</a> werden.
 
-<strong>...Ixquick</strong>: Existiert nicht mehr als eigenständige Suchmaschine, <a href="https://en.wikipedia.org/wiki/Ixquick#Startpage.com">wurde mit dem anderen Produkt des Herstellers Startpage zusammengelegt</a>.
+...Ixquick: Existiert nicht mehr als eigenständige Suchmaschine, <a href="https://en.wikipedia.org/wiki/Ixquick#Startpage.com">wurde mit dem anderen Produkt des Herstellers Startpage zusammengelegt</a>.
 <h3>Ausblick</h3>
 Qwant will in Europa einen Marktanteil von 5 bis 10 Prozent erreichen. In Frankreich sind es schon heute 5 Prozent (<a href="https://www.heise.de/newsticker/meldung/Suchmaschine-Qwant-Neues-Design-zum-5-Geburtstag-4103431.html">Quelle</a>). Lasst uns Qwant nutzen, damit dieses Ziel schneller erreicht wird.
