@@ -66,7 +66,7 @@ Optional empfehle ich noch, beim Öffnen eines neuen Fensters oder Tabs eine lee
 
 <img class="alignnone wp-image-1547 size-full" src="https://bitleaf.de/wp-content/uploads/2018/07/Bildschirmfoto-vom-2018-07-15-02-30-30-arrow.png" alt="" width="969" height="430" />
 
-<strong>Chrome</strong>: Wie auch in Firefox muss das Add-On von Qwant installiert werden. Das Add-On von <a href="https://chrome.google.com/webstore/detail/qwant-for-chrome/hnlkiofnhhoahaiimdicppgemmmomijo">hier</a> installieren - fertig. Wird Qwant ohne dieses Add-On installiert, wird diese Einstellung nach einem Neustart von Chrome wieder entfernt sein.
+<strong>Chrome</strong>: Wie auch in Firefox muss das <a href="https://chrome.google.com/webstore/detail/qwant-for-chrome/hnlkiofnhhoahaiimdicppgemmmomijo">Add-On von Qwant</a> installiert werden - fertig. Wird Qwant ohne dieses Add-On als Suchmaschine eingestellt, wird diese Einstellung nach einem Neustart von Chrome wieder entfernt sein.
 <h3>Was ist mit anderen Suchmaschinen?</h3>
 <a href="https://duckduckgo.com/">DuckDuckGo</a><strong>: </strong><a href="https://de.wikipedia.org/wiki/DuckDuckGo">Hauptsitz in den USA</a>, erfüllt damit eine der Anforderungen nicht.
 
