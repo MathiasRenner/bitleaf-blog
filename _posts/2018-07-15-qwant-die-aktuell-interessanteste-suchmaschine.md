@@ -65,12 +65,12 @@ Für Firefox muss dieses <a href="https://addons.mozilla.org/de/firefox/addon/qw
 Optional empfehle ich noch, beim Öffnen eines neuen Fensters oder Tabs eine leere Seite einzustellen. Dazu in der Adresszeile in Firefox das hier eingeben und "Enter" drücken: <em>about:preferences#home </em>. Danach folgende Option wie hier dargestellt auswählen:
 
 <img class="alignnone wp-image-1547 size-full" src="https://bitleaf.de/wp-content/uploads/2018/07/Bildschirmfoto-vom-2018-07-15-02-30-30-arrow.png" alt="" width="969" height="430" />
-<h3>Was ist mit Suchmaschine...?</h3>
-<a href="https://duckduckgo.com/">...DuckDuckGo</a><strong>: </strong><a href="https://de.wikipedia.org/wiki/DuckDuckGo">Hauptsitz in den USA</a>, erfüllt damit eine der Anforderungen nicht.
+<h3>Was ist mit anderen Suchmaschinen?</h3>
+<a href="https://duckduckgo.com/">DuckDuckGo</a><strong>: </strong><a href="https://de.wikipedia.org/wiki/DuckDuckGo">Hauptsitz in den USA</a>, erfüllt damit eine der Anforderungen nicht.
 
-<a href="https://www.startpage.com/">...Startpage,</a> <a href="https://metager.de/">Metager,</a> <a href="https://www.unbubble.eu/">UnBubble</a>, <a href="http://searx.me">Searx.me</a>, <a href="https://www.ecosia.org/">Ecosia</a>, <a href="https://www.etools.ch/">Etools</a> etc.: Diese sog. "Meta-Suchmaschinen" aggregieren die Suchergebnisse von einer oder mehreren der großen Suchmaschinen und zeigen diese an. Personenbezogene Daten werden dadurch angeblich nicht übertragen. Problematisch ist, dass deren Nutzung die Nachfrage nach den großen Suchmaschinen erhöht und zudem <a href="https://github.com/nylira/prism-break/issues/168">trotzdem personenbezogene Daten weitergereicht</a> werden.
+<a href="https://www.startpage.com/">Startpage,</a> <a href="https://metager.de/">Metager,</a> <a href="https://www.unbubble.eu/">UnBubble</a>, <a href="http://searx.me">Searx.me</a>, <a href="https://www.ecosia.org/">Ecosia</a>, <a href="https://www.etools.ch/">Etools</a> etc.: Diese sog. "Meta-Suchmaschinen" aggregieren die Suchergebnisse von einer oder mehreren der großen Suchmaschinen und zeigen diese an. Personenbezogene Daten werden dadurch angeblich nicht übertragen. Problematisch ist, dass deren Nutzung die Nachfrage nach den großen Suchmaschinen erhöht und zudem <a href="https://github.com/nylira/prism-break/issues/168">trotzdem personenbezogene Daten weitergereicht</a> werden.
 
-...Ixquick: Existiert nicht mehr als eigenständige Suchmaschine, <a href="https://en.wikipedia.org/wiki/Ixquick#Startpage.com">wurde mit dem anderen Produkt des Herstellers Startpage zusammengelegt</a>.
+Ixquick: Existiert nicht mehr als eigenständige Suchmaschine, <a href="https://en.wikipedia.org/wiki/Ixquick#Startpage.com">wurde mit dem anderen Produkt des Herstellers Startpage zusammengelegt</a>.
 <h3>Ausblick</h3>
 Qwant will in Europa einen Marktanteil von 5 bis 10 Prozent erreichen. In Frankreich sind es schon heute 5 Prozent (<a href="https://www.heise.de/newsticker/meldung/Suchmaschine-Qwant-Neues-Design-zum-5-Geburtstag-4103431.html">Quelle</a>). Lasst uns Qwant nutzen, damit dieses Ziel schneller erreicht wird.
 
