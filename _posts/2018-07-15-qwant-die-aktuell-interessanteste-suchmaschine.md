@@ -77,5 +77,3 @@ Qwant will in Europa einen Marktanteil von 5 bis 10 Prozent erreichen. In Frankr
 &nbsp;
 
 p.s. Ich erhalte von keiner Suchmaschine oder irgendeinem der hier erwähnten Unternehmen oder Personen eine finanzielle Förderung.
-
-&nbsp;
