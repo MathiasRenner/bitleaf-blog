@@ -73,3 +73,9 @@ Optional empfehle ich noch, beim Öffnen eines neuen Fensters oder Tabs eine lee
 ...Ixquick: Existiert nicht mehr als eigenständige Suchmaschine, <a href="https://en.wikipedia.org/wiki/Ixquick#Startpage.com">wurde mit dem anderen Produkt des Herstellers Startpage zusammengelegt</a>.
 <h3>Ausblick</h3>
 Qwant will in Europa einen Marktanteil von 5 bis 10 Prozent erreichen. In Frankreich sind es schon heute 5 Prozent (<a href="https://www.heise.de/newsticker/meldung/Suchmaschine-Qwant-Neues-Design-zum-5-Geburtstag-4103431.html">Quelle</a>). Lasst uns Qwant nutzen, damit dieses Ziel schneller erreicht wird.
+
+&nbsp;
+
+p.s. Ich erhalte von keiner Suchmaschine oder irgendeinem der hier erwähnten Unternehmen oder Personen eine finanzielle Förderung.
+
+&nbsp;
