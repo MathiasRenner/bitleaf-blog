@@ -52,7 +52,7 @@ Für die, die zum Schutz der Privatsphäre JavaScript im Browser deaktiviert hab
 
 Eine der Anforderungen erfüllt Qwant nicht vollständig: Teile der Suchergebnisse werden durch die Suchmaschine von Microsoft, i.e. "Bing", ergänzt. Qwant indiziert (i.e. durchsucht) das Internet selbst, allerdings klappt das offenbar noch nicht zu 100% ausreichend gut. Wie hoch dieser ergänzte Anteil ist, ist nicht bekannt. Langfristig will Qwant von Bing natürlich wegkommen.
 
-Zusammenfassend ist Qwant die Suchmaschine, die die oben aufgestellten Anforderungen am besten erfüllen kann - trotz seiner aktuellen Teil-Abhängigkeit zu Bing.
+<strong>Zusammenfassend ist Qwant die Suchmaschine, die die oben aufgestellten Anforderungen am besten erfüllen kann - trotz seiner aktuellen Teil-Abhängigkeit zu Bing.</strong>
 <h3>Andere Meinungen zu Qwant</h3>
 Der prominente Blogger und IT-Sicherheits-Spezialist <a href="https://www.kuketz-blog.de/suchmaschine-qwant-naeher-betrachtet/">Mike Kuketz</a> hält Qwant ebenso für eine der besten Lösungen für Normal-Anwender.
 
