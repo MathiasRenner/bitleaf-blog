@@ -60,17 +60,23 @@ Kritiker bemängeln die Beteilung von Axel Springer SE mit 20 % an Qwant. Die St
 
 Zudem erwähnen Kritiker, dass die Legislative Frankreichs seit vielen Jahren im Europa-Vergleich eher <a id="install-qwant" href="https://www.heise.de/forum/heise-online/News-Kommentare/Suchmaschine-Qwant-Neues-Design-zum-5-Geburtstag/Re-Geschaeftsmodell-und-Vorratsdatenspeicherung/posting-32657288/show/">pro Überwachung statt pro Datenschutz</a> ausgerichtet ist. Ein Beispiel ist die Vorratsdatenspeicherung. Aus meiner Sicht ist mit der DSGVO europaweit ein einheitlicher Standard gelegt worden, der viele Datenschutz-Themen europaweit gleich behandeln lässt.
 <h3>Wie installiere ich Qwant?</h3>
-Für Firefox muss dieses <a href="https://addons.mozilla.org/de/firefox/addon/qwantcom-for-firefox/">Addon</a> installiert werden - fertig. Ich habe keine Möglichkeit gefunden, die Suchmaschine ohne diese Erweiterung zu installieren.
+<strong>Firefox</strong>: Dieses <a href="https://addons.mozilla.org/de/firefox/addon/qwantcom-for-firefox/">Addon</a> installieren - fertig. Ich habe keine Möglichkeit gefunden, die Suchmaschine ohne diese Erweiterung zu installieren.
 
-Optional empfehle ich noch, beim Öffnen eines neuen Fensters oder Tabs eine leere Seite einzustellen. Dazu in der Adresszeile in Firefox das hier eingeben und "Enter" drücken: <em>about:preferences#home </em>. Danach folgende Option wie hier dargestellt auswählen:
+Optional empfehle ich noch, beim Öffnen eines neuen Fensters oder Tabs eine leere Seite einzustellen. Dadurch werden unnötige Informationen nicht angezeigt, und der Browser agiert etwas schneller. sfDazu in der Adresszeile in Firefox das hier eingeben und "Enter" drücken: <em>about:preferences#home </em>. Danach folgende Option wie hier dargestellt auswählen:
 
 <img class="alignnone wp-image-1547 size-full" src="https://bitleaf.de/wp-content/uploads/2018/07/Bildschirmfoto-vom-2018-07-15-02-30-30-arrow.png" alt="" width="969" height="430" />
+
+<strong>Chrome</strong>: Wie auch in Firefox muss das Add-On von Qwant installiert werden. Das Add-On von <a href="https://chrome.google.com/webstore/detail/qwant-for-chrome/hnlkiofnhhoahaiimdicppgemmmomijo">hier</a> installieren - fertig. Wird Qwant ohne dieses Add-On installiert, wird diese Einstellung nach einem Neustart von Chrome wieder entfernt sein.
+
+&nbsp;
 <h3>Was ist mit anderen Suchmaschinen?</h3>
 <a href="https://duckduckgo.com/">DuckDuckGo</a><strong>: </strong><a href="https://de.wikipedia.org/wiki/DuckDuckGo">Hauptsitz in den USA</a>, erfüllt damit eine der Anforderungen nicht.
 
 <a href="https://www.startpage.com/">Startpage,</a> <a href="https://metager.de/">Metager,</a> <a href="https://www.unbubble.eu/">UnBubble</a>, <a href="http://searx.me">Searx.me</a>, <a href="https://www.ecosia.org/">Ecosia</a>, <a href="https://www.etools.ch/">Etools</a> etc.: Diese sog. "Meta-Suchmaschinen" aggregieren die Suchergebnisse von einer oder mehreren der großen Suchmaschinen und zeigen diese an. Personenbezogene Daten werden dadurch angeblich nicht übertragen. Problematisch ist, dass deren Nutzung die Nachfrage nach den großen Suchmaschinen erhöht und zudem <a href="https://github.com/nylira/prism-break/issues/168">trotzdem personenbezogene Daten weitergereicht</a> werden.
 
 Ixquick: Existiert nicht mehr als eigenständige Suchmaschine, <a href="https://en.wikipedia.org/wiki/Ixquick#Startpage.com">wurde mit dem anderen Produkt des Herstellers Startpage zusammengelegt</a>.
+
+&nbsp;
 <h3>Ausblick</h3>
 Qwant will in Europa einen Marktanteil von 5 bis 10 Prozent erreichen. In Frankreich sind es schon heute 5 Prozent (<a href="https://www.heise.de/newsticker/meldung/Suchmaschine-Qwant-Neues-Design-zum-5-Geburtstag-4103431.html">Quelle</a>). Lasst uns Qwant nutzen, damit dieses Ziel schneller erreicht wird.
 
