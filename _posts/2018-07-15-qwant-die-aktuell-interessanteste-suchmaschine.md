@@ -62,7 +62,7 @@ Zudem erwähnen Kritiker, dass die Legislative Frankreichs seit vielen Jahren im
 <h3>Wie installiere ich Qwant?</h3>
 <strong>Firefox</strong>: Dieses <a href="https://addons.mozilla.org/de/firefox/addon/qwantcom-for-firefox/">Addon</a> installieren - fertig. Ich habe keine Möglichkeit gefunden, die Suchmaschine ohne diese Erweiterung zu installieren.
 
-Optional empfehle ich noch, beim Öffnen eines neuen Fensters oder Tabs eine leere Seite einzustellen. Dadurch werden unnötige Informationen nicht angezeigt, und der Browser agiert etwas schneller. sfDazu in der Adresszeile in Firefox das hier eingeben und "Enter" drücken: <em>about:preferences#home </em>. Danach folgende Option wie hier dargestellt auswählen:
+Optional empfehle ich noch, beim Öffnen eines neuen Fensters oder Tabs eine leere Seite einzustellen. Dadurch werden unnötige Informationen nicht angezeigt, und der Browser agiert etwas schneller. Dazu in der Adresszeile in Firefox das hier eingeben und "Enter" drücken: <em>about:preferences#home </em>. Danach folgende Option wie hier dargestellt auswählen:
 
 <img class="alignnone wp-image-1547 size-full" src="https://bitleaf.de/wp-content/uploads/2018/07/Bildschirmfoto-vom-2018-07-15-02-30-30-arrow.png" alt="" width="969" height="430" />
 
