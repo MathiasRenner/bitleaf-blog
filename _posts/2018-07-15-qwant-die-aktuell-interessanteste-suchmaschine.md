@@ -42,7 +42,7 @@ Ich beschränke mich durch die letzte Anforderung bewusst auf leicht verwendbare
 Die fünf Jahre junge Suchmaschine <a href="https://www.qwant.com/">Qwant</a> erfüllt Anforderungen zu einem sehr hohen Grad:
 <ul>
  	<li>Der Hersteller sitzt in Paris.</li>
- 	<li>die Ergebnisse sind in den Meisten Fällen ausreichend gut und werden schnell beantwortet.</li>
+ 	<li>Die Ergebnisse sind in den Meisten Fällen ausreichend gut und werden schnell beantwortet.</li>
  	<li>Qwant kann ähnlich wie Google als Dienst von Jedermann/-Frau verwendet werden, auch ohne weitere IT-Kenntnisse.</li>
  	<li>"Qwant sammelt keine Personendaten und dies wird sich niemals ändern." (<a href="https://help.qwant.com/de/help/overview/wie-verdient-qwant-geld/">Quelle</a>, <a href="https://about.qwant.com/de/rechtlich/nutzungsbedingungen/qwant-search/">Weitere Details der Datenschutzerklärung</a>)</li>
 </ul>
