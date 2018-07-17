@@ -11,9 +11,7 @@ post_date: 2018-07-15 11:59:23
 ---
 Die Suchmaschine Qwant bietet aktuell den besten Mix aus guten Suchergebnissen, hohem Datenschutz und Verwendbarkeit ohne weitere IT-Kenntnisse.
 <!--more-->
-
-<a href="https://bitleaf.de/2018/07/17/qwant-the-most-interesting-search-engine-today/">-&gt; English version of this article</a>
-
+<p style="text-align: center;"><a href="https://bitleaf.de/2018/07/17/qwant-the-most-interesting-search-engine-today/">-&gt; English version of this article</a></p>
 <strong>Hinweis</strong>: Wer die Argumentation für Qwant überspringen möchte, findet <a href="https://bitleaf.de/?p=1513#install-qwant">in diesem Abschnitt</a> die Installationsanleitung für Qwant (ein einziger Schritt).
 <h3>Warum nicht einfach Google?</h3>
 Suchmaschinen gehören zu den Software-Lösungen, die die Meisten von uns jeden Tag vielfach verwenden. Eine "gute" Suchmaschine zu verwenden, sollte also eine relativ hohe Priorität haben.
