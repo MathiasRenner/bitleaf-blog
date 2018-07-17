@@ -13,7 +13,7 @@ The search engine Qwant currently offers the best mix of good search results, hi
 
 <!--more-->
 
-<strong>Note</strong>: If you want to skip the argumentation for Qwant, this section contains the installation instructions for Qwant (a single step).
+<a href="https://bitleaf.de/2018/07/15/qwant-die-aktuell-interessanteste-suchmaschine/">-&gt; Deutsche Version des Artikels</a>
 <h3>Why not just Google?</h3>
 Search engines are among the software solutions that most of us use on a daily basis. Using a "good" search engine should therefore have a relatively high priority.
 
@@ -61,7 +61,7 @@ Critics criticize Axel Springer SE's 20 % stake in Qwant. However, Springer's st
 
 Critics also mention that for many years the French legislature has been oriented more towards surveillance than data protection in a European comparison. One example is data retention. In my view, the DSGVO has set a uniform standard throughout Europe, which allows many data protection issues to be treated equally throughout Europe.
 <h3>How do I install Qwant?</h3>
-<strong>Firefox</strong>: Install <a id="install-qwant" href="https://addons.mozilla.org/en/firefox/addon/qwantcom-for-firefox/">this addon</a> - done. I have not found a way to install the search engine without this extension.
+<strong>Firefox</strong>: Install <a href="https://addons.mozilla.org/en/firefox/addon/qwantcom-for-firefox/">this addon</a> - done. I have not found a way to install the search engine without this extension.
 
 Optionally, I recommend setting a blank page when opening a new window or tab. This means that unnecessary information is not displayed and the browser reacts somewhat faster. To do this, enter the following in the address bar in Firefox and press "Enter": about:preferences#home . Then select the following option as shown here:
 
