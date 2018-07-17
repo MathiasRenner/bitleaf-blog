@@ -59,21 +59,22 @@ The prominent blogger and IT security specialist <a href="https://www.kuketz-blo
 
 Critics are skeptical about Axel Springer SE's 20 % stake in Qwant. However, Springer's strategy is not subject to any functional restrictions and is understandable. Similar to other holdings such as VG Media, Springer is trying to reduce Google's market share and is placing its hopes on Qwant.
 
-Critics also mention that for many years the French legislature has been oriented more towards surveillance than data protection in a European comparison. One example is data retention. In my view, the GDPR introduced a high and uniform standard for data protection throughout Europe.
+Critics also mention that for many years the French legislature has been oriented more towards surveillance than data protection in a European comparison. One example is data retention. In my view, in May 2018 the GDPR introduced a high and uniform standard for data protection throughout Europe, which to me is sufficient.
 <h3>How do I install Qwant?</h3>
-<strong>Firefox</strong>: Install <a href="https://addons.mozilla.org/en/firefox/addon/qwantcom-for-firefox/">this addon</a> - done. I have not found a way to install the search engine without this extension.
+<strong>Firefox</strong>: Install <a href="https://addons.mozilla.org/en/firefox/addon/qwantcom-for-firefox/">this addon</a> - that's it. I have not found a way to install the search engine without this extension.
 
-Optionally, I recommend setting a blank page when opening a new window or tab. This means that unnecessary information is not displayed and the browser reacts somewhat faster. To do this, enter the following in the address bar in Firefox and press "Enter": about:preferences#home . Then select the following option as shown here:
+Optionally, I recommend setting a blank page when opening a new window or tab. By that unnecessary information is not displayed and the browser reacts somewhat faster. To do this, enter the following characters in the address bar in Firefox and press "Enter":<em> about:preferences#home</em> . Further down on the page, you see the the option to configure behavior when opening a new window or tab.
 
-<strong>Chrome</strong>: As in Firefox, the <a href="https://chrome.google.com/webstore/detail/qwant-for-chrome/hnlkiofnhhoahaiimdicppgemmmomijo">Qwant add-o</a>n must be installed - done. If Qwant is set as search engine without this add-on, this setting will be removed after a restart of Chrome.
+<strong>Chrome</strong>: As in Firefox, the <a href="https://chrome.google.com/webstore/detail/qwant-for-chrome/hnlkiofnhhoahaiimdicppgemmmomijo">Qwant add-o</a>n must be installed - that's it. If Qwant is set as search engine without this add-on, this setting will be removed after a restart of Chrome.
 <h3>What about other search engines?</h3>
 <a href="https://duckduckgo.com/">DuckDuckGo</a>: <a href="https://en.wikipedia.org/wiki/DuckDuckGo">Headquarters in the USA</a>. As a result, DuckDuckGo does not meet one of the requirements.
 
 <a href="https://www.startpage.com/">Startpage</a>, <a href="https://metager.de/">Metager</a>, <a href="https://www.unbubble.eu/">UnBubble</a>, <a href="http://searx.me">Searx.me</a>, <a href="https://www.ecosia.org/">Ecosia</a>, <a href="https://www.etools.ch/search.do">Etools</a> etc.: These so-called "meta search engines" aggregate and display the search results of one or more of the major search engines. Personal data are allegedly not transferred as a result. The problem is that their use increases the demand for the major search engines and yet <a href="https://github.com/nylira/prism-break/issues/168">personal data is still passed on</a>.
 
-Ixquick: Does not exist as an independent search engine anymore, <a href="https://en.wikipedia.org/wiki/Ixquick#Startpage.com">was merged with the other product of the manufacturer Startpage</a>.
-vista
-
+Ixquick: Does not exist as an independent search engine anymore. It <a href="https://en.wikipedia.org/wiki/Ixquick#Startpage.com">was merged with Startpage.com</a>.
+<h3>Prospects</h3>
 Qwant aims to achieve a market share of 5 to 10 percent in Europe. In France, the figure is already 5 percent (source). Let us use Qwant to achieve this goal more quickly.
+
+&nbsp;
 
 p.s. I do not receive financial support from any search engine or any of the companies or persons mentioned in this article.
