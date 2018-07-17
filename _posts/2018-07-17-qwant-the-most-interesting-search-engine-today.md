@@ -12,31 +12,31 @@ post_date: 2018-07-17 21:10:58
 The search engine Qwant currently offers the best mix of good search results, high data protection and usability without further IT knowledge.
 
 <!--more-->
+<p style="text-align: center;"><a href="https://bitleaf.de/2018/07/15/qwant-die-aktuell-interessanteste-suchmaschine/">-&gt; Deutsche Version des Artikels</a></p>
 
-<a href="https://bitleaf.de/2018/07/15/qwant-die-aktuell-interessanteste-suchmaschine/">-&gt; Deutsche Version des Artikels</a>
 <h3>Why not just Google?</h3>
 Search engines are among the software solutions that most of us use on a daily basis. Using a "good" search engine should therefore have a relatively high priority.
 
-For me, the global market leader Google is not one of the "good" solutions for several reasons. The more companies like Google or its parent company Alphabet, whose business model is based on data and analysis and which at the same time tramples the privacy of users, the more we citizens lose control of our decisions and ultimately of our society. The result is wonderfully described by Mark-Uwe Kling in his book Qualityland, which presents the negative effects of a strongly data-driven society in a funny and understandable form. Similar works are <a href="https://en.wikipedia.org/wiki/Nineteen_Eighty-Four">George Orwell's 1984</a> or <a href="https://en.wikipedia.org/wiki/The_Circle_(Eggers_novel)">The Circle</a>.
+For me, the global market leader Google is not one of the "good" solutions for several reasons. The more companies like Google or its parent company Alphabet, whose business model is based on data and data analysis and which at the same time tramples the privacy of users, the more we citizens lose control of our decisions and ultimately of our society. The result is wonderfully described by Mark-Uwe Kling in his book <em>Qualityland</em>, which presents the negative effects of a strongly data-driven society in a funny and understandable form (unfortunately, available in german only). Similar works are <a href="https://en.wikipedia.org/wiki/Nineteen_Eighty-Four">George Orwell's 1984</a> or <a href="https://en.wikipedia.org/wiki/The_Circle_(Eggers_novel)">The Circle</a>.
 
-Parts of these dystopias are already a reality today. Algorithms increasingly successfully influence our opinions and decisions, e.g. by advertising products or political parties. More and more algorithms are also being used in life-critical areas, such as medical decisions by doctors. Controlled automation is generally good, but the algorithms of deep learning frequently used today and in the future belong to the class that are not deterministic, i.e. whose results are not always clear and difficult to control. Companies such as Facebook use a variety of deep learning algorithms and are increasingly losing control of their decisions. In the following 6-minute video, this is presented to Mark Zuckerberg in a beautiful way:
+Parts of these dystopias are already a reality today. Algorithms increasingly successfully influence our opinions and decisions, e.g. by advertising products or political parties. More and more algorithms are also being used in life-critical areas, such as for supporting medical decisions by doctors. Controlled automation is generally good, but the algorithms of <em>deep learning</em> that are frequently used today and will so in the future belong to the class of non-deterministic algorithms, i.e. whose results are not always clear and difficult to control. Companies such as Facebook use a variety of deep learning algorithms and are increasingly losing control of their decisions. In the following 6-minute video, this fact is presented to Mark Zuckerberg in a beautiful way:
 
 <a href="https://peertube.social/videos/watch/e8870cad-0170-4bcf-b785-e4a3a4e87cfc" target="_blank" rel="noopener"><img class="alignnone wp-image-1540 size-full" src="https://bitleaf.de/wp-content/uploads/2018/07/peertube-guy-verhofstadt-zuckerberg-1.png" alt="" width="888" height="494" /></a>
 
-So what can we do? Do not use Facebook &amp; Co products or use them as little as possible. This reduces - albeit very slightly - the demand for their products and thus (hopefully at some point) their reason for existence.
+So what can we do? Do not use products by Facebook &amp; Co or use them as little as possible. This reduces - albeit very slightly - the demand for their products and thus (hopefully at some point) their legitimacy.
 
 So let us take responsibility for our future by using products that respect our data.
 <h3>What must a good search engine offer?</h3>
 As always when searching for specific products, initial requirements must be created. In my opinion, the following list contains the most important requirements for a good search engine:
 <ul>
  	<li>Sufficiently good results in at least 80% of the search queries</li>
- 	<li>Request response time low, less than 2-3 seconds</li>
- 	<li>No user tracking, i.e. no collection of personal data from search engine pages</li>
+ 	<li>Low request response time, less than 2-3 seconds</li>
+ 	<li>No user tracking, i.e. no collection of personal data by the search engine</li>
  	<li>The company is headquartered within the EU, especially not in the USA, where all companies are subject to the <a href="https://en.wikipedia.org/wiki/Patriot_Act">Patriot Act</a>, which - to put it simply - gives secret services access to user data.</li>
- 	<li>All search engine servers within the EU - data do not leave the EU and are subject to the <a href="https://en.wikipedia.org/wiki/General_Data_Protection_Regulation">GDPR</a></li>
+ 	<li>All servers are located within the EU - data do not leave the EU and are subject to the <a href="https://en.wikipedia.org/wiki/General_Data_Protection_Regulation">GDPR</a></li>
  	<li>Usability for everyone, even without further IT knowledge</li>
 </ul>
-I deliberately limit myself to easy-to-use search engines that do not need to be hosted by myself. Otherwise, I'd rule out too many non-ITers. I also exclude the use of search engines via the <a href="https://en.wikipedia.org/wiki/Tor_(anonymity_network)">anonymization network Tor</a>.
+I deliberately limit the set of possible solutions to easy-to-use search engines that do not require self-hosting. Otherwise, I'd rule out too many non-IT users. Thus, I also exclude the use of search engines via the <a href="https://en.wikipedia.org/wiki/Tor_(anonymity_network)">anonymization network Tor</a>.
 <h3>Best solution: Qwant</h3>
 <img class="size-medium wp-image-1543 aligncenter" src="https://bitleaf.de/wp-content/uploads/2018/07/qwant-logo-1-276x300.png" alt="" width="276" height="300" />
 
