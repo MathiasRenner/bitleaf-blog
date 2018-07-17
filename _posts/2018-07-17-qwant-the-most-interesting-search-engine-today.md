@@ -40,26 +40,26 @@ I deliberately limit the set of possible solutions to easy-to-use search engines
 <h3>Best solution: Qwant</h3>
 <img class="size-medium wp-image-1543 aligncenter" src="https://bitleaf.de/wp-content/uploads/2018/07/qwant-logo-1-276x300.png" alt="" width="276" height="300" />
 
-The five-year-old search engine <a href="https://www.qwant.com/">Qwant</a> meets requirements to a very high degree:
+The five-year-old search engine <a href="https://www.qwant.com/">Qwant</a> meets the requirements stated above to a very high degree:
 <ul>
  	<li>The manufacturer is based in Paris.</li>
- 	<li>the results are usually good enough and will be answered quickly.</li>
- 	<li>Qwant can be used as a service by everyone, similar to Google, even without further IT knowledge.</li>
+ 	<li>The results are usually good enough and answered quickly.</li>
+ 	<li>Qwant can be used as a service by everyone, similar to Google, without further IT knowledge.</li>
  	<li>"Qwant does not collect personal information and this will never change." (<a href="https://help.qwant.com/help/overview/how-does-qwant-make-money/">Source</a>, <a href="https://about.qwant.com/legal/terms-of-service/qwant-search/">Further details of the data protection declaration</a>)</li>
 </ul>
-The manufacturer is therefore convinced that advertising that is displayed in connection with the search term is interesting enough for the user.
+The manufacturer is obivously convinced that advertising that is displayed in connection with the search term is interesting enough for the user.
 
 For those who have disabled JavaScript in their browser to protect their privacy, Qwant offers a "Lite" variant.
 
-One of the requirements does not fully meet Qwant: Parts of the search results are supplemented by the Microsoft search engine, i.e. "Bing". Qwant indexes (i.e. searches) the Internet itself, but this does not seem to work 100% well enough yet. How high this additional share is is not known. In the long run, of course, Qwant wants to get away from Bing.
+One of the requirements Qwant does not fully meet: Parts of the search results are supplemented by the Microsoft search engine, i.e. "Bing". Qwant indexes (i.e. searches) the Internet itself, but this does not seem to work 100% well enough yet. Unfortunately, it is not known how high this additional share is. In the long run, Qwant wants to get away from Bing of course.
 
-<strong>In summary, Qwant is the search engine that can best meet the above requirements - despite its current partial dependence on Bing.</strong>
+<strong>In summary, Qwant is the search engine that meets the requirements above best - despite its current partial dependence on Bing.</strong>
 <h3>Other opinions on Qwant</h3>
 The prominent blogger and IT security specialist <a href="https://www.kuketz-blog.de/suchmaschine-qwant-naeher-betrachtet/">Mike Kuketz</a> also considers Qwant to be one of the best solutions for normal users.
 
-Critics criticize Axel Springer SE's 20 % stake in Qwant. However, Springer's strategy is not subject to any functional restrictions and is understandable. Similar to other holdings such as VG Media, Springer is trying to reduce Google's market share and is placing its hopes on Qwant.
+Critics are skeptical about Axel Springer SE's 20 % stake in Qwant. However, Springer's strategy is not subject to any functional restrictions and is understandable. Similar to other holdings such as VG Media, Springer is trying to reduce Google's market share and is placing its hopes on Qwant.
 
-Critics also mention that for many years the French legislature has been oriented more towards surveillance than data protection in a European comparison. One example is data retention. In my view, the DSGVO has set a uniform standard throughout Europe, which allows many data protection issues to be treated equally throughout Europe.
+Critics also mention that for many years the French legislature has been oriented more towards surveillance than data protection in a European comparison. One example is data retention. In my view, the GDPR introduced a high and uniform standard for data protection throughout Europe.
 <h3>How do I install Qwant?</h3>
 <strong>Firefox</strong>: Install <a href="https://addons.mozilla.org/en/firefox/addon/qwantcom-for-firefox/">this addon</a> - done. I have not found a way to install the search engine without this extension.
 
