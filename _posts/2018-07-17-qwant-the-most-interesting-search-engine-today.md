@@ -65,7 +65,7 @@ Critics also mention that for many years the French legislature has been oriente
 
 Optionally, I recommend setting a blank page when opening a new window or tab. By that unnecessary information is not displayed and the browser reacts somewhat faster. To do this, enter the following characters in the address bar in Firefox and press "Enter":<em> about:preferences#home</em> . Further down on the page, you see the the option to configure behavior when opening a new window or tab.
 
-<strong>Chrome</strong>: As in Firefox, the <a href="https://chrome.google.com/webstore/detail/qwant-for-chrome/hnlkiofnhhoahaiimdicppgemmmomijo">Qwant add-o</a>n must be installed - that's it. If Qwant is set as search engine without this add-on, this setting will be removed after a restart of Chrome.
+<strong>Chrome</strong>: As in Firefox, the <a href="https://chrome.google.com/webstore/detail/qwant-for-chrome/hnlkiofnhhoahaiimdicppgemmmomijo">Qwant add-on</a> must be installed - that's it. If Qwant is set as search engine without this add-on, this setting will be removed after a restart of Chrome.
 <h3>What about other search engines?</h3>
 <a href="https://duckduckgo.com/">DuckDuckGo</a>: <a href="https://en.wikipedia.org/wiki/DuckDuckGo">Headquarters in the USA</a>. As a result, DuckDuckGo does not meet one of the requirements.
 
