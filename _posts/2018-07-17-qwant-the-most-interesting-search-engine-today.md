@@ -61,7 +61,7 @@ Critics are skeptical about Axel Springer SE's 20 % stake in Qwant. However, Spr
 
 Critics also mention that for many years the French legislature has been oriented more towards surveillance than data protection in a European comparison. One example is data retention. In my view, in May 2018 the GDPR introduced a high and uniform standard for data protection throughout Europe, which to me is sufficient.
 <h3>How do I install Qwant?</h3>
-<strong>Firefox</strong>: Install <a href="https://addons.mozilla.org/en/firefox/addon/qwantcom-for-firefox/">this addon</a> - that's it. I have not found a way to install the search engine without this extension.
+<strong>Firefox</strong>: Install <a href="https://addons.mozilla.org/en/firefox/addon/qwantcom-for-firefox/">this add-on</a> - that's it. I have not found a way to install the search engine without this extension.
 
 Optionally, I recommend setting a blank page when opening a new window or tab. By that unnecessary information is not displayed and the browser reacts somewhat faster. To do this, enter the following characters in the address bar in Firefox and press "Enter":<em> about:preferences#home</em> . Further down on the page, you see the the option to configure behavior when opening a new window or tab.
 
