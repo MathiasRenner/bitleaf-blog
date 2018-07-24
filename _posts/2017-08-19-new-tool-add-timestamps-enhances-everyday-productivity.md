@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-08-19 15:06:27
 ---
-Today, I am proud to share a new open source tool that I just created: It adds timestamps to files. Yes, simply, but mighty!
+Today, I am proud to share a new open source tool that I just created: It adds timestamps to files. Yes, simply, but mighty for your productivity!
 
 <!--more-->
 
