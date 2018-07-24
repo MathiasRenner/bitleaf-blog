@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2018-04-27 22:31:40
 ---
-A tool for everyone to improve Ubuntu – fully automized within just 5 Minutes!
+A tool for everyone to improve Ubuntu 18.04 – fully automized within just 5 Minutes!
 
 <!--more-->
 
