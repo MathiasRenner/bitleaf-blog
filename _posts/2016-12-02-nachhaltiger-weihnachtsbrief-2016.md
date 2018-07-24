@@ -2,14 +2,12 @@
 ID: 211
 post_title: Nachhaltiger Weihnachtsbrief 2016
 author: Mathias Renner
-post_date: 2016-12-02 21:05:21
 post_excerpt: ""
 layout: post
 permalink: >
   https://bitleaf.de/2016/12/02/nachhaltiger-weihnachtsbrief-2016/
 published: true
-sharing_disabled:
-  - 'a:1:{i:0;s:1:"1";}'
+post_date: 2016-12-02 21:05:21
 ---
 Ich möchte Dich einladen, Deine Art zu Leben zu reflektieren. Dazu empfehle ich, es Dir gemütlich zu machen und die nachfolgenden Zeilen in Ruhe auf Dich wirken zu lassen.
 
