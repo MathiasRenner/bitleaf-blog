@@ -1,6 +1,6 @@
 ---
 ID: 516
-post_title: Encrypting with GPG is fun!
+post_title: Encryption with GPG is fun!
 author: Mathias Renner
 post_excerpt: ""
 layout: post
