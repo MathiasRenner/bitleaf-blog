@@ -43,23 +43,19 @@ Ich denke, dass wir auf jeden Fall noch lange Zeit vergeht, bis ein ähnliches S
 
 Ein schönes Beispiel, wie das chinesische System bei uns aussehen könnte, wird im Folgenden Kurzvideo schön dargestellt:
 
-[caption id="attachment_1622" align="aligncenter" width="750"]<a href="https://www.youtube.com/watch?v=bqdu6tWZcmw"><img class="wp-image-1622 size-large" src="https://bitleaf.de/wp-content/uploads/2018/07/video-screenshot-thumbnail-1024x575.png" alt="Pizza Ueberwachungsstaat" width="750" height="421" /></a> Pizza-Bestellung im Überwachungssaat[/caption]
+[caption id="attachment_1622" align="aligncenter" width="750"]<a href="https://www.youtube.com/watch?v=bqdu6tWZcmw" target="_blank" rel="noopener"><img class="wp-image-1622 size-large" src="https://bitleaf.de/wp-content/uploads/2018/07/video-screenshot-thumbnail-1024x575.png" alt="Pizza Ueberwachungsstaat" width="750" height="421" /></a> Pizza-Bestellung im Überwachungssaat[/caption]
 <h3>Aber ich lasse mich doch nicht manipulieren!</h3>
 Viele Menschen sind überzeugt, dass sich niemals manipulieren lassen würden. Nach meinen bisherigen Ausführungen sollte deutlich geworden sein: Klar, denn die Manipulation findet oft außerhalb im Unbewussten statt. Wer von meinen Lesern trotzdem glaubt, er ist eine Ausnahme, möglich mal in das <a href="https://en.wikipedia.org/wiki/Predictably_Irrational">Buch "Predictably Irrational"</a> sehen. Wahrscheinlich wird er meinen Thesen nach dem Lesen zustimmen.
-<h3>Was kann ich tun?</h3>
-In meinem Konzept der "nachhaltigen IT" geht es nicht nur um Bewusstsein für materielle und energetische Ressourcen bei der Verwendung von IT, sondern auch um den langfristigen Einfluss der IT-Nutzung. Nach meinen Ausführungen in diesem Artikel sollte jedem Leser klar sein, dass Daten hier eine ganz besondere Rolle spielen.
+<h3>Was kann ich tun? "Nachhaltige IT" verwenden!</h3>
+In meinem Konzept der "nachhaltigen IT" geht es nicht nur um Bewusstsein für materielle und energetische Ressourcen bei der Verwendung von IT (<a href="https://bitleaf.de/2016/12/02/nachhaltiger-weihnachtsbrief-2016/" target="_blank" rel="noopener">blog post</a> über unseren ressourcenintensiven Lebensstil), sondern auch um den langfristigen Einfluss der IT-Nutzung. Nach meinen Ausführungen in diesem Artikel sollte jedem Leser klar sein, dass Daten hier eine ganz besondere Rolle spielen.
 
-Ich berate deswegen meine Kunden darüber, was sie selbst tun können, um nicht noch mehr Daten von sich preis zu geben und damit Meinungsmanipulation zu vereinfachen.
+Ich berate deswegen meine Kunden darüber, was sie selbst tun können, um möglichst wenig Daten von sich preis zu geben und damit Meinungsmanipulation nicht weiter zu vereinfachen.
 
-Datensourveränität ist hier das wichtigste Ziel, also die Souveränität oder Kontrolle des Nutzers über seine eigenen Daten. Durch die Nutzung von IT-Systemen, die möglichst keine Daten an deren Hersteller senden, bleibt der Nutzer der Souverän der Daten. Von diesen, meist Open-Source Systemen gibt es heute für nahezu alle Anwendungsbereiche gute Lösungen.
+Datensourveränität ist hier das wichtigste Ziel, also die Souveränität oder Kontrolle des Nutzers über seine eigenen Daten. Durch die Nutzung von IT-Systemen, die möglichst keine Daten an deren Hersteller senden, bleibt der Nutzer der Souverän der Daten. Von diesen, meist Open-Source Systemen, gibt es heute für nahezu alle Anwendungsbereiche gute Lösungen.
 
-Nutzen Sie diese Vorteile und werden Sie wieder Herr über Ihre Daten und Ihre IT! Ich zeige Ihnen u.a. einfache Möglichkeiten auf, die Edward Snowden für gut befindet.
+Es liegt nur an Ihnen. Werden Sie wieder Herr über Ihre Daten und Ihre IT! Ich zeige Ihnen u.a. einfache Möglichkeiten auf, die Edward Snowden für gut befindet. Dazu gehören z.B. <a href="https://bitleaf.de/2018/07/15/qwant-die-aktuell-interessanteste-suchmaschine/" target="_blank" rel="noopener">datenschutzfreundliche Suchmaschinen</a>, <a href="https://bitleaf.de/2017/03/25/the-all-in-one-and-secure-sync-solution-nextcloud/" target="_blank" rel="noopener">eigene Dateiablagen in der Cloud</a> und datenschutzfreundliche Betriebssysteme wie z.B. Linux. Achtung: Open source Lösungen wie das auf Linux basierende Ubuntu sind nicht automatisch datenschutzkonform, sondern benötigen noch eine <a href="https://bitleaf.de/2018/04/27/optimize-ubuntu-18-04-for-privacy-security-and-usability/" target="_blank" rel="noopener">Säuberung nach der Installation</a>. Genausowenig sind alle Ad-Blocker datenschutzfreundlich. Die Liste an empfehlenswerten Lösungen ändert sich häufig. Kommen Sie bei Fragen gerne auf mich zu, ich verfolge die aktuellen Entwicklungen täglich.
 
-Möglichkeiten: Suchmaschinen, Betriebssysteme, Software auf Smartphone etc.
-
-&nbsp;
-
-<strong>Quellen für den citizen score in China</strong>:
+<strong>Quellen für Informationen über den Citizen Score in China</strong>:
 <ul>
  	<li>https://foreignpolicy.com/2018/04/03/life-inside-chinas-social-credit-laboratory/</li>
  	<li>http://www.bento.de/politik/china-plant-mit-dem-social-credit-system-die-komplett-ueberwachung-so-soll-sie-funktionieren-1891016/</li>
