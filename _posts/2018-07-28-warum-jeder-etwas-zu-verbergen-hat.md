@@ -23,7 +23,7 @@ Wenn jemand heute der Verarbeitung seiner Daten zustimmt, werden die Daten meist
 
 [caption id="attachment_1634" align="aligncenter" width="622"]<img class="wp-image-1634 size-full" src="https://bitleaf.de/wp-content/uploads/2018/07/ads.jpg" alt="Flood of advertisements" width="622" height="497" /> Werbeflut (von <a href="https://commons.wikimedia.org/wiki/File:Advertisements,_1937,_East_Houston_Street_and_Second_Avenue,_Manhattan_(NYPL_b13668355-482775).jpg" target="_blank" rel="noopener">commons.wikipedia.com</a>)[/caption]
 <h3>Warum es um mehr als um Werbung geht</h3>
-Vereinfacht gesagt bin ich überzeugt, dass nicht nur unser Konsumverhalten, sondern auch unser Meinungsbild zunehmend durch Werbung beeinflusst wird, ohne dass uns das bewusst ist und wir es zugeben wollen.
+Vereinfacht gesagt bin ich überzeugt, dass nicht nur unser Konsumverhalten, sondern auch unser Meinungsbild zunehmend durch Werbung beeinflusst wird, ohne dass uns das bewusst ist.
 
 <strong>Gegen-These 1: Menschen können die Menge eingehender Werbung nicht mehr ausreichend kontrollieren.</strong>
 
