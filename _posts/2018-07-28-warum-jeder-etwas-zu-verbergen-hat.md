@@ -15,8 +15,15 @@ Viele Menschen sind überzeugt, dass sie nichts zu verbergen haben. Beim genauer
 <h3>Daten preisgeben heißt nur mehr Werbung?</h3>
 Wenn jemand heute der Verarbeitung seiner Daten zustimmt, werden die Daten meist für Werbung und natürlich für die Abwicklung z.B. einem Bestellvorgang beim Einkaufen verwendet. Menschen, die also viele Daten von sich preisgeben, erhalten demnach nur mehr Werbung. Das ist finden viele unproblematisch, da sie Werbung wegklicken oder blockieren können und so den Einfluss von Werbung auf ihr Kauffverhalten kontrollieren können. Das Übermitteln von Daten ist also für Viele unproblematisch. Ich halte diese Sichtweise für zu kurz gedacht.
 
-<img class="alignnone size-full wp-image-1630" style="display: none !important;" hidden="" src="https://bitleaf.de/wp-content/uploads/2018/07/ads.png" alt="" width="622" height="499" />
+<img class="wp-image-1630 size-full" style="display: none !important;" hidden="" src="https://bitleaf.de/wp-content/uploads/2018/07/ads.png" alt="test" width="622" height="499" />
 
+<img class="size-full wp-image-1630" style="display: none !important;" hidden="" src="https://bitleaf.de/wp-content/uploads/2018/07/ads.png" alt="test" width="622" height="499" />
+
+<img class="aligncenter size-full wp-image-1632" style="display: none !important;" hidden="" src="https://bitleaf.de/wp-content/uploads/2018/07/ads.png" alt="" width="622" height="499" /><img class="aligncenter size-full wp-image-1633" style="display: none !important;" hidden="" src="https://bitleaf.de/wp-content/uploads/2018/07/ads.png" alt="" width="622" height="497" />
+
+&nbsp;
+
+[caption id="attachment_1634" align="aligncenter" width="622"]<img class="wp-image-1634 size-full" src="https://bitleaf.de/wp-content/uploads/2018/07/ads.jpg" alt="Flood of advertisements" width="622" height="497" /> Flood of advertisements (source: <a href="https://commons.wikimedia.org/wiki/File:Advertisements,_1937,_East_Houston_Street_and_Second_Avenue,_Manhattan_(NYPL_b13668355-482775).jpg">commons.wikipedia.com</a>) [/caption]
 <h3>Warum es um mehr als um Werbung geht</h3>
 Vereinfacht gesagt bin ich überzeugt, dass nicht nur unser Konsumverhalten, sondern auch unser Meinungsbild zunehmend durch Werbung beeinflusst wird, ohne dass uns das bewusst ist und wir es zugeben wollen.
 
