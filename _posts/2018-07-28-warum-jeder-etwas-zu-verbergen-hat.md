@@ -13,7 +13,7 @@ Viele Menschen sind überzeugt, dass sie nichts zu verbergen haben. Beim genauer
 
 <!--more-->
 <h3>Daten preisgeben heißt nur mehr Werbung?</h3>
-Wenn jemand heute der Verarbeitung seiner Daten zustimmt, werden die Daten meist für Werbung und natürlich für die Abwicklung z.B. einem Bestellvorgang beim Einkaufen verwendet. Menschen, die also viele Daten von sich preisgeben, erhalten demnach nur mehr Werbung. Das ist finden viele unproblematisch, da sie Werbung wegklicken oder blockieren können und so den Einfluss von Werbung auf ihr Kauffverhalten kontrollieren können. Das Übermitteln von Daten ist also für Viele unproblematisch. Ich halte diese Sichtweise für zu kurz gedacht.
+Wenn jemand heute der Verarbeitung seiner Daten zustimmt, werden die Daten meist für Werbung und natürlich für die Abwicklung z.B. einem Bestellvorgang beim Einkaufen verwendet. Menschen, die also viele Daten von sich preisgeben, erhalten demnach nur mehr Werbung. Das finden viele unproblematisch, da sie Werbung wegklicken oder blockieren können und so den Einfluss von Werbung auf ihr Kauffverhalten kontrollieren können. Das Übermitteln von Daten ist also für viele unproblematisch. Ich halte diese Sichtweise für zu kurz gedacht.
 
 <img class="wp-image-1630 size-full" style="display: none !important;" hidden="" src="https://bitleaf.de/wp-content/uploads/2018/07/ads.png" alt="test" width="622" height="499" />
 
