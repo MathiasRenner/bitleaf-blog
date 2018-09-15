@@ -86,14 +86,14 @@ Findx follows an idealistic approach. They even publish their source code, which
 
 For those who have disabled JavaScript in their browser to protect their privacy Findx also works.
 
-One of the requirements Findx does not fully meet: The relevance of the results varies, and is still lacking some quality. This is because of the little size of their own independent index. At this point, Findx does not supplement its index from other sources like Qwant does with Bing.
+One of the requirements Findx does not fully meet: The relevance of the results varies is still lacking some quality. This is because of the small size of their own independent index. At this point, Findx does not supplement its index from other sources like Qwant does with Bing.
 
-If you are not happy with the results of Findx Findx has added <a href="https://help.findx.com/en/search-exits">Exits</a>, which let you use another search engine by adding a shortcut to your search query. Just type "!g" at the end of your querey and you'll see results from Google. This feature is available by Qwant as well.
+If you are not happy with the results of Findx, you can use <a href="https://help.findx.com/en/search-exits">Exits</a>, which let you use another search engine easily. Just add a shortcut to your search query like "!g" and you'll see results from Google. This feature is available in Qwant as well.
 
-In addition Findx's commitment to privacy is also shown in their privacy extension for Firefox, the <a href="https://addons.mozilla.org/en-US/firefox/addon/findx-privacy-control/">Findx Privacy Control add-on</a> can be installed, and you'll be able to block tracking, control cookies and of course search in private. It's also available for <a href="https://chrome.google.com/webstore/detail/findx-privacy-control/hmindffkcgchnijdapipnaoajajkhjpn">Chrome</a> and <a href="https://safari-extensions.apple.com/details/?id=com.findx.privacycontrol-5QE6FTCMP9">Safari</a>.
-
-It will be exciting to follow their progess.
+In addition Findx's commitment to privacy is also shown in their privacy extension for Firefox: the <a href="https://addons.mozilla.org/en-US/firefox/addon/findx-privacy-control/">Findx Privacy Control add-on</a> can be installed, and you'll be able to block tracking, control cookies and of course search in private. It's also available for <a href="https://chrome.google.com/webstore/detail/findx-privacy-control/hmindffkcgchnijdapipnaoajajkhjpn">Chrome</a> and <a href="https://safari-extensions.apple.com/details/?id=com.findx.privacycontrol-5QE6FTCMP9">Safari</a>.
 <h3>Prospects</h3>
-Qwant aims to achieve a market share of 5 to 10 percent in Europe. In France, the figure is already 5 percent (source). Let us use Qwant to achieve this goal more quickly.
+It will be exciting to follow the progess of Qwant and Findx. IMHO, Qwant should get independent from Bing, and Findx needs to provide better search results. If that's achieved, Findx will replace Qwant.
+
+Until then, let's use Qwant for its good results-privacy-mix. Qwant aims to achieve a market share of 5 to 10 percent in Europe. In France, the figure is already 5 percent. Let us use Qwant to achieve this goal more quickly.
 
 p.s. I do not receive financial support from any search engine or any of the companies or persons mentioned in this article.
