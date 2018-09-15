@@ -66,37 +66,34 @@ Critics also mention that for many years the French legislature has been oriente
 Optionally, I recommend setting a blank page when opening a new window or tab. By that unnecessary information is not displayed and the browser reacts somewhat faster. To do this, enter the following characters in the address bar in Firefox and press "Enter":<em> about:preferences#home</em> . Further down on the page, you see the the option to configure behavior when opening a new window or tab.
 
 <strong>Chrome</strong>: As in Firefox, the <a href="https://chrome.google.com/webstore/detail/qwant-for-chrome/hnlkiofnhhoahaiimdicppgemmmomijo">Qwant add-on</a> must be installed - that's it. If Qwant is set as search engine without this add-on, this setting will be removed after a restart of Chrome.
-
-<h3>Runner up: Findx</h3>
-The only three-year-old search engine is run by a small team from Denmark. <a href="https://www.findx.com/">Findx</a> meets the requirements stated above to a high degree:
-<ul>
- 	<li>The manufacturer is based in Denmark.</li>
- 	<li>The relevance of the resuts still lack some quality, but eg. searches for recepies are usually good enough and answered quickly.</li>
- 	<li>Findx can be used as a service by everyone, similar to Qwant, without further IT knowledge.</li>
- 	<li>"Findx does not collect personal information and this will never change." (<a href="https://get.findx.com/privacy/">Source</a>)</li>
-</ul>
-
-The manufacturer is obivously convinced that advertising that is displayed in connection with the search term is interesting enough for the user.
-
-For those who have disabled JavaScript in their browser to protect their privacy Findx also works.
-
-One of the requirements Findx does not fully meet: The relevance of the results varies, and is still lacking some quality. This is because of the size of their own indepndent index.  Findx does at this point not supplement from other sources. To support the various quality of the results Findx has addedd <a href="https://get.findx.com/searchengine/exits/">Exits</a>, theese works like Bangs on Duckduckgo, and some can be reached just with a click below the results. 
-
-It has an idealistic approach and is an <a href="https://get.findx.com/open-source/">Open Source Search engine</a>
-
-In addition Findx commitment to privacy is also showed in their privacy extension for Firefox, the <a href="https://addons.mozilla.org/en-US/firefox/addon/findx-privacy-control/">Findx Privacy Control add-on</a> can be installed, and youøll be able to blcok, tracking, control cookies and offcourse search in private. It's also available for <a href="https://chrome.google.com/webstore/detail/findx-privacy-control/hmindffkcgchnijdapipnaoajajkhjpn">Chrome</a> and <a href="https://safari-extensions.apple.com/details/?id=com.findx.privacycontrol-5QE6FTCMP9">Safari</a>. 
-
-It will be existing to follow their progess.
-
 <h3>What about other search engines?</h3>
 <a href="https://duckduckgo.com/">DuckDuckGo</a>: <a href="https://en.wikipedia.org/wiki/DuckDuckGo">Headquarters in the USA</a>. As a result, DuckDuckGo does not meet one of the requirements.
 
 <a href="https://www.startpage.com/">Startpage</a>, <a href="https://metager.de/">Metager</a>, <a href="https://www.unbubble.eu/">UnBubble</a>, <a href="http://searx.me">Searx.me</a>, <a href="https://www.ecosia.org/">Ecosia</a>, <a href="https://www.etools.ch/search.do">Etools</a> etc.: These so-called "meta search engines" aggregate and display the search results of one or more of the major search engines. Personal data are allegedly not transferred as a result. The problem is that their use increases the demand for the major search engines and yet <a href="https://github.com/nylira/prism-break/issues/168">personal data is still passed on</a>.
 
 Ixquick: Does not exist as an independent search engine anymore. It <a href="https://en.wikipedia.org/wiki/Ixquick#Startpage.com">was merged with Startpage.com</a>.
+
+<a href="https://www.findx.com/">Findx</a> - see next chapter.
+<h3>Runner up: Findx</h3>
+The only three-year-old search engine is run by a small team from Denmark. <a href="https://www.findx.com/">Findx</a> meets the requirements stated above to a high degree:
+<ul>
+ 	<li>The manufacturer is based in Denmark.</li>
+ 	<li>The relevance of the resuts still lack some quality, but the developers are working hard on improving their algorithms.</li>
+ 	<li>Findx can be used as a service by everyone, similar to Qwant, without further IT knowledge.</li>
+ 	<li>"Findx does not collect personal information and this will never change." (<a href="https://get.findx.com/privacy/">Source</a>)</li>
+</ul>
+Findx follows an idealistic approach. They even publish their source code, which makes it an <a href="https://get.findx.com/open-source/">Open Source Search engine</a>! This is just great!
+
+For those who have disabled JavaScript in their browser to protect their privacy Findx also works.
+
+One of the requirements Findx does not fully meet: The relevance of the results varies, and is still lacking some quality. This is because of the little size of their own independent index. At this point, Findx does not supplement its index from other sources like Qwant does with Bing.
+
+If you are not happy with the results of Findx Findx has added <a href="https://help.findx.com/en/search-exits">Exits</a>, which let you use another search engine by adding a shortcut to your search query. Just type "!g" at the end of your querey and you'll see results from Google. This feature is available by Qwant as well.
+
+In addition Findx's commitment to privacy is also shown in their privacy extension for Firefox, the <a href="https://addons.mozilla.org/en-US/firefox/addon/findx-privacy-control/">Findx Privacy Control add-on</a> can be installed, and you'll be able to block tracking, control cookies and of course search in private. It's also available for <a href="https://chrome.google.com/webstore/detail/findx-privacy-control/hmindffkcgchnijdapipnaoajajkhjpn">Chrome</a> and <a href="https://safari-extensions.apple.com/details/?id=com.findx.privacycontrol-5QE6FTCMP9">Safari</a>.
+
+It will be exciting to follow their progess.
 <h3>Prospects</h3>
 Qwant aims to achieve a market share of 5 to 10 percent in Europe. In France, the figure is already 5 percent (source). Let us use Qwant to achieve this goal more quickly.
-
-&nbsp;
 
 p.s. I do not receive financial support from any search engine or any of the companies or persons mentioned in this article.
