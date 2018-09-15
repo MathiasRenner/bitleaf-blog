@@ -66,6 +66,28 @@ Critics also mention that for many years the French legislature has been oriente
 Optionally, I recommend setting a blank page when opening a new window or tab. By that unnecessary information is not displayed and the browser reacts somewhat faster. To do this, enter the following characters in the address bar in Firefox and press "Enter":<em> about:preferences#home</em> . Further down on the page, you see the the option to configure behavior when opening a new window or tab.
 
 <strong>Chrome</strong>: As in Firefox, the <a href="https://chrome.google.com/webstore/detail/qwant-for-chrome/hnlkiofnhhoahaiimdicppgemmmomijo">Qwant add-on</a> must be installed - that's it. If Qwant is set as search engine without this add-on, this setting will be removed after a restart of Chrome.
+
+<h3>Runner up: Findx</h3>
+The only three-year-old search engine is run by a small team from Denmark. <a href="https://www.findx.com/">Findx</a> meets the requirements stated above to a high degree:
+<ul>
+ 	<li>The manufacturer is based in Denmark.</li>
+ 	<li>The relevance of the resuts still lack some quality, but eg. searches for recepies are usually good enough and answered quickly.</li>
+ 	<li>Findx can be used as a service by everyone, similar to Qwant, without further IT knowledge.</li>
+ 	<li>"Findx does not collect personal information and this will never change." (<a href="https://get.findx.com/privacy/">Source</a>)</li>
+</ul>
+
+The manufacturer is obivously convinced that advertising that is displayed in connection with the search term is interesting enough for the user.
+
+For those who have disabled JavaScript in their browser to protect their privacy Findx also works.
+
+One of the requirements Findx does not fully meet: The relevance of the results varies, and is still lacking some quality. This is because of the size of their own indepndent index.  Findx does at this point not supplement from other sources. To support the various quality of the results Findx has addedd <a href="https://get.findx.com/searchengine/exits/">Exits</a>, theese works like Bangs on Duckduckgo, and some can be reached just with a click below the results. 
+
+It has an idealistic approach and is an <a href="https://get.findx.com/open-source/">Open Source Search engine</a>
+
+In addition Findx commitment to privacy is also showed in their privacy extension for Firefox, the <a href="https://addons.mozilla.org/en-US/firefox/addon/findx-privacy-control/">Findx Privacy Control add-on</a> can be installed, and youøll be able to blcok, tracking, control cookies and offcourse search in private. It's also available for <a href="https://chrome.google.com/webstore/detail/findx-privacy-control/hmindffkcgchnijdapipnaoajajkhjpn">Chrome</a> and <a href="https://safari-extensions.apple.com/details/?id=com.findx.privacycontrol-5QE6FTCMP9">Safari</a>. 
+
+It will be existing to follow their progess.
+
 <h3>What about other search engines?</h3>
 <a href="https://duckduckgo.com/">DuckDuckGo</a>: <a href="https://en.wikipedia.org/wiki/DuckDuckGo">Headquarters in the USA</a>. As a result, DuckDuckGo does not meet one of the requirements.
 
