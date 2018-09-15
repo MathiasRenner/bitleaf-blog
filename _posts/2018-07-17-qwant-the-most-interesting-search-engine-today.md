@@ -75,6 +75,8 @@ Ixquick: Does not exist as an independent search engine anymore. It <a href="htt
 
 <a href="https://www.findx.com/">Findx</a> - see next chapter.
 <h3>Runner up: Findx</h3>
+<img class="irc_mi" src="https://pclosmag.com/html/Issues/201711/images/page05/findx.jpg" alt="Bildergebnis für findx search engine" width="718" height="194" />
+
 The only three-year-old search engine is run by a small team from Denmark. <a href="https://www.findx.com/">Findx</a> meets the requirements stated above to a high degree:
 <ul>
  	<li>The manufacturer is based in Denmark.</li>
