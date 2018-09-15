@@ -2,8 +2,7 @@
 ID: 226
 post_title: >
   Whatsapp-like chat messaging that
-  respects your privacy–in just 10
-  minutes
+  respects your privacy
 author: Mathias Renner
 post_excerpt: ""
 layout: post
