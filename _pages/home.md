@@ -4,7 +4,7 @@ post_title: Home
 author: Mathias Renner
 post_excerpt: ""
 layout: page
-permalink: https://bitleaf.de/
+permalink: https://bitleaf.de/home/
 published: true
 post_date: 2017-02-11 20:40:28
 ---
