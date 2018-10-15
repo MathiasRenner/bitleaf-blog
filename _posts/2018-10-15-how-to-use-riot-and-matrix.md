@@ -137,11 +137,7 @@ more to come!</strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>If you‘ve followed the setup steps in this article, you‘ve probably noticed, that the Riot is not all the time as user friendly as mainstream apps like Whatsapp or Telegram are. To me, all in all these issues are minor compared to the features I get: a reliable and secure messenger.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Luckily, the usability will be improved soon. In February of 2018, the project got an investment of $5 M, which should result in several improvements on the project. </p>
+<p>If you‘ve followed the setup steps in this article, you‘ve probably noticed, that the Riot is not all the time as user friendly as mainstream apps like Whatsapp or Telegram are. To me, all in all these issues are minor compared to the features I get: a reliable and secure messenger. Luckily, the usability will be improved soon. In February of 2018, the project got an investment of $5 M, which should result in several improvements on the project.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
