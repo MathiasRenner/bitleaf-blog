@@ -19,7 +19,7 @@ post_date: 2018-10-15 13:48:31
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Why should you use thie one? For several reasons I consider <strong>Riot with Matrix the "best" messaging solution for eveyone available today</strong>. Please see <a href="http://bitleaf.de">this blog post</a> to read more about my reasoning.</p>
+<p>Why should you use this one? For several reasons I consider <strong>Riot with Matrix the "best" messaging solution for everyone available today</strong>. Please see <a href="http://bitleaf.de">this blog post</a> to read more about my reasoning.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -27,7 +27,7 @@ post_date: 2018-10-15 13:48:31
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>I am very happy to receive feedback for improvments. Please get in touch with me by using the comments at the bottom of the article or create a Github issue or pull request using the link at the end of this article.<br/></p>
+<p>I am very happy to receive feedback for improvements. Please get in touch with me by using the comments at the bottom of the article or create a Github issue or pull request using the link at the end of this article.<br/></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -93,15 +93,15 @@ bottom left of the Riot window to start a new chat:</p>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>2. A new windows opens up. Here, you are asked to put in some ID to find your chat partner. For that a "Matrix-ID" is the best option to use. Your partner‘s and your own Matrix-ID has always the following format "#username:matrix.org". For example, if you registered your account with name "bigfanofmatrix", your Matrix-ID is "#bigfanofmatrix:matrix.org".</p>
+<p>2. A new windows opens. Here, you are asked to put in some ID to find your chat partner. For that a "Matrix-ID" is the best option to use. Your partner‘s and your own Matrix-ID has always the following format "#username:matrix.org". For example, if you registered your account with name "bigfanofmatrix", your Matrix-ID is "#bigfanofmatrix:matrix.org".</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Thus put in the Matrix-ID of your chat partner. Then click "start chat". It might take up to 30 seconds until the chat is initialized. Then you‘ll be able to start chatting to your partner!</p>
+<p>Thus, put in the Matrix-ID of your chat partner. Then click "start chat". It might take up to 30 seconds until the chat is initialized. Then you‘ll be able to start chatting to your partner!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. Congrats! You now can start to communicating with a messenger that respects your provacy! Next, you can install Riot on more of your devices. Again, go to <a href="https://riot.im/">https://riot.im/</a>, download Riot for your operating system and log in with your new credentials. That‘s it!</p>
+<p>3. Congrats! You now can start to communicate with a messenger that respects your privacy! Next, you can install Riot on more of your devices. Again, go to <a href="https://riot.im/">https://riot.im/</a>, download Riot for your operating system and log in with your new credentials. That‘s it!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -123,7 +123,7 @@ add encryption!</strong></h2>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Next, write a text message to your partner from all devices you've Riot installed on, and ask your partner to do the same from all of his devices.</p>
+<p>2. Next, write a text message to your partner from all devices you've Riot installed on, and ask your partner to do the same from all his devices.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -145,13 +145,7 @@ more to come!</strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>
-If
-you‘ve followed the setup steps in this article, you‘ve probably
-noticed, that the Riot is not all the time as user friendly as
-mainsteam apps like Whatsapp or Telegram are. To
-me, all in all these issues are minor compared to the features I get:
-a reliable and secure messenger.</p>
+<p>If you‘ve followed the setup steps in this article, you‘ve probably noticed, that the Riot is not all the time as user friendly as mainstream apps like Whatsapp or Telegram are. To me, all in all these issues are minor compared to the features I get: a reliable and secure messenger.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
