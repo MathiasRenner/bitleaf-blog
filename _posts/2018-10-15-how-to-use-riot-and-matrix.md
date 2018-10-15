@@ -26,10 +26,6 @@ post_date: 2018-10-15 13:48:31
 <p>Unfortunately, I couldn't find a good user guide online. <strong>This article should help everyone, not only IT geeks,</strong> to simply start messaging in the fediverse of Riot and Matrix. <strong>To follow this guide you only need a computer and a friend you'd like to chat with</strong>. That's all.<br/></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>I am very happy to receive feedback for improvements. Please get in touch with me by using the comments at the bottom of the article or create a Github issue or pull request using the link at the end of this article.<br/></p>
-<!-- /wp:paragraph -->
-
 <!-- wp:heading -->
 <h2>
 <strong>First,
@@ -149,5 +145,9 @@ more to come!</strong></h2>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Now, please spread the word and let everyone else participate in a more open, free and secure future!<br/></p>
+<p>I am very happy to receive feedback for improvements. Please get in touch with me by using the comments at the bottom of the article or create a Github issue or pull request using the link at the end of this article.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Now, please spread the word and let everyone else participate in a more open, free and secure future!</p>
 <!-- /wp:paragraph -->
