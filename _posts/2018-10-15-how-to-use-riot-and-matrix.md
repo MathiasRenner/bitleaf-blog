@@ -31,7 +31,7 @@ post_date: 2018-10-15 13:48:31
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>a computer </li><li> a friend you'd like to chat with</li><li>15 Minutes of your time</li></ul>
+<ul><li>a computer </li><li> a friend you'd like to chat with</li><li>15 minutes of your time</li></ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
