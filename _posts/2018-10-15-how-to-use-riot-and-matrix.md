@@ -1,8 +1,8 @@
 ---
 ID: 1760
 post_title: >
-  How to use the messenger app Riot in the
-  Matrix fediverse
+  How to use the free and secure messenger
+  app Riot in the Matrix fediverse
 author: Mathias Renner
 post_excerpt: >
   This is a documentation about how to get
