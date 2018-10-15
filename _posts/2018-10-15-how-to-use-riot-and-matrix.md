@@ -27,7 +27,7 @@ post_date: 2018-10-15 13:48:31
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>To follow this guide to its full extent you need:</p>
+<p><strong>To follow this guide to its full extent you need</strong>:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
