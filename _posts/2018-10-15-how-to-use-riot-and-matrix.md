@@ -19,7 +19,11 @@ post_date: 2018-10-15 13:48:31
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Why? First, because I think that <strong>Riot with Matrix is the "best" messaging solution for eveyone available today</strong>. Please see this blog post to reat more about what I mean by "best". Second, because I couldn't find a good user guide. <strong>This article should help everyone, not only IT geeks</strong> to simply start in the fediverse of Riot and Matrix.</p>
+<p>Why should you use thie one? For several reasons I consider <strong>Riot with Matrix the "best" messaging solution for eveyone available today</strong>. Please see <a href="http://bitleaf.de">this blog post</a> to read more about my reasoning.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Unfortunately, I couldn't find a good user guide online. <strong>This article should help everyone, not only IT geeks,</strong> to simply start messaging in the fediverse of Riot and Matrix.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
