@@ -23,7 +23,7 @@ post_date: 2018-10-15 13:48:31
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Unfortunately, I couldn't find a good user guide online. <strong>This article should help everyone, not only IT geeks,</strong> to simply start messaging in the fediverse of Riot and Matrix.</p>
+<p>Unfortunately, I couldn't find a good user guide online. <strong>This article should help everyone, not only IT geeks,</strong> to simply start messaging in the fediverse of Riot and Matrix. <strong>To follow this guide you only need a computer and a friend you'd like to chat with</strong>. That's all.<br/></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
