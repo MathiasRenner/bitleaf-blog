@@ -65,11 +65,11 @@ create an account</strong></h2>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Now, make sure that the upper field holds "https://matrix.org/". Next, delete the content of the second field such that the field is just empty. "identity server" is a feature that you shouldn't use for privacy reasons. It also adds only little value.<br/></p>
+<p>Now, make sure that the upper field holds "https://matrix.org/". Next, <strong>delete the content of the second field</strong> such that the field is just empty. "identity server" is a feature that you shouldn't use for privacy reasons. It also adds only little value.<br/></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>6. Login clicking on the "sign in" button. This may take up to 30 seconds. Afterwards, it should look like this:</p>
+<p>6. Log in by <strong>clicking on the "sign in" button</strong>. This may take up to 30 seconds. Afterwards, it should look like this:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1763} -->
@@ -81,11 +81,7 @@ create an account</strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>
-1.
-First, you need a contact you‘d like to chat with. So ask a friend
-to join :-) If you found a chat partner, click on the symbol on the
-bottom left of the Riot window to start a new chat:</p>
+<p>1. First, you need a contact you‘d like to chat with. So <strong>ask a friend to join</strong> :-) If you found a chat partner, <strong>click on the symbol on the bottom left of the Riot window to start a new chat</strong>:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1767,"align":"center"} -->
@@ -93,15 +89,15 @@ bottom left of the Riot window to start a new chat:</p>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>2. A new windows opens. Here, you are asked to put in some ID to find your chat partner. For that a "Matrix-ID" is the best option to use. Your partner‘s and your own Matrix-ID has always the following format "#username:matrix.org". For example, if you registered your account with name "bigfanofmatrix", your Matrix-ID is "#bigfanofmatrix:matrix.org".</p>
+<p>2. A new windows opens. Here, you are asked to put in some ID to find your chat partner. For that a "Matrix-ID" is the best option to use. Your partner‘s and your own Matrix-ID has always the following format <strong>"#username:matrix.org"</strong>. For example, if you registered your account with name "bigfanofmatrix", your Matrix-ID is "#bigfanofmatrix:matrix.org".</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Thus, put in the Matrix-ID of your chat partner. Then click "start chat". It might take up to 30 seconds until the chat is initialized. Then you‘ll be able to start chatting to your partner!</p>
+<p>Thus, <strong>put in the Matrix-ID of your chat partner. Then click "start chat"</strong>. It might take up to 30 seconds until the chat is initialized. Then you‘ll be able to start chatting to your partner!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. Congrats! You now can start to communicate with a messenger that respects your privacy! Next, you can install Riot on more of your devices. Again, go to <a href="https://riot.im/">https://riot.im/</a>, download Riot for your operating system and log in with your new credentials. That‘s it!</p>
+<p>3. Congrats! You now can start to communicate with a messenger that respects your privacy! Next, you can <strong>install Riot on more of your devices.</strong> Again, go to <a href="https://riot.im/">https://riot.im/</a>, download Riot for your operating system and log in with your new credentials. That‘s it!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -111,7 +107,7 @@ add encryption!</strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Until now, your conversation is unencrypted. Activate it by clicking on the gear button on the top right in the Riot app:<br/></p>
+<p>1. Until now, your conversation is unencrypted. Activate encryption by <strong>clicking on the gear button on the top right in the Riot app:</strong><br/></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1782,"align":"center","width":318,"height":220} -->
@@ -119,19 +115,19 @@ add encryption!</strong></h2>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>This should open the settings page. In the top half of that page, check the box saying "Enable encryption (warning: cannot be disabled again!)". Afterwards, click on "save" in the top right corner.</p>
+<p>This should open the settings page. In the top half of that page, <strong>check the box saying "Enable encryption</strong> (warning: cannot be disabled again!)". Afterwards, click on "save" in the top right corner.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Next, write a text message to your partner from all devices you've Riot installed on, and ask your partner to do the same from all his devices.</p>
+<p>2. Next, <strong>write a text message to your partner from all devices you've Riot installed on</strong>, and ask your partner to do the same from all his devices.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. Some of the messages might not be readable or include warning. In this case should see a yellow sign with and exclamation mark next to your and/or your partner‘s messages. Click on it, which opens a new window. In that new window click on the button "verify..." at the bottom right. Finally, click on "I verify that the keys match" and close the window with "OK“.</p>
+<p>3. Some of the messages might not be readable or include warning. In this case should see a yellow sign with and exclamation mark next to your and/or your partner‘s messages. <strong>Click on the yellow sign</strong>, which opens a new window. In that new window click on the button "verify..." at the bottom right. Finally, click on "I verify that the keys match" and close the window with "OK“.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>4. If the encryption is working properly, you should see a closed locker next to your recent chat messages. If you still see the yellow sign, just repeat step 2 and 3 until you see the locker as well.<br/>If you click on the yellow sign and do not have an option to verify keys – also repeat step 3 and 4 and also restart the app Riot. Sometimes this helps :-)</p>
+<p>4. If the encryption is working properly, <strong>you should see a closed locker next to your recent chat messages</strong>. If you still see the yellow sign, just repeat step 2 and 3 until you see the locker as well.<br/>If you click on the yellow sign and do not have an option to verify keys – also repeat step 3 and 4 and also restart the app Riot. Sometimes this helps :-)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
