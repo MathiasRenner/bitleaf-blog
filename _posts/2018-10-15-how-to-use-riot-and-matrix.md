@@ -15,7 +15,7 @@ published: true
 post_date: 2018-10-15 13:48:31
 ---
 <!-- wp:paragraph -->
-<p>This is a documentation about how to get started using the messenger app Riot, which uses the Matrix protocol. </p>
+<p>This is a documentation about how to get started using the messenger app Riot, which uses the free, open and secure protocol "Matrix".</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
