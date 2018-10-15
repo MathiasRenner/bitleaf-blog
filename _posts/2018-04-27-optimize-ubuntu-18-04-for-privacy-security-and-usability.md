@@ -23,7 +23,7 @@ I am proud to release a piece of software that everyone can use to achieve three
 </ul>
 <strong>And all that without reducing the usability of Ubuntu.</strong> It won't limit how you use Ubuntu or slow it down. Quite the converse, it will speed it up. For instance, my tool will install <a href="https://www.linux.com/blog/using-preload-speed-linux"><em>preload</em></a> that learns which software you use and pre-loads it. Your software will be up faster when you eventually ask for it.
 
-<img class="alignnone wp-image-1419 size-full" src="https://bitleaf.de/wp-content/uploads/2018/04/mac@mac-_002.png" alt="" width="787" height="478" />
+<img class="alignnone wp-image-1419 size-full" src="https://bitleaf.de/wp-content/uploads/2018/04/mac@mac-_002.png" alt="" width="787" height="478">
 <h3>Why should I use it?</h3>
 Unfortunately, Ubuntu extended its data aggregation practices in recent years. Canonical, Inc., its manufacturer, has increasing interest to integrate services that collect data from users. This strategy is not in line with the ethics of Linux, which I promote. Thus, I published this piece of software to configure Ubuntu in a way to be free again - free of data collection services. It helps everyone to easily say goodbye to Amazon services or usage behavor reports, which are enabled in Ubuntu by default.
 
@@ -41,7 +41,7 @@ For instance, it...
 </ul>
 At the beginning, you are asked about which tasks you want the tool to do:
 
-<img class="alignnone size-full wp-image-1416" src="https://bitleaf.de/wp-content/uploads/2018/04/Selection_001.png" alt="" width="872" height="333" />
+<img class="alignnone size-full wp-image-1416" src="https://bitleaf.de/wp-content/uploads/2018/04/Selection_001.png" alt="" width="872" height="333">
 <h3>All done within just 5 minutes</h3>
 This software is easy to use and not depending on specific user behavior. It's intended to help everyone, regardless if he uses his Ubuntu just for browsing or for professional video editing.
 
