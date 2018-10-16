@@ -4,7 +4,7 @@ post_title: >
   Why Matrix is the most interesting
   messaging solution today
 author: Mathias Renner
-post_excerpt: ""
+post_excerpt: 'You look for alternatives to Whatsapp, Telegram, Threema, Wire, Signal & Co? Recently I did some research about a viable alternative and found one: Matrix.'
 layout: post
 permalink: >
   https://bitleaf.de/2018/10/16/why-matrix-is-the-most-interesting-messaging-solution-today/
