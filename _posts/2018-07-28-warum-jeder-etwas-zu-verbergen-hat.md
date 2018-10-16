@@ -57,9 +57,7 @@ Der Übergang zur nächsten Stufe des digitalen Überwachungsstaats in China geh
 Nebenbei bemerkt ist China natürlich nicht das einzige Land, den man als Überwachungsstaat bezeichnen würde.
 
 Für mich lautet an dieser Stelle das Ergebnis wie folgt:
-
-<strong>Der Einfluss von Unternehmen oder Einrichtungen aus dem öffentlichen Sektor korreliert mit dem Umfang an Daten, die sie über natürliche Personen haben. Umfangreiche Datenmengen ermöglichen es, Personen so gut zu verstehen, dass sie kontrollierbar werden. Die Freiheit von Personen kann also durch das Herausgeben von Daten eingeschränkt werden.</strong>
-
+<blockquote><strong>Der Einfluss von Unternehmen oder Einrichtungen aus dem öffentlichen Sektor korreliert mit dem Umfang an Daten, die sie über natürliche Personen haben. Umfangreiche Datenmengen ermöglichen es, Personen so gut zu verstehen, dass sie kontrollierbar werden. Die Freiheit von Personen kann also durch das Herausgeben von Daten eingeschränkt werden.</strong></blockquote>
 An dieser Stelle empfehle ich das beliebte Hörbuch <a href="https://marcuwekling.reimkultur-shop.de/marc-uwe-kling-qualityland-dunkle-edition-audio-cd-6400341.html">"Qualityland" von Mark Uwe Kling</a>. Es erzählt von der Geschichte einer Person, die in einem digitalisierten Staat lebt und zunehmend den Zusammenhang des vorigen Absatzes begreift. Es ist für mich die brillianteste Erzählung einer Dystopie, da sie Mark-Uwe Kling humorvoll verpackt, ohne dabei die Ernsthaftigkeit der grundlegenden Botschaft zu verlieren.
 <h3>Gibt es auch Auswirkungen für uns in Europa, weit weg von China?</h3>
 Ich denke, dass auf jeden Fall noch lange Zeit vergeht, bis ein ähnliches System bei uns Einzug findet. Die Ratifizierung der Datenschutz-Grundverordnung (EU-DS-GVO) in diesem Jahr war ein wichtiger Schritt, um uns mehr Zeit zu geben, bis die chinesische Dystopie bei uns vielleicht einmal Einzug finden wird. Bis dahin wird man sich der Techniken für die unbewusste Meinungsmanipulation bedienen.
