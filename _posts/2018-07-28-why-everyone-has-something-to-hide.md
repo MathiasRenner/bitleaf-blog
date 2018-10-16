@@ -152,6 +152,10 @@ post_date: 2018-07-28 18:40:39
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
+<p>To me, honestly, it took many years to come to this conclusion. I analyzed business models of data driven companies, looked at security ciphers of apps, read the documents uncovered by Edward Snowden and followed the thoughts of the free software movement, induced by Richard Stallman. I still have the feeling that I understood only the tip of the iceberg, because all in all it's a very complex problem. Exactly that is leveraged by the few companies pushing surveillance: Not many people understand the correlations, many are not aware and say "I have nothing to hide" and spread their data. To me, there is enough evidence, so I'll feel responsible to spread the word, but never my data.<br/></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>Finally, I recommend the popular audio book <a href="https://marcuwekling.reimkultur-shop.de/marc-uwe-kling-qualityland-dunkle-edition-audio-cd-6400341.html">"Qualityland"</a> by Mark Uwe Kling. It tells the story of a person who lives in a digitized state and increasingly understands the context of the previous paragraph. For me it is the most brilliant story of a dystopia, because it's humorously wrapped by  without losing the seriousness of the basic message.</p>
 <!-- /wp:paragraph -->
 
