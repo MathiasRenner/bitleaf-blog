@@ -122,5 +122,5 @@ https://bitleaf.de/2018/07/28/why-everyone-has-something-to-hide/
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Licence of this article: <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a> <br/></p>
+<p>License of this article: <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a> <br/></p>
 <!-- /wp:paragraph -->
