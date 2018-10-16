@@ -105,8 +105,8 @@ https://bitleaf.de/2018/07/28/why-everyone-has-something-to-hide/
 <p class="has-regular-font-size">If you'd like to compare some of the more interesting messengers in detail, look at the comparison matrix <a href="https://wiki.piratenpartei.de/Datei:Messengermatrix.pdf">here</a>. Kudos to user <em>eska</em> for this nice work!</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":1813} -->
-<figure class="wp-block-image"><img src="https://bitleaf.de/wp-content/uploads/2018/10/messenger-apps-comparison-matrix.png" alt="" class="wp-image-1813"/><figcaption>Comparison of several messaging apps, created by eska</figcaption></figure>
+<!-- wp:image {"id":1813,"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://wiki.piratenpartei.de/Datei:Messengermatrix.pdf"><img src="https://bitleaf.de/wp-content/uploads/2018/10/messenger-apps-comparison-matrix.png" alt="" class="wp-image-1813"/></a><figcaption>Comparison of several messaging apps, created by eska</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
