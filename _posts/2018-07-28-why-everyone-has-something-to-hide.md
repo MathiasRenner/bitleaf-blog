@@ -144,7 +144,7 @@ post_date: 2018-07-28 18:40:39
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>For me, the result at this point is as follows:</p>
+<p>For me, the result of the deliberations so far is as follows:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
