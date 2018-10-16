@@ -148,7 +148,7 @@ post_date: 2018-07-28 18:40:39
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>Every step counts - start small!</h2>
+<h2>Every step counts - start small, but today!</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
