@@ -38,10 +38,8 @@ post_date: 2018-10-15 13:48:31
 <p>Have fun!</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading -->
-<h2>
-<strong>First,
-create an account</strong></h2>
+<!-- wp:heading {"level":3} -->
+<h3>First, create an account</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -57,15 +55,15 @@ create an account</strong></h2>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>3. Create an account by clicking on <strong>"Create an account</strong>" below the large "sign in" button and fill out the fields. Note that only a user name and password is mandatory. However, I recommend to provide your email address to allow password recovery.<br/>More advanced users should user a custom server, of course. In this article, I focus on the easiest way for beginners.<br/></p>
+<p>3. Create an account by clicking on "Create an account" below the large "sign in" button and fill out the fields. Note that only a user name and password is mandatory. However, I recommend to provide your email address to allow password recovery.<br/>More advanced users should user a custom server, of course. In this article, I focus on the easiest way for beginners.<br/></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>4. If you provided an email address, <strong>go to your inbox</strong> and follow the instructions in the email you just received from Matrix.org</p>
+<p>4. If you provided an email address, go to your inbox and follow the instructions in the email you just received from Matrix.org</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>5. Close Riot and open it again such that you see the login masks. <strong>Type in your new credentials</strong> in the corresponding fields. Before you click "sign in", select "custom server" below the "sign in" button. It should look like this:</p>
+<p>5. Close Riot and open it again such that you see the login masks. Type in your new credentials in the corresponding fields. Before you click "sign in", select "custom server" below the "sign in" button. It should look like this:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1762,"align":"center"} -->
@@ -73,23 +71,23 @@ create an account</strong></h2>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Now, make sure that the upper field holds "https://matrix.org/". Next, <strong>delete the content of the second field</strong> such that the field is just empty. "identity server" is a feature that you shouldn't use for privacy reasons. It also adds only little value.<br/></p>
+<p>Now, make sure that the upper field holds "https://matrix.org/". Next, delete the content of the second field such that the field is just empty. "identity server" is a feature that you shouldn't use for privacy reasons. It also adds only little value.<br/></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>6. Log in by <strong>clicking on the "sign in" button</strong>. This may take up to 30 seconds. Afterwards, it should look like this:</p>
+<p>6. Log in by clicking on the "sign in" button. This may take up to 30 seconds. Afterwards, it should look like this:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1763} -->
 <figure class="wp-block-image"><img src="https://bitleaf.de/wp-content/uploads/2018/10/riot-full-scree.png" alt="" class="wp-image-1763"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading -->
-<h2>Now let‘s start messaging!</h2>
+<!-- wp:heading {"level":3} -->
+<h3>Now let‘s start messaging!</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. First, you need a contact you‘d like to chat with. So <strong>ask a friend to join</strong> :-) If you found a chat partner, <strong>click on the symbol on the bottom left of the Riot window to start a new chat</strong>:</p>
+<p>1. First, you need a contact you‘d like to chat with. So ask a friend to join :-) If you found a chat partner, click on the symbol on the bottom left of the Riot window to start a new chat:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1767,"align":"center"} -->
@@ -97,21 +95,19 @@ create an account</strong></h2>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>2. A new windows opens. Here, you are asked to put in some ID to find your chat partner. For that a "Matrix-ID" is the best option to use. Your partner‘s and your own Matrix-ID has always the following format <strong>"#username:matrix.org"</strong>. For example, if you registered your account with name "bigfanofmatrix", your Matrix-ID is "#bigfanofmatrix:matrix.org".</p>
+<p>2. A new windows opens. Here, you are asked to put in some ID to find your chat partner. For that a "Matrix-ID" is the best option to use. Your partner‘s and your own Matrix-ID has always the following format "#username:matrix.org". For example, if you registered your account with name "bigfanofmatrix", your Matrix-ID is "#bigfanofmatrix:matrix.org".</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Thus, <strong>put in the Matrix-ID of your chat partner. Then click "start chat"</strong>. It might take up to 30 seconds until the chat is initialized. Then you‘ll be able to start chatting to your partner!</p>
+<p>Thus, put in the Matrix-ID of your chat partner. Then click "start chat". It might take up to 30 seconds until the chat is initialized. Then you‘ll be able to start chatting to your partner!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. Congrats! You now can start to communicate with a messenger that respects your privacy! Next, you can <strong>install Riot on more of your devices.</strong> Again, go to <a href="https://riot.im/">https://riot.im/</a>, download Riot for your operating system and log in with your new credentials. That‘s it!</p>
+<p>3. Congrats! You now can start to communicate with a messenger that respects your privacy! Next, you can install Riot on more of your devices. Again, go to <a href="https://riot.im/">https://riot.im/</a>, download Riot for your operating system and log in with your new credentials. That‘s it!</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading -->
-<h2>
-<strong>Let‘s
-add encryption!</strong></h2>
+<!-- wp:heading {"level":3} -->
+<h3>Let‘s add encryption!</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -142,10 +138,10 @@ add encryption!</strong></h2>
 <p>Congrats! Welcome in the fediverse of open, free and secure messaging!</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading -->
-<h2>
+<!-- wp:heading {"level":3} -->
+<h3>
 <strong>There‘s
-more to come!</strong></h2>
+more to come!</strong></h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
