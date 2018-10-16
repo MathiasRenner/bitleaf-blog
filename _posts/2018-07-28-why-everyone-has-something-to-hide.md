@@ -23,8 +23,8 @@ post_date: 2018-07-28 18:40:39
 <p style="text-align:center"><a href="https://bitleaf.de/2018/07/28/warum-jeder-etwas-zu-verbergen-hat/">-> Deutsche Version des Artikels</a></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading -->
-<h2>To divulge data only means to advertise?</h2>
+<!-- wp:heading {"level":3} -->
+<h3>To divulge data only means to advertise?</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -87,8 +87,8 @@ post_date: 2018-07-28 18:40:39
 <p><strong></strong></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading -->
-<h2>China as an example: People who brave the manipulation are put at a disadvantage</h2>
+<!-- wp:heading {"level":3} -->
+<h3>China as an example: People who brave the manipulation are put at a disadvantage</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -107,8 +107,8 @@ post_date: 2018-07-28 18:40:39
 <figure class="wp-block-image"><img src="https://bitleaf.de/wp-content/uploads/2018/07/roncheng-public-board.jpg" alt="Öffentlicher Aushang in Rongcheng" class="wp-image-1623"/><figcaption>Public display in Rongcheng (from <a href="https://foreignpolicy.com/2018/04/03/life-inside-chinas-social-credit-laboratory/">foreignpolicy.com</a>)</figcaption></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading -->
-<h2>What effect does the Citizen Score have?</h2>
+<!-- wp:heading {"level":3} -->
+<h3>What effect does the Citizen Score have?</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -119,24 +119,24 @@ post_date: 2018-07-28 18:40:39
 <p>I find the automation of this system technically highly interesting but from a political point of view highly critical. When the system is applied to 1.4 billion Chinese in 18 months from now, a multitude of algorithms from the field of machine learning is applied, especially from the so-called "deep learning" area. As mentioned <a href="https://bitleaf.de/2018/07/17/qwant-the-most-interesting-search-engine-today/">in this blog post</a>, these algorithms have the weakness that they are difficult to control and not yet fully understood. In summary, the fate of people in China will soon be determined by algorithms that we have not yet fully penetrated.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading -->
-<h2>Are there any consequences for us in Europe, far away from China?</h2>
+<!-- wp:heading {"level":3} -->
+<h3>Are there any consequences for us in Europe, far away from China?</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
 <p>In any case, I think it will be a long time before we have a similar system in place. This year's ratification of the general data protection regulation (<a href="https://de.wikipedia.org/wiki/GDPR">GDPR</a>) was an important step in giving us more time until the Chinese dystopia might find its way into our system. Until then, the techniques of unconscious opinion manipulation will be used.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading -->
-<h2>But I won't be manipulated!</h2>
+<!-- wp:heading {"level":3} -->
+<h3>But I won't be manipulated!</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
 <p>Many people are convinced that they can never be manipulated. After my past remarks this should have become clear: This conviction is only logical, because the manipulation often takes place in the unconscious. Those of my readers who nevertheless believe that they are an exception should look, for example, into the book "<a href="https://en.wikipedia.org/wiki/Predictably_Irrational">Predictably Irrational</a>". Most probably this opinion will have changed after reading.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading -->
-<h2>What can I do?</h2>
+<!-- wp:heading {"level":3} -->
+<h3>What can I do?</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -147,8 +147,8 @@ post_date: 2018-07-28 18:40:39
 <p>I therefore advise my customers on what they can do themselves to reveal as little data about themselves as possible and thus no longer support opinion manipulation. The result is called data sovereignty, i.e. the sovereignty or control of the user over his or her own data. Simply put, through the use of IT systems that do not send any data to their manufacturers, the individual person remains in control of the data. Of these (mostly open source) systems, there are sufficient good solutions today for almost all application areas.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading -->
-<h2>Every step counts - start small, but today!</h2>
+<!-- wp:heading {"level":3} -->
+<h3>Every step counts - start small, but today!</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
