@@ -24,7 +24,7 @@ post_date: 2018-07-28 18:40:39
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
-<h3>To divulge data only means to advertise?</h3>
+<h3>To divulge data only means more ads?</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
