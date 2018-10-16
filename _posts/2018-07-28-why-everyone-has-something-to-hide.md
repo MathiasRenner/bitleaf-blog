@@ -156,7 +156,7 @@ post_date: 2018-07-28 18:40:39
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>At this point I recommend the popular audio book <a href="https://marcuwekling.reimkultur-shop.de/marc-uwe-kling-qualityland-dunkle-edition-audio-cd-6400341.html">"Qualityland"</a> by Mark Uwe Kling. It tells the story of a person who lives in a digitized state and increasingly understands the context of the previous paragraph. For me it is the most brilliant story of a dystopia, because it humorously wraps Mark-Uwe Kling without losing the seriousness of the basic message.</p>
+<p>Finally, I recommend the popular audio book <a href="https://marcuwekling.reimkultur-shop.de/marc-uwe-kling-qualityland-dunkle-edition-audio-cd-6400341.html">"Qualityland"</a> by Mark Uwe Kling. It tells the story of a person who lives in a digitized state and increasingly understands the context of the previous paragraph. For me it is the most brilliant story of a dystopia, because it's humorously wrapped by  without losing the seriousness of the basic message.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
