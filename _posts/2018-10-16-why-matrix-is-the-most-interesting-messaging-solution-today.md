@@ -82,14 +82,12 @@ https://bitleaf.de/2018/07/28/why-everyone-has-something-to-hide/
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>I am happy that also governments, here: the french government, has chosen Matrix as secure commmunication app:</p>
+<p>I am happy that also governments, here: the french government, has chosen <a href="https://twitter.com/matrixdotorg/status/989514267408912385?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E989514267408912385&amp;ref_url=https%3A%2F%2Fbitleaf.de%2F2018%2F10%2F16%2Fwhy-matrix-is-the-most-interesting-messaging-solution-today%2F">Matrix as secure commmunication app:</a></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:core-embed/twitter {"url":"https://twitter.com/matrixdotorg/status/989514267408912385?lang=de","type":"rich","providerNameSlug":"twitter"} -->
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
-https://twitter.com/matrixdotorg/status/989514267408912385?lang=de
-</div></figure>
-<!-- /wp:core-embed/twitter -->
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>France confirms that Matrix (and Riot) is the basis for their upcoming secure communication app for official government use, and will be 100% FOSS! Exciting times :D</p><cite>Source: <a href="https://twitter.com/matrixdotorg/status/989514267408912385?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E989514267408912385&amp;ref_url=https%3A%2F%2Fbitleaf.de%2F2018%2F10%2F16%2Fwhy-matrix-is-the-most-interesting-messaging-solution-today%2F">Twitter tweet</a></cite></blockquote>
+<!-- /wp:quote -->
 
 <!-- wp:heading {"level":3} -->
 <h3>Why Matrix, not….<br/></h3>
