@@ -140,11 +140,7 @@ post_date: 2018-07-28 18:40:39
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>However, the transition to the next stage of the digital surveillance state in China is taking place much faster than has been possible so far - thanks to modern technologies from the field of artificial intelligence, namely machine learning algorithms. This "extension" of 1984 by modern technologies, applied by a few large IT companies, is beautifully described by Dave Eggers in his bestselling novel <a href="https://en.wikipedia.org/wiki/The_Circle_(Eggers_novel)">"The Circle"</a>. One might think that China makes every word in this book a reality.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>By the way, China is of course not the only country you would call a surveillance state.</p>
+<p>However, the transition to the next stage of the digital surveillance state in China is taking place much faster than has been possible so far - thanks to modern technologies from the field of artificial intelligence, namely machine learning algorithms. This "extension" of 1984 by modern technologies, applied by a few large IT companies, is beautifully described by Dave Eggers in his bestselling novel <a href="https://en.wikipedia.org/wiki/The_Circle_(Eggers_novel)">"The Circle"</a>. One might think that China makes every word in this book a reality. By the way, China is of course not the only country you would call a surveillance state.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
