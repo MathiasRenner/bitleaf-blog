@@ -88,11 +88,11 @@ post_date: 2018-07-28 18:40:39
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>China as an example: People who cannot be manipulated are put at a disadvantage</h2>
+<h2>China as an example: People who brave the manipulation are put at a disadvantage</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Using China as an example, I would like to illustrate the development stage of propaganda, i.e. the condition in which citizens who defy manipulation and thus do not always act in conformity with the party are disadvantaged. The sources for the following information on China can be found at the end of this section.</p>
+<p>Using China as an example, I would like to illustrate the development stage of propaganda, i.e. the condition in which citizens who brave the manipulation and thus do not always act in conformity with the political party (the "one" party) are disadvantaged. The sources for the following information on China can be found at the end of this section.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
