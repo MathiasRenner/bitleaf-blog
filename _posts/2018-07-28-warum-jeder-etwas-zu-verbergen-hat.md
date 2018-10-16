@@ -9,8 +9,7 @@ permalink: >
 published: true
 post_date: 2018-07-28 18:40:39
 ---
-Viele Menschen sind überzeugt, dass sie nichts zu verbergen haben. Beim genaueren Hinsehen entpuppt sich dies leider als ein voreilig getroffener Schluss. Ich will versuchen, diese komplexe Problematik verständlich zu erklären.
-
+<h3>Viele Menschen sind überzeugt, dass sie nichts zu verbergen haben. Beim genaueren Hinsehen entpuppt sich dies leider als ein voreilig getroffener Schluss. Ich will versuchen, diese komplexe Problematik verständlich zu erklären.</h3>
 <!--more-->
 <p style="text-align: center;"><a href="https://bitleaf.de/2018/07/28/why-everyone-has-something-to-hide/">-&gt; English version of this article</a></p>
 
@@ -45,9 +44,23 @@ Für die technische Umsetzung werden Datenbank vieler Unternehmen, zusammengezog
 
 [caption id="attachment_1623" align="aligncenter" width="743"]<img class="size-full wp-image-1623" src="https://bitleaf.de/wp-content/uploads/2018/07/roncheng-public-board.jpg" alt="Öffentlicher Aushang in Rongcheng" width="743" height="421" /> Öffentlicher Aushang in Rongcheng (von <a href="https://foreignpolicy.com/2018/04/03/life-inside-chinas-social-credit-laboratory/">foreignpolicy.com</a>)[/caption]
 <h3>Welche Auswirkung hat der Citizen Score?</h3>
-Bürger mit niedrigem Punktestand werden benachteiligt; z. B. steigen Kosten des Alltags, wie Nebenkosten der Mietwohnung, Karrieremöglichkeiten werden eingeschränkt, oder die Reisefreiheit wird eingeschränkt. <a href="https://www.deutschlandfunk.de/sozialkredit-system-china-auf-dem-weg-in-die-it-diktatur.724.de.html?dram:article_id=395440" target="_blank" rel="noopener">Ein Betroffener berichtet</a>: "Als ich ein Flugticket kaufen wollte, habe ich keins bekommen. Daraufhin habe ich herausgefunden, dass ich grundsätzlich keine Tickets mehr kaufen kann". Ein Bürger aus Rongcheng sagt: "Was immer wir auch tun, wir denken dabei an unsere Kreditpunkte."
-
+Bürger mit niedrigem Punktestand werden benachteiligt; z. B. steigen Kosten des Alltags, wie Nebenkosten der Mietwohnung, Karrieremöglichkeiten werden eingeschränkt, oder die Reisefreiheit wird eingeschränkt. <a href="https://www.deutschlandfunk.de/sozialkredit-system-china-auf-dem-weg-in-die-it-diktatur.724.de.html?dram:article_id=395440" target="_blank" rel="noopener">Ein Betroffener berichtet</a>:
+<blockquote>"Als ich ein Flugticket kaufen wollte, habe ich keins bekommen. Daraufhin habe ich herausgefunden, dass ich grundsätzlich keine Tickets mehr kaufen kann".</blockquote>
+Ein Bürger aus Rongcheng sagt:
+<blockquote>"Was immer wir auch tun, wir denken dabei an unsere Kreditpunkte."</blockquote>
 Technisch höchst interessant aber gesellschaftlich höchst kritisch finde ich die Automatisierung dieses Systems. Bei Anwendung des Systems auf 1,4 Mrd. Chinesen in 18 Monaten müssen eine Vielzahl von Algorithmen aus dem Bereich des maschinellen Lernens angewendet werden, insb. aus dem Bereich des sog. "Deep Learnings". Wie in <a href="https://bitleaf.de/2018/07/17/qwant-the-most-interesting-search-engine-today/">diesem Blog post über gute Suchmaschinen</a> erläutert, haben diese Algorithmen allerdings die Schwäche, dass sie schwer kontrollierbar  und noch nicht ganz verstanden sind. Zusammenfassend wird das Schicksal der Menschen in China bald von Algorithmen bestimmt, die wir noch nicht ganz durchdrungen haben.
+<h3>Zwischenfazit</h3>
+Zusammenfassend wiederholt sich in China die Geschichte. Zudem wird das, was George Orwell in seinem Buch <a title="George Orwell" href="https://de.wikipedia.org/wiki/George_Orwell">"1984"</a> beschrieben hat, noch mehr Realtität als es bisher schon ist.
+
+Der Übergang zur nächsten Stufe des digitalen Überwachungsstaats in China geht es allerdings viel schneller als es bisher möglich war – dank moderner Technologien aus dem Bereich der Künstlichen Intelligenz, nämlich den Machine-Learning-Algorithmen. Diese "Erweiterung" von 1984 durch moderne Technologien, angewendet von wenigen großen IT-Unternehmen wird von Dave Eggers in seinem <a href="https://de.wikipedia.org/wiki/Der_Circle">Bestseller-Roman "The Circle"</a> wunderschön beschrieben. Man könnte meinen, dass China jedes Wort in diesem Buch Realität werden lässt.
+
+Nebenbei bemerkt ist China natürlich nicht das einzige Land, den man als Überwachungsstaat bezeichnen würde.
+
+Für mich lautet an dieser Stelle das Ergebnis wie folgt:
+
+<strong>Der Einfluss von Unternehmen oder Einrichtungen aus dem öffentlichen Sektor korreliert mit dem Umfang an Daten, die sie über natürliche Personen haben. Umfangreiche Datenmengen ermöglichen es, Personen so gut zu verstehen, dass sie kontrollierbar werden. Die Freiheit von Personen kann also durch das Herausgeben von Daten eingeschränkt werden.</strong>
+
+An dieser Stelle empfehle ich das beliebte Hörbuch <a href="https://marcuwekling.reimkultur-shop.de/marc-uwe-kling-qualityland-dunkle-edition-audio-cd-6400341.html">"Qualityland" von Mark Uwe Kling</a>. Es erzählt von der Geschichte einer Person, die in einem digitalisierten Staat lebt und zunehmend den Zusammenhang des vorigen Absatzes begreift. Es ist für mich die brillianteste Erzählung einer Dystopie, da sie Mark-Uwe Kling humorvoll verpackt, ohne dabei die Ernsthaftigkeit der grundlegenden Botschaft zu verlieren.
 <h3>Gibt es auch Auswirkungen für uns in Europa, weit weg von China?</h3>
 Ich denke, dass auf jeden Fall noch lange Zeit vergeht, bis ein ähnliches System bei uns Einzug findet. Die Ratifizierung der Datenschutz-Grundverordnung (EU-DS-GVO) in diesem Jahr war ein wichtiger Schritt, um uns mehr Zeit zu geben, bis die chinesische Dystopie bei uns vielleicht einmal Einzug finden wird. Bis dahin wird man sich der Techniken für die unbewusste Meinungsmanipulation bedienen.
 
