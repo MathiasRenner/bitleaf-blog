@@ -15,12 +15,12 @@ permalink: >
 published: true
 post_date: 2018-07-28 18:40:39
 ---
-<!-- wp:paragraph {"align":"center"} -->
-<p style="text-align:center"><a href="https://bitleaf.de/2018/07/28/warum-jeder-etwas-zu-verbergen-hat/">-> Deutsche Version des Artikels</a></p>
-<!-- /wp:paragraph -->
-
 <!-- wp:paragraph -->
 <p>Many people are convinced that they have nothing to hide. On closer inspection, this unfortunately turns out to be a premature conclusion. I will try to explain this complex problem in an understandable way.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p style="text-align:center"><a href="https://bitleaf.de/2018/07/28/warum-jeder-etwas-zu-verbergen-hat/">-> Deutsche Version des Artikels</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
