@@ -151,9 +151,9 @@ post_date: 2018-07-28 18:40:39
 <p>For me, the result at this point is as follows:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p><strong>The influence of companies or institutions in the public sector correlates with the amount of data they have on natural persons. Large amounts of data make it possible to understand individuals so well that they become controllable. The freedom of individuals can therefore be restricted by the release of data.</strong></p></blockquote>
-<!-- /wp:quote -->
+<!-- wp:paragraph -->
+<p><strong>The influence of companies or institutions in the public sector correlates with the amount of data they have on natural persons. Large amounts of data make it possible to understand individuals so well that they become controllable. The freedom of individuals can therefore be restricted by the release of data.</strong></p>
+<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p>At this point I recommend the popular audio book <a href="https://marcuwekling.reimkultur-shop.de/marc-uwe-kling-qualityland-dunkle-edition-audio-cd-6400341.html">"Qualityland"</a> by Mark Uwe Kling. It tells the story of a person who lives in a digitized state and increasingly understands the context of the previous paragraph. For me it is the most brilliant story of a dystopia, because it humorously wraps Mark-Uwe Kling without losing the seriousness of the basic message.</p>
