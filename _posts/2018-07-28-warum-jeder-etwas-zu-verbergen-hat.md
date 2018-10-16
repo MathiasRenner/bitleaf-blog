@@ -12,6 +12,8 @@ post_date: 2018-07-28 18:40:39
 Viele Menschen sind überzeugt, dass sie nichts zu verbergen haben. Beim genaueren Hinsehen entpuppt sich dies leider als ein voreilig getroffener Schluss. Ich will versuchen, diese komplexe Problematik verständlich zu erklären.
 
 <!--more-->
+<p style="text-align: center;"><a href="https://bitleaf.de/2018/07/28/why-everyone-has-something-to-hide/">-&gt; English version of this article</a></p>
+
 <h3>Daten preisgeben heißt nur mehr Werbung?</h3>
 <span style="font-size: medium;">Wenn jemand heute der Verarbeitung seiner Daten zustimmt, werden die Daten neben dem eigentlichen Zweck, </span><span style="font-size: medium;">wie </span><span style="font-size: medium;">z. B. der Abwicklung eines Bestellvorgangs, meist auch für Werbung verwendet. </span><span style="font-size: medium;">Die übliche Schlussfolgerung ist, dass Menschen, die viele Daten von sich preisgeben, einfach mehr Werbung erhalten. </span><span style="font-size: medium;">Das finden viele unproblematisch, da sie Werbung wegklicken oder blockieren können und so den Einfluss von Werbung auf ihr Kaufverhalten kontrollieren können. Das Übermitteln von Daten ist also für viele unproblematisch. Ich halte diese Sichtweise für zu kurz gedacht.</span>
 
