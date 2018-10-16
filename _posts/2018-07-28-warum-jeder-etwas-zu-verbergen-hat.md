@@ -53,9 +53,7 @@ Technisch höchst interessant aber gesellschaftlich höchst kritisch finde ich d
 <h3>Zwischenfazit</h3>
 Zusammenfassend wiederholt sich in China die Geschichte. Zudem wird das, was George Orwell in seinem Buch <a title="George Orwell" href="https://de.wikipedia.org/wiki/1984_(Roman)">"1984"</a> beschrieben hat, noch mehr Realtität als es bisher schon ist.
 
-Der Übergang zur nächsten Stufe des digitalen Überwachungsstaats in China geht es allerdings viel schneller als es bisher möglich war – dank moderner Technologien aus dem Bereich der Künstlichen Intelligenz, nämlich den Machine-Learning-Algorithmen. Diese "Erweiterung" von 1984 durch moderne Technologien, angewendet von wenigen großen IT-Unternehmen wird von Dave Eggers in seinem <a href="https://de.wikipedia.org/wiki/Der_Circle">Bestseller-Roman "The Circle"</a> wunderschön beschrieben. Man könnte meinen, dass China jedes Wort in diesem Buch Realität werden lässt.
-
-Nebenbei bemerkt ist China natürlich nicht das einzige Land, den man als Überwachungsstaat bezeichnen würde.
+Der Übergang zur nächsten Stufe des digitalen Überwachungsstaats in China geht es allerdings viel schneller als es bisher möglich war – dank moderner Technologien aus dem Bereich der Künstlichen Intelligenz, nämlich den Machine-Learning-Algorithmen. Diese "Erweiterung" von 1984 durch moderne Technologien, angewendet von wenigen großen IT-Unternehmen wird von Dave Eggers in seinem <a href="https://de.wikipedia.org/wiki/Der_Circle">Bestseller-Roman "The Circle"</a> wunderschön beschrieben. Man könnte meinen, dass China jedes Wort in diesem Buch Realität werden lässt. Nebenbei bemerkt ist China natürlich nicht das einzige Land, den man als Überwachungsstaat bezeichnen würde.
 
 Für mich lautet an dieser Stelle das Ergebnis wie folgt:
 
