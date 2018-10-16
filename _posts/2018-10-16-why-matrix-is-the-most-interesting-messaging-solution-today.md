@@ -46,7 +46,7 @@ post_date: 2018-10-16 17:16:55
 <!-- wp:embed {"url":"https://bitleaf.de/2018/07/28/why-everyone-has-something-to-hide/","type":"wp-embed","providerNameSlug":"bitleaf-sustainable-it-solutions","className":"wp-has-aspect-ratio wp-embed-aspect-1-1"} -->
 <figure class="wp-block-embed is-type-wp-embed is-provider-bitleaf-sustainable-it-solutions wp-has-aspect-ratio wp-embed-aspect-1-1"><div class="wp-block-embed__wrapper">
 https://bitleaf.de/2018/07/28/why-everyone-has-something-to-hide/
-</div><figcaption>test</figcaption></figure>
+</div></figure>
 <!-- /wp:embed -->
 
 <!-- wp:paragraph -->
