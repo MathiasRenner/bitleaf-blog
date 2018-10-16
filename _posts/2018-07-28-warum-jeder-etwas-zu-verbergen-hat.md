@@ -9,7 +9,8 @@ permalink: >
 published: true
 post_date: 2018-07-28 18:40:39
 ---
-<h3>Viele Menschen sind überzeugt, dass sie nichts zu verbergen haben. Beim genaueren Hinsehen entpuppt sich dies leider als ein voreilig getroffener Schluss. Ich will versuchen, diese komplexe Problematik verständlich zu erklären.</h3>
+Viele Menschen sind überzeugt, dass sie nichts zu verbergen haben. Beim genaueren Hinsehen entpuppt sich dies leider als ein voreilig getroffener Schluss. Ich will versuchen, diese komplexe Problematik verständlich zu erklären.
+
 <!--more-->
 <p style="text-align: center;"><a href="https://bitleaf.de/2018/07/28/why-everyone-has-something-to-hide/">-&gt; English version of this article</a></p>
 
