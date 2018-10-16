@@ -58,7 +58,7 @@ https://bitleaf.de/2018/07/28/why-everyone-has-something-to-hide/
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p><strong>The influence of companies or institutions correlates with the amount of data they have on individuals. Large amounts of data make it possible to understand individuals so well that they become controllable. Thus, the freedom of individuals can be restricted when they release much of their data.</strong></p><cite>Source: <a href="https://bitleaf.de/2018/07/28/why-everyone-has-something-to-hide/">this blog post</a></cite></blockquote>
+<blockquote class="wp-block-quote"><p>The influence of companies or institutions correlates with the amount of data they have on individuals. Large amounts of data make it possible to understand individuals so well that they become controllable. Thus, the freedom of individuals can be restricted when they release much of their data.</p><cite>Source: <a href="https://bitleaf.de/2018/07/28/why-everyone-has-something-to-hide/">this blog post</a></cite></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
