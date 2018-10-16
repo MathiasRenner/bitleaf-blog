@@ -55,7 +55,7 @@ Zusammenfassend wiederholt sich in China die Geschichte. Zudem wird das, was Geo
 
 Der Übergang zur nächsten Stufe des digitalen Überwachungsstaats in China geht es allerdings viel schneller als es bisher möglich war – dank moderner Technologien aus dem Bereich der Künstlichen Intelligenz, nämlich den Machine-Learning-Algorithmen. Diese "Erweiterung" von 1984 durch moderne Technologien, angewendet von wenigen großen IT-Unternehmen wird von Dave Eggers in seinem <a href="https://de.wikipedia.org/wiki/Der_Circle">Bestseller-Roman "The Circle"</a> wunderschön beschrieben. Man könnte meinen, dass China jedes Wort in diesem Buch Realität werden lässt. Nebenbei bemerkt ist China natürlich nicht das einzige Land, den man als Überwachungsstaat bezeichnen würde.
 
-Für mich lautet an dieser Stelle das Ergebnis wie folgt:
+Für mich lautet an dieser Stelle das Ergebnis der bisherigen Überlegungen wie folgt:
 
 <strong>Der Einfluss von Unternehmen oder Einrichtungen aus dem öffentlichen Sektor korreliert mit dem Umfang an Daten, die sie über natürliche Personen haben. Umfangreiche Datenmengen ermöglichen es, Personen so gut zu verstehen, dass sie kontrollierbar werden. Die Freiheit von Personen kann also durch das Herausgeben von Daten eingeschränkt werden.</strong>
 
