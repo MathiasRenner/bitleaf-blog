@@ -112,11 +112,51 @@ post_date: 2018-07-28 18:40:39
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Citizens with low scores are disadvantaged: e.g. their costs of everyday life increase, such as additional costs of the rented apartment, career opportunities are restricted, or the freedom to travel is restricted. One affected person reports: "When I wanted to buy a plane ticket, I didn't get one. As a result, I found out that I could no longer buy any tickets at all" (<a href="https://www.deutschlandfunk.de/sozialkredit-system-china-auf-dem-weg-in-die-it-diktatur.724.de.html?dram:article_id=395440">source</a>, only german). A citizen from Rongcheng says: "Whatever we do, we think of our credit points."</p>
+<p>Citizens with low scores are disadvantaged: e.g. their costs of everyday life increase, such as additional costs of the rented apartment, career opportunities are restricted, or the freedom to travel is restricted. One affected person reports: </p>
 <!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>"When I wanted to buy a plane ticket, I didn't get one. As a result, I found out that I could no longer buy any tickets at all" <br/></p><cite><a href="https://www.deutschlandfunk.de/sozialkredit-system-china-auf-dem-weg-in-die-it-diktatur.724.de.html?dram:article_id=395440">Source</a>, in german.</cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>A citizen from Rongcheng says: </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>"Whatever we do, we think of our credit points."</p></blockquote>
+<!-- /wp:quote -->
 
 <!-- wp:paragraph -->
 <p>I find the automation of this system technically highly interesting but from a political point of view highly critical. When the system is applied to 1.4 billion Chinese in 18 months from now, a multitude of algorithms from the field of machine learning is applied, especially from the so-called "deep learning" area. As mentioned <a href="https://bitleaf.de/2018/07/17/qwant-the-most-interesting-search-engine-today/">in this blog post</a>, these algorithms have the weakness that they are difficult to control and not yet fully understood. In summary, the fate of people in China will soon be determined by algorithms that we have not yet fully penetrated.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Interim conclusion</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>In summary, history repeats itself in China. Moreover, what George Orwell described in his book <a href="https://en.wikipedia.org/wiki/Nineteen_Eighty-Four">"1984"</a> becomes even more real than it already is.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>However, the transition to the next stage of the digital surveillance state in China is taking place much faster than has been possible so far - thanks to modern technologies from the field of artificial intelligence, namely machine learning algorithms. This "extension" of 1984 by modern technologies, applied by a few large IT companies, is beautifully described by Dave Eggers in his bestselling novel <a href="https://en.wikipedia.org/wiki/The_Circle_(Eggers_novel)">"The Circle"</a>. One might think that China makes every word in this book a reality.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>By the way, China is of course not the only country you would call a surveillance state.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For me, the result at this point is as follows:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p><strong>The influence of companies or institutions in the public sector correlates with the amount of data they have on natural persons. Large amounts of data make it possible to understand individuals so well that they become controllable. The freedom of individuals can therefore be restricted by the release of data.</strong></p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>At this point I recommend the popular audio book <a href="https://marcuwekling.reimkultur-shop.de/marc-uwe-kling-qualityland-dunkle-edition-audio-cd-6400341.html">"Qualityland"</a> by Mark Uwe Kling. It tells the story of a person who lives in a digitized state and increasingly understands the context of the previous paragraph. For me it is the most brilliant story of a dystopia, because it humorously wraps Mark-Uwe Kling without losing the seriousness of the basic message.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
