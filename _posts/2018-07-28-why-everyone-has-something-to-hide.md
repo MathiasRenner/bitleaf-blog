@@ -92,7 +92,7 @@ post_date: 2018-07-28 18:40:39
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Using China as an example, I would like to illustrate the development stage of propaganda, i.e. the condition in which citizens who brave the manipulation and thus do not always act in conformity with the political party (the "one" party) are disadvantaged. The sources for the following information on China can be found at the end of this section.</p>
+<p>Using China as an example, I would like to illustrate the development stage of propaganda, i.e. the condition in which citizens who brave the manipulation and thus do not always act in conformity with the political party (the "one" party) are disadvantaged. The sources for the following information on China can be found at the end of this article.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
