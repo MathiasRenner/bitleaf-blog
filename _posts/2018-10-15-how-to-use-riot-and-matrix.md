@@ -19,7 +19,7 @@ post_date: 2018-10-15 13:48:31
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Why should you use this one? For several reasons I consider <strong>Riot with Matrix the most interesting messaging solution for everyone available today</strong>. Please see <a href="http://bitleaf.de">this blog post</a> to read more about my reasoning.</p>
+<p>Why should you use this one? For several reasons I consider <strong>Riot with Matrix the most interesting messaging solution for everyone available today</strong>. Please see <a href="https://bitleaf.de/2018/10/16/why-matrix-is-the-most-interesting-messaging-solution-today/">this blog post</a> to read more about my reasoning.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
