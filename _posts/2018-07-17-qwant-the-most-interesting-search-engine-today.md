@@ -42,7 +42,6 @@ post_date: 2018-07-17 21:10:58
 <p>The manufacturer is obivously convinced that advertising that is displayed in connection with the search term is interesting enough for the user.</p>
 <p>For those who have disabled JavaScript in their browser to protect their privacy, Qwant offers a "Lite" variant.</p>
 <p>One of the requirements Qwant does not fully meet: Parts of the search results are supplemented by the Microsoft search engine, i.e. "Bing". Qwant indexes (i.e. searches) the Internet itself, but this does not seem to work 100% well enough yet. Unfortunately, it is not known how high this additional share is. In the long run, Qwant wants to get away from Bing of course.</p>
-<p><strong>In summary, Qwant is the search engine that meets the requirements above best - despite its current partial dependence on Bing.</strong></p>
 <h3>Other opinions on Qwant</h3>
 <p>The prominent blogger and IT security specialist <a href="https://www.kuketz-blog.de/suchmaschine-qwant-naeher-betrachtet/">Mike Kuketz</a> also considers Qwant to be one of the best solutions for normal users.</p>
 <p>Critics are skeptical about Axel Springer SE's 20 % stake in Qwant. However, Springer's strategy is not subject to any functional restrictions and is understandable. Similar to other holdings such as VG Media, Springer is trying to reduce Google's market share and is placing its hopes on Qwant.</p>
@@ -50,19 +49,14 @@ post_date: 2018-07-17 21:10:58
 <h3>Tracking in Qwant? Interesting conversation with developers of Qwant</h3>
 <p>Evaluating the source code of Qwant's web page, I found a function called "logHandler". At first sight, this looked like a tracker to me. I'm obviously <a href="https://www.dsfc.net/internet/moteurs-internet/qwant-collecte-donnees-experience-utilisateur/">not the only one with this find</a> either. Thus <a href="https://mastodon.social/@mathiasrenner/100516557526064469">I asked Qwant directly about this</a> function and two other suspicious findings. See my questions/statements and their answers:<br /><br /></p>
 <p><strong>Question 1:</strong> “All ads are links to Bing service, instead of direct links -&gt; allows tracking of clicks”</p>
-<blockquote>
-<p><em>Answer: When you search with Qwant, no personal data is transmitted to Microsoft. However when you click on ads that are not under our control, it is true that Bing Ads may track your clicks, which is why we link to their privacy policy.</em></p>
-</blockquote>
+<p>Answer<em>: When you search with Qwant, no personal data is transmitted to Microsoft. However when you click on ads that are not under our control, it is true that Bing Ads may track your clicks, which is why we link to their privacy policy.</em></p>
 <p><strong><em>Question 2: </em></strong>“In the lite version, there are redirects on results instead of direct links”</p>
-<blockquote>
-<p><em>Answer: Qwant Lite redirects are only used to know which results are clicked for a given search, which enables for agregate stats. We don't collect personal data in the process. Agregate stats are necessary to rank results.</em></p>
-</blockquote>
+<p>Answer:<em> Qwant Lite redirects are only used to know which results are clicked for a given search, which enables for agregate stats. We don't collect personal data in the process. Agregate stats are necessary to rank results.</em></p>
 <p><strong><em>Question 3: </em></strong>“In the non-lite version, there is a Javscript function listening on clicks on results called e.g. "logHandler", instead of direct links”</p>
-<blockquote>
-<p><em>Answer: Same answer<br /></em></p>
-</blockquote>
+<p>Answer: <em>Same answer.<br /></em></p>
 <p> </p>
 <p>To me, this is fine, I understand their motivation. Qwant is not alone improving their internal algorithms using feedback from clicks. Later in this article, I'll mention another search engine which might become more interesting than Qwant one day. They also track clicks to improve the search engine algorithms to eventually provide better results.</p>
+<p><strong>In summary, Qwant is the search engine that meets the requirements above best - despite its current partial dependence on Bing.</strong></p>
 <h3>How do I install Qwant?</h3>
 <p><strong>Firefox</strong>: Install <a href="https://addons.mozilla.org/en/firefox/addon/qwantcom-for-firefox/">this add-on</a> - that's it. I have not found a way to install the search engine without this extension.</p>
 <p>Optionally, I recommend setting a blank page when opening a new window or tab. By that unnecessary information is not displayed and the browser reacts somewhat faster. To do this, enter the following characters in the address bar in Firefox and press "Enter":<em> about:preferences#home</em> . Further down on the page, you see the the option to configure behavior when opening a new window or tab.</p>
