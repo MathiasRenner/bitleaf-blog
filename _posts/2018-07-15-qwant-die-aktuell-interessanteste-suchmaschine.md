@@ -59,6 +59,16 @@ Der prominente Blogger und IT-Sicherheits-Spezialist <a href="https://www.kuketz
 Kritiker bemängeln die Beteilung von Axel Springer SE mit 20 % an Qwant. Die Strategie von Springer ist allerdings mit keinen funktionalen Einschränkungen verbunden und nachvollziehbar. Ähnlich wie mit <a href="https://www.silicon.de/41600131/qwant-axel-springer-steigt-bei-suchmaschine/">anderen Beteiligungen</a> wie z.B. an der VG Media versucht Springer den Marktanteil von Google zu reduzieren und setzt seine Hoffnungen auf Qwant.
 
 Zudem erwähnen Kritiker, dass die Legislative Frankreichs seit vielen Jahren im Europa-Vergleich eher <a id="install-qwant" href="https://www.heise.de/forum/heise-online/News-Kommentare/Suchmaschine-Qwant-Neues-Design-zum-5-Geburtstag/Re-Geschaeftsmodell-und-Vorratsdatenspeicherung/posting-32657288/show/">pro Überwachung statt pro Datenschutz</a> ausgerichtet ist. Ein Beispiel ist die Vorratsdatenspeicherung. Aus meiner Sicht ist mit der DSGVO europaweit ein einheitlicher Standard gelegt worden, der viele Datenschutz-Themen europaweit gleich behandeln lässt.
+<h3>Tracking in Qwant? Interessantes Gespräch mit den Entwicklern von Qwant</h3>
+Bei der Auswertung des Quellcodes der Qwant-Webseite fand ich eine Funktion namens "logHandler". Auf den ersten Blick sah das für mich wie ein Tracker. Mit diesem Fund ich ich auch offensichtlich <a href="https://www.dsfc.net/internet/moteurs-internet/qwant-collecte-donnees-experience-utilisateur/">nicht allein.</a> Deshalb habe ich Qwant direkt nach dieser Funktion und zwei weiteren gefragt, die mir verdächtig vorkamen. Siehe meine Fragen (sind eher Feststellungen) und deren Antworten:
+
+<strong>Frage 1:</strong> "Alle Anzeigen sind Links zum Bing-Service, anstelle von direkten Links -&gt; ermöglicht die Verfolgung von Klicks".
+<blockquote><em><strong>Antwort</strong>: Wenn Sie mit Qwant suchen, werden keine personenbezogenen Daten an Microsoft übermittelt. Wenn Sie jedoch auf Anzeigen klicken, die nicht unter unserer Kontrolle stehen, ist es wahr, dass Bing Ads Ihre Klicks verfolgen kann, weshalb wir auf deren Datenschutzerklärung verweisen.</em></blockquote>
+<strong>Frage 2:</strong> "In der Lite-Version gibt es Umleitungen auf Ergebnisse anstelle von direkten Links."
+<blockquote>Antworte: Qwant Lite Redirects werden nur verwendet, um zu wissen, welche Ergebnisse für eine bestimmte Suche angeklickt werden, was die Vereinbarung von Statistiken ermöglicht. Dabei erheben wir keine personenbezogenen Daten. Agregate-Statistiken sind notwendig, um die Ergebnisse zu bewerten.</blockquote>
+<strong>Frage 3:</strong> "In der Nicht-Lite-Version gibt es eine Javscript-Funktion, die auf Klicks auf Ergebnisse hört, die z.B. "logHandler" genannt werden, anstelle von direkten Links".
+<blockquote>Antworte: Gleiche Antwort</blockquote>
+Für mich ist das in Ordnung, ich verstehe ihre Motivation. Qwant ist nicht allein damit, seine internen Algorithmen durch Feedback von Klicks zu verbessern. Später in diesem Artikel werde ich eine andere Suchmaschine erwähnen, die eines Tages interessanter werden könnte als Qwant. Sie verfolgt auch Klicks, um die Suchmaschinenalgorithmen zu verbessern und schließlich bessere Ergebnisse zu erzielen.
 <h3>Wie installiere ich Qwant?</h3>
 <strong>Firefox</strong>: Dieses <a href="https://addons.mozilla.org/de/firefox/addon/qwantcom-for-firefox/">Addon</a> installieren - fertig. Ich habe keine Möglichkeit gefunden, die Suchmaschine ohne diese Erweiterung zu installieren.
 
@@ -75,7 +85,5 @@ Optional empfehle ich noch, beim Öffnen eines neuen Fensters oder Tabs eine lee
 Ixquick: Existiert nicht mehr als eigenständige Suchmaschine, <a href="https://en.wikipedia.org/wiki/Ixquick#Startpage.com">wurde mit dem anderen Produkt des Herstellers Startpage zusammengelegt</a>.
 <h3>Ausblick</h3>
 Qwant will in Europa einen Marktanteil von 5 bis 10 Prozent erreichen. In Frankreich sind es schon heute 5 Prozent (<a href="https://www.heise.de/newsticker/meldung/Suchmaschine-Qwant-Neues-Design-zum-5-Geburtstag-4103431.html">Quelle</a>). Lasst uns Qwant nutzen, damit dieses Ziel schneller erreicht wird.
-
-&nbsp;
 
 p.s. Ich erhalte von keiner Suchmaschine oder irgendeinem der hier erwähnten Unternehmen oder Personen eine finanzielle Förderung.
