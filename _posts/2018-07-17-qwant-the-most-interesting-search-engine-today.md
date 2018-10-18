@@ -2,15 +2,18 @@
 ID: 1574
 post_title: 'Qwant &#8211; the most interesting search engine today'
 author: Mathias Renner
-post_excerpt: ""
+post_excerpt: >
+  The search engine Qwant currently offers
+  the best mix of good search results,
+  high data protection and usability
+  without further IT knowledge.
 layout: post
 permalink: >
   https://bitleaf.de/2018/07/17/qwant-the-most-interesting-search-engine-today/
 published: true
 post_date: 2018-07-17 21:10:58
 ---
-<h3>The search engine Qwant currently offers the best mix of good search results, high data protection and usability without further IT knowledge.</h3>
-<p><!--more--></p>
+<p><strong>The search engine Qwant currently offers the best mix of good search results, high data protection and usability without further IT knowledge.</strong></p>
 <p style="text-align: center;"><a href="https://bitleaf.de/2018/07/15/qwant-die-aktuell-interessanteste-suchmaschine/">-&gt; Deutsche Version des Artikels</a></p>
 <h3>Why not just Google?</h3>
 <p>Search engines are among the software solutions that most of us use on a daily basis. Using a "good" search engine should therefore have a relatively high priority.</p>
