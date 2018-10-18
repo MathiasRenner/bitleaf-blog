@@ -2,16 +2,20 @@
 ID: 1513
 post_title: 'Qwant &#8211; die aktuell interessanteste Suchmaschine'
 author: Mathias Renner
-post_excerpt: ""
+post_excerpt: >
+  Die Suchmaschine Qwant bietet aktuell
+  den besten Mix aus guten
+  Suchergebnissen, hohem Datenschutz und
+  Verwendbarkeit ohne weitere
+  IT-Kenntnisse.
 layout: post
 permalink: >
   https://bitleaf.de/2018/07/15/qwant-die-aktuell-interessanteste-suchmaschine/
 published: true
 post_date: 2018-07-15 11:59:23
 ---
-<p>Die Suchmaschine Qwant bietet aktuell den besten Mix aus guten Suchergebnissen, hohem Datenschutz und Verwendbarkeit ohne weitere IT-Kenntnisse.<br /><!--more--></p>
+<p><strong>Die Suchmaschine Qwant bietet aktuell den besten Mix aus guten Suchergebnissen, hohem Datenschutz und Verwendbarkeit ohne weitere IT-Kenntnisse.</strong></p>
 <p style="text-align: center;"><a href="https://bitleaf.de/2018/07/17/qwant-the-most-interesting-search-engine-today/">-&gt; English version of this article</a></p>
-<p><strong>Hinweis</strong>: Wer die Argumentation für Qwant überspringen möchte, findet <a href="https://bitleaf.de/?p=1513#install-qwant">in diesem Abschnitt</a> die Installationsanleitung für Qwant (ein einziger Schritt).</p>
 <h3>Warum nicht einfach Google?</h3>
 <p>Suchmaschinen gehören zu den Software-Lösungen, die die Meisten von uns jeden Tag vielfach verwenden. Eine "gute" Suchmaschine zu verwenden, sollte also eine relativ hohe Priorität haben.</p>
 <p>Der weltweite Marktführer Google zählt für mich aus mehreren Gründen nicht zu den "guten" Lösungen. Denn je mehr Unternehmen wie Google bzw. dessen Mutterkonzern Alphabet existieren, deren Geschäftsmodell auf Daten und deren Analyse beruht und die gleichzeitig die Privatsphäre der Nutzer mit den Füßen treten, desto mehr verlieren wir Bürger die Kontrolle über unsere Entscheidungen und schlussendlich über unsere Gesellschaft. Das Ergebnis beschreibt Mark-Uwe Kling wunderbar in seinem Buch <a href="http://marcuwekling.de/faq/" target="_blank" rel="noopener">Qualityland</a>, das die negativen Auswirkungen einer stark datengetriebenen Gesellschaft in einer witzigen und verständlichen Form darlegt. Ähnliche Werke sind <a href="https://en.wikipedia.org/wiki/Nineteen_Eighty-Four" target="_blank" rel="noopener">George Orwells 1984</a> oder <a href="https://en.wikipedia.org/wiki/The_Circle_(Eggers_novel)" target="_blank" rel="noopener">The Circle</a>.</p>
