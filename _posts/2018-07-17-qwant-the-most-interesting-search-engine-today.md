@@ -67,21 +67,7 @@ post_date: 2018-07-17 21:10:58
 <p><a href="https://duckduckgo.com/">DuckDuckGo</a>: <a href="https://en.wikipedia.org/wiki/DuckDuckGo">Headquarters in the USA</a>. As a result, DuckDuckGo does not meet one of the requirements.</p>
 <p><a href="https://www.startpage.com/">Startpage</a>, <a href="https://metager.de/">Metager</a>, <a href="https://www.unbubble.eu/">UnBubble</a>, <a href="http://searx.me">Searx.me</a>, <a href="https://www.ecosia.org/">Ecosia</a>, <a href="https://www.etools.ch/search.do">Etools</a> etc.: These so-called "meta search engines" aggregate and display the search results of one or more of the major search engines. Personal data are allegedly not transferred as a result. The problem is that their use increases the demand for the major search engines and yet <a href="https://github.com/nylira/prism-break/issues/168">personal data is still passed on</a>.</p>
 <p>Ixquick: Does not exist as an independent search engine anymore. It <a href="https://en.wikipedia.org/wiki/Ixquick#Startpage.com">was merged with Startpage.com</a>.</p>
-<p><a href="https://www.findx.com/">Findx</a> - see next chapter.</p>
-<h3>Runner up: Findx</h3>
-<p><img class="irc_mi" src="https://pclosmag.com/html/Issues/201711/images/page05/findx.jpg" alt="Bildergebnis für findx search engine" width="718" height="194" /></p>
-<p>The only three-year-old search engine is run by a small team from Denmark. <a href="https://www.findx.com/">Findx</a> meets the requirements stated above to a high degree:</p>
-<ul>
-<li>The manufacturer is based in Denmark.</li>
-<li>The relevance of the resuts still lack some quality, but the developers are working hard on improving their algorithms.</li>
-<li>Findx can be used as a service by everyone, similar to Qwant, without further IT knowledge.</li>
-<li>"Findx does not collect personal information and this will never change." (<a href="https://get.findx.com/privacy/">Source</a>)</li>
-</ul>
-<p>Findx follows an idealistic approach. They even publish their source code, which makes it an <a href="https://get.findx.com/open-source/">Open Source Search engine</a>! This is just great!</p>
-<p>For those who have disabled JavaScript in their browser to protect their privacy Findx also works.</p>
-<p>One of the requirements Findx does not fully meet: The relevance of the results varies is still lacking some quality. This is because of the small size of their own independent index. At this point, Findx does not supplement its index from other sources like Qwant does with Bing.</p>
-<p>If you are not happy with the results of Findx, you can use <a href="https://help.findx.com/en/search-exits">Exits</a>, which let you use another search engine easily. Just add a shortcut to your search query like "!g" and you'll see results from Google. This feature is available in Qwant as well.</p>
-<p>In addition Findx's commitment to privacy is also shown in their privacy extension for Firefox: the <a href="https://addons.mozilla.org/en-US/firefox/addon/findx-privacy-control/">Findx Privacy Control add-on</a> can be installed, and you'll be able to block tracking, control cookies and of course search in private. It's also available for <a href="https://chrome.google.com/webstore/detail/findx-privacy-control/hmindffkcgchnijdapipnaoajajkhjpn">Chrome</a> and <a href="https://safari-extensions.apple.com/details/?id=com.findx.privacycontrol-5QE6FTCMP9">Safari</a>.</p>
+<p>Findx: The first search engine that met all requirements and - even more - was open source! This is heaven on earth. Unfortunately, Findx shut down in Dec 2018. See the  <a href="https://privacore.github.io/">shutdown notice</a> of the founder.</p>
 <h3>Prospects</h3>
 <p>It will be exciting to follow the progess of Qwant and Findx. IMHO, Qwant should get independent from Bing, and Findx needs to provide better search results. If that's achieved, <a href="https://www.activateprivacy.com/comparison-of-private-search-engines/">Findx will replace Qwant</a>.</p>
 <p>Until then, let's use Qwant for its good results-privacy-mix. Qwant aims to achieve a market share of 5 to 10 percent in Europe. In France, the figure is already 5 percent. Let us use Qwant to achieve this goal more quickly.</p>
