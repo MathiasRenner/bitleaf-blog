@@ -50,32 +50,32 @@ post_date: 2018-10-15 13:48:31
 <p>2. Install Riot and start it. After startup it should look like this:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":1761,"align":"center","width":501,"height":665} -->
-<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://bitleaf.de/wp-content/uploads/2018/10/riot-start.png" alt="" class="wp-image-1761" width="501" height="665"/></figure></div>
+<!-- wp:image {"id":2005,"align":"center"} -->
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://bitleaf.de/wp-content/uploads/2019/01/riot-screenshot-after-start-1.png" alt="" class="wp-image-2005"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>3. Create an account by clicking on "Create an account" below the large "sign in" button and fill out the fields. Note that only a user name and password is mandatory. However, I recommend to provide your email address to allow password recovery.<br>More advanced users should use a custom server, of course. In this article, I focus on the easiest way for beginners.<br></p>
+<p>3. Create an account by clicking on "Register" in the text field with the red alert sign upfront. It should look like this:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>4. If you provided an email address, go to your inbox and follow the instructions in the email you just received from Matrix.org</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>5. Close Riot and open it again such that you see the login masks. Type in your new credentials in the corresponding fields. Before you click "sign in", select "custom server" below the "sign in" button. It should look like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":1762,"align":"center"} -->
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://bitleaf.de/wp-content/uploads/2018/10/identity-server-correct.png" alt="" class="wp-image-1762"/></figure></div>
+<!-- wp:image {"id":2007,"align":"center"} -->
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://bitleaf.de/wp-content/uploads/2019/01/riot-screenshot-fields-to-register-1.png" alt="" class="wp-image-2007"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Now, make sure that the upper field holds "https://matrix.org/".</p>
+<p>Now, fill out the fields. Note that only a user name and password is mandatory. However, I recommend to provide your email address to allow password recovery. For this guide, I assume you provide an email address.<br>Finish registration by clicking on the button "register".<br><br>More advanced users should use a custom server, of course. In this article, I focus on the easiest way for beginners.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>6. Log in by clicking on the "sign in" button. This may take up to 30 seconds. Afterwards, it should look like this:</p>
+<p>4. Go to your inbox and follow the instructions in the email you just received from Matrix.org</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Close Riot and open it again such that you see the login mask. Type in your new credentials in the corresponding fields and  click "sign in".</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Signing-in may take up to 30 seconds. Afterwards, it should look like this:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1763} -->
@@ -110,8 +110,12 @@ post_date: 2018-10-15 13:48:31
 <h3>Let‘s add encryption!</h3>
 <!-- /wp:heading -->
 
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p><strong>Note: As of Jan 2019, this end-to-end encryption does not work reliably. If you are a non-IT-person, I do not recommend to activate encryption for now! Messages are secured during transport. Bare with that for now.</strong></p></blockquote>
+<!-- /wp:quote -->
+
 <!-- wp:paragraph -->
-<p>1. Until now, your conversation is unencrypted. Activate encryption by <strong>clicking on the gear button on the top right in the Riot app:</strong><br></p>
+<p>1. Until now, your conversation is not end-to-end encrypted. Activate E2E encryption by <strong>clicking on the gear button on the top right in the Riot app:</strong><br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1782,"align":"center","width":318,"height":220} -->
