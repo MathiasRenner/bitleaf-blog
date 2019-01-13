@@ -103,39 +103,11 @@ post_date: 2018-10-15 13:48:31
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. Congrats! You now can start to communicate with a messenger that respects your privacy! Next, you can install Riot on more of your devices. Again, go to <a href="https://riot.im/">https://riot.im/</a>, download Riot for your operating system and log in with your new credentials. That‘s it!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3} -->
-<h3>Let‘s add encryption!</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>1. Until now, your conversation is unencrypted. Activate encryption by <strong>clicking on the gear button on the top right in the Riot app:</strong><br></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":1782,"align":"center","width":318,"height":220} -->
-<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://bitleaf.de/wp-content/uploads/2018/10/settings-arrow.png" alt="" class="wp-image-1782" width="318" height="220"/></figure></div>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p>This should open the settings page. In the top half of that page, <strong>check the box saying "Enable encryption</strong> (warning: cannot be disabled again!)". Afterwards, click on "save" in the top right corner.</p>
+<p>3. Congrats! You now can start to communicate with a messenger that respects your privacy! Next, you can install Riot on more of your devices. Again, go to <a href="https://riot.im/">https://riot.im/</a>, download Riot for your operating system and log in with your new credentials. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Next, <strong>write a text message to your partner from all devices you've Riot installed on</strong>, and ask your partner to do the same from all his devices.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>3. Some of the messages might not be readable or include warning. In this case should see a yellow sign with and exclamation mark next to your and/or your partner‘s messages. <strong>Click on the yellow sign</strong>, which opens a new window. In that new window click on the button "verify..." at the bottom right. Finally, click on "I verify that the keys match" and close the window with "OK“.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>4. If the encryption is working properly, <strong>you should see a closed locker next to your recent chat messages</strong>. If you still see the yellow sign, just repeat step 2 and 3 until you see the locker as well.<br>If you click on the yellow sign and do not have an option to verify keys – also repeat step 3 and 4 and also restart the app Riot. Sometimes this helps :-)</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Congrats! Welcome in the fediverse of open, free and secure messaging!</p>
+<p>That's it! Welcome in the fediverse of open, free and secure messaging!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -146,6 +118,10 @@ more to come!</strong></h3>
 
 <!-- wp:paragraph -->
 <p>If you‘ve followed the setup steps in this article, you‘ve probably noticed, that the Riot is not all the time as user friendly as mainstream apps like Whatsapp or Telegram are. To me, all in all these issues are minor compared to the features I get: a reliable and secure messenger. Luckily, the usability will be improved soon. In February of 2018, the project got an investment of $5 M, which should result in several improvements on the project.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>One of the features to be improved is the end-to-end encryption. To me, it's not reliable yet, so I do not recommend to enable this features as of today. Just bare with transport security for now.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
