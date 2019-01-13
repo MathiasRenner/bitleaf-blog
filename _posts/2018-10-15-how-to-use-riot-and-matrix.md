@@ -31,7 +31,7 @@ post_date: 2018-10-15 13:48:31
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>a computer </li><li> a friend you'd like to chat with</li><li>15 minutes of your time</li></ul>
+<ul><li>a computer&nbsp;</li><li> a friend you'd like to chat with</li><li>15 minutes of your time</li></ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
@@ -55,7 +55,7 @@ post_date: 2018-10-15 13:48:31
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>3. Create an account by clicking on "Create an account" below the large "sign in" button and fill out the fields. Note that only a user name and password is mandatory. However, I recommend to provide your email address to allow password recovery.<br/>More advanced users should user a custom server, of course. In this article, I focus on the easiest way for beginners.<br/></p>
+<p>3. Create an account by clicking on "Create an account" below the large "sign in" button and fill out the fields. Note that only a user name and password is mandatory. However, I recommend to provide your email address to allow password recovery.<br>More advanced users should use a custom server, of course. In this article, I focus on the easiest way for beginners.<br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -71,7 +71,7 @@ post_date: 2018-10-15 13:48:31
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Now, make sure that the upper field holds "https://matrix.org/". Next, delete the content of the second field such that the field is just empty. "identity server" is a feature that you shouldn't use for privacy reasons. It also adds only little value.<br/></p>
+<p>Now, make sure that the upper field holds "https://matrix.org/".</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -111,7 +111,7 @@ post_date: 2018-10-15 13:48:31
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Until now, your conversation is unencrypted. Activate encryption by <strong>clicking on the gear button on the top right in the Riot app:</strong><br/></p>
+<p>1. Until now, your conversation is unencrypted. Activate encryption by <strong>clicking on the gear button on the top right in the Riot app:</strong><br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1782,"align":"center","width":318,"height":220} -->
@@ -131,7 +131,7 @@ post_date: 2018-10-15 13:48:31
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>4. If the encryption is working properly, <strong>you should see a closed locker next to your recent chat messages</strong>. If you still see the yellow sign, just repeat step 2 and 3 until you see the locker as well.<br/>If you click on the yellow sign and do not have an option to verify keys – also repeat step 3 and 4 and also restart the app Riot. Sometimes this helps :-)</p>
+<p>4. If the encryption is working properly, <strong>you should see a closed locker next to your recent chat messages</strong>. If you still see the yellow sign, just repeat step 2 and 3 until you see the locker as well.<br>If you click on the yellow sign and do not have an option to verify keys – also repeat step 3 and 4 and also restart the app Riot. Sometimes this helps :-)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
