@@ -45,7 +45,7 @@ Für die technische Umsetzung werden Datenbank vieler Unternehmen, zusammengezog
 
 [caption id="attachment_1623" align="aligncenter" width="743"]<img class="size-full wp-image-1623" src="https://bitleaf.de/wp-content/uploads/2018/07/roncheng-public-board.jpg" alt="Öffentlicher Aushang in Rongcheng" width="743" height="421" /> Öffentlicher Aushang in Rongcheng (von <a href="https://foreignpolicy.com/2018/04/03/life-inside-chinas-social-credit-laboratory/">foreignpolicy.com</a>)[/caption]
 <h3>Welche Auswirkung hat der Citizen Score?</h3>
-Bürger mit niedrigem Punktestand werden benachteiligt; z. B. steigen Kosten des Alltags, wie Nebenkosten der Mietwohnung, Karrieremöglichkeiten werden eingeschränkt, oder <a href="_wp_link_placeholder">die Reisefreiheit wird eingeschränkt</a>. <a href="https://www.deutschlandfunk.de/sozialkredit-system-china-auf-dem-weg-in-die-it-diktatur.724.de.html?dram:article_id=395440" target="_blank" rel="noopener">Ein Betroffener berichtet</a>:
+Bürger mit niedrigem Punktestand werden benachteiligt; z. B. steigen Kosten des Alltags, wie Nebenkosten der Mietwohnung, Karrieremöglichkeiten werden eingeschränkt, oder die Reisefreiheit wird eingeschränkt. <a href="https://www.deutschlandfunk.de/sozialkredit-system-china-auf-dem-weg-in-die-it-diktatur.724.de.html?dram:article_id=395440" target="_blank" rel="noopener">Ein Betroffener berichtet</a>:
 <blockquote>"Als ich ein Flugticket kaufen wollte, habe ich keins bekommen. Daraufhin habe ich herausgefunden, dass ich grundsätzlich keine Tickets mehr kaufen kann".</blockquote>
 Ein Bürger aus Rongcheng sagt:
 <blockquote>"Was immer wir auch tun, wir denken dabei an unsere Kreditpunkte."</blockquote>
