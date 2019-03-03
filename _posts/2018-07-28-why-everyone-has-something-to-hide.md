@@ -20,7 +20,7 @@ post_date: 2018-07-28 18:40:39
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p style="text-align:center"><a href="https://bitleaf.de/2018/07/28/warum-jeder-etwas-zu-verbergen-hat/">-> Deutsche Version des Artikels</a></p>
+<p style="text-align:center"><a href="https://bitleaf.de/2018/07/28/warum-jeder-etwas-zu-verbergen-hat/">-&gt; Deutsche Version des Artikels</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -112,11 +112,11 @@ post_date: 2018-07-28 18:40:39
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Citizens with low scores are disadvantaged: e.g. their costs of everyday life increase, such as additional costs of the rented apartment, career opportunities are restricted, or the freedom to travel is restricted. One affected person reports: </p>
+<p>Citizens with low scores are disadvantaged: e.g. their costs of everyday life increase, such as additional costs of the rented apartment, career opportunities are restricted, or the <a href="https://www.tagesschau.de/ausland/sozialkredit-ranking-china-101.html">freedom to travel is restricted</a>. One affected person reports: </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>"When I wanted to buy a plane ticket, I didn't get one. As a result, I found out that I could no longer buy any tickets at all" <br/></p><cite><a href="https://www.deutschlandfunk.de/sozialkredit-system-china-auf-dem-weg-in-die-it-diktatur.724.de.html?dram:article_id=395440">Source</a>, in german.</cite></blockquote>
+<blockquote class="wp-block-quote"><p>"When I wanted to buy a plane ticket, I didn't get one. As a result, I found out that I could no longer buy any tickets at all" <br></p><cite><a href="https://www.deutschlandfunk.de/sozialkredit-system-china-auf-dem-weg-in-die-it-diktatur.724.de.html?dram:article_id=395440">Source</a>, in german.</cite></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
@@ -152,11 +152,11 @@ post_date: 2018-07-28 18:40:39
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>To me, honestly, it took many years to come to this conclusion. I analyzed business models of data driven companies, looked at encryption ciphers of apps, read the documents uncovered by Edward Snowden and followed the thoughts of the free software movement, induced by Richard Stallman. I still have the feeling that I understood only the tip of the iceberg, because all in all it's a very complex problem. Exactly that is leveraged by the few companies pushing surveillance: Not many people understand the correlations, many are not aware and say "I have nothing to hide" and spread their data. To me, there is enough evidence, so I'll feel responsible to spread the word, but never my data.<br/></p>
+<p>To me, honestly, it took many years to come to this conclusion. I analyzed business models of data driven companies, looked at encryption ciphers of apps, read the documents uncovered by Edward Snowden and followed the thoughts of the free software movement, induced by Richard Stallman. I still have the feeling that I understood only the tip of the iceberg, because all in all it's a very complex problem. Exactly that is leveraged by the few companies pushing surveillance: Not many people understand the correlations, many are not aware and say "I have nothing to hide" and spread their data. To me, there is enough evidence, so I'll feel responsible to spread the word, but never my data.<br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Finally, I recommend the popular audio book <a href="https://marcuwekling.reimkultur-shop.de/marc-uwe-kling-qualityland-dunkle-edition-audio-cd-6400341.html">"Qualityland"</a> by Mark Uwe Kling. It tells the story of a person who lives in a digitized state and increasingly understands the problems induced by surveillance. For me it is the most brilliant story of a dystopia, because it's humorously wrapped by  without losing the seriousness of the basic message.</p>
+<p>Finally, I recommend the popular audio book <a href="https://marcuwekling.reimkultur-shop.de/marc-uwe-kling-qualityland-dunkle-edition-audio-cd-6400341.html">"Qualityland"</a> by Mark Uwe Kling. It tells the story of a person who lives in a digitized state and increasingly understands the problems induced by surveillance. For me it is the most brilliant story of a dystopia, because it's humorously wrapped by&nbsp; without losing the seriousness of the basic message.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -192,11 +192,11 @@ post_date: 2018-07-28 18:40:39
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>It is up to each person to become a master of their own data and IT again. Every small step in the right direction counts. I have described some of them here in the Bitleaf blog. These include, for example, <a href="https://bitleaf.de/2018/07/17/qwant-the-most-interesting-search-engine-today/">privacy-friendly search engines</a>, <a href="https://bitleaf.de/2017/03/25/the-all-in-one-and-secure-sync-solution-nextcloud/">your own file storage in the cloud</a> and privacy-friendly operating systems such as Linux. <br/></p>
+<p>It is up to each person to become a master of their own data and IT again. Every small step in the right direction counts. I have described some of them here in the Bitleaf blog. These include, for example, <a href="https://bitleaf.de/2018/07/17/qwant-the-most-interesting-search-engine-today/">privacy-friendly search engines</a>, <a href="https://bitleaf.de/2017/03/25/the-all-in-one-and-secure-sync-solution-nextcloud/">your own file storage in the cloud</a> and privacy-friendly operating systems such as Linux. <br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Attention: Open source solutions like Ubuntu, which is based on Linux, do not automatically conform to data protection regulations. Instead it often requires some cleaning after installation. Also not all open source solutionsa are data protection friendly. The list of recommended solutions changes frequently. If you have any questions, please do not hesitate to contact me, I follow the current developments as much as I can.<br/></p>
+<p>Attention: Open source solutions like Ubuntu, which is based on Linux, do not automatically conform to data protection regulations. Instead it often requires some cleaning after installation. Also not all open source solutionsa are data protection friendly. The list of recommended solutions changes frequently. If you have any questions, please do not hesitate to contact me, I follow the current developments as much as I can.<br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -208,5 +208,5 @@ post_date: 2018-07-28 18:40:39
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li><a href="https://foreignpolicy.com/2018/04/03/life-inside-chinas-social-credit-laboratory/">https://foreignpolicy.com/2018/04/03/life-inside-chinas-social-credit-laboratory/</a></li><li><a href="http://www.bento.de/politik/china-plant-mit-dem-social-credit-system-die-komplett-ueberwachung-so-soll-sie-funktionieren-1891016/">http://www.bento.de/politik/china-plant-mit-dem-social-credit-system-die-komplett-ueberwachung-so-soll-sie-funktionieren-1891016/</a> (german)</li><li><a href="https://www.zdf.de/nachrichten/heute/chinas-planziel-die-totale-ueberwachung-100.html">https://www.zdf.de/nachrichten/heute/chinas-planziel-die-totale-ueberwachung-100.html</a> (german)</li><li><a href="https://www.deutschlandfunk.de/sozialkredit-system-china-auf-dem-weg-in-die-it-diktatur.724.de.html?dram:article_id=395440">https://www.deutschlandfunk.de/sozialkredit-system-china-auf-dem-weg-in-die-it-diktatur.724.de.html?dram:article_id=395440</a> (german)</li></ul>
+<ul><li><a href="https://foreignpolicy.com/2018/04/03/life-inside-chinas-social-credit-laboratory/">https://foreignpolicy.com/2018/04/03/life-inside-chinas-social-credit-laboratory/</a></li><li><a href="http://www.bento.de/politik/china-plant-mit-dem-social-credit-system-die-komplett-ueberwachung-so-soll-sie-funktionieren-1891016/">http://www.bento.de/politik/china-plant-mit-dem-social-credit-system-die-komplett-ueberwachung-so-soll-sie-funktionieren-1891016/</a> (german)</li><li><a href="https://www.zdf.de/nachrichten/heute/chinas-planziel-die-totale-ueberwachung-100.html">https://www.zdf.de/nachrichten/heute/chinas-planziel-die-totale-ueberwachung-100.html</a>&nbsp;(german)</li><li><a href="https://www.deutschlandfunk.de/sozialkredit-system-china-auf-dem-weg-in-die-it-diktatur.724.de.html?dram:article_id=395440">https://www.deutschlandfunk.de/sozialkredit-system-china-auf-dem-weg-in-die-it-diktatur.724.de.html?dram:article_id=395440</a>&nbsp;(german)</li></ul>
 <!-- /wp:list -->
