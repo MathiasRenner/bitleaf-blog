@@ -20,7 +20,7 @@ post_date: 2018-07-15 11:59:23
 <p>Suchmaschinen gehören zu den Software-Lösungen, die die Meisten von uns jeden Tag vielfach verwenden. Eine "gute" Suchmaschine zu verwenden, sollte also eine relativ hohe Priorität haben.</p>
 <p>Der weltweite Marktführer Google zählt für mich aus mehreren Gründen nicht zu den "guten" Lösungen. Denn je mehr Unternehmen wie Google bzw. dessen Mutterkonzern Alphabet existieren, deren Geschäftsmodell auf Daten und deren Analyse beruht und die gleichzeitig die Privatsphäre der Nutzer mit den Füßen treten, desto mehr verlieren wir Bürger die Kontrolle über unsere Entscheidungen und schlussendlich über unsere Gesellschaft. Das Ergebnis beschreibt Mark-Uwe Kling wunderbar in seinem Buch <a href="http://marcuwekling.de/faq/" target="_blank" rel="noopener noreferrer">Qualityland</a>, das die negativen Auswirkungen einer stark datengetriebenen Gesellschaft in einer witzigen und verständlichen Form darlegt. Ähnliche Werke sind <a href="https://en.wikipedia.org/wiki/Nineteen_Eighty-Four" target="_blank" rel="noopener noreferrer">George Orwells 1984</a> oder <a href="https://en.wikipedia.org/wiki/The_Circle_(Eggers_novel)" target="_blank" rel="noopener noreferrer">The Circle</a>.</p>
 <p>Teile dieser Dystopien sind bereits heute Realität. Algorithmen beeinflussen zunehmend erfolgreich unsere Meinung und unsere Entscheidungen, wie z.B. durch Werbung für Produkte oder politische Parteien. Auch in lebenskritischen Bereichen, wie z.B. bei medizinischen Entscheidungen von Ärzten, werden mehr und mehr Algorithmen verwendet. Kontrollierte Automatisierung halte ich generell für gut, allerdings gehören gerade die heute und zukünftig häufig eingesetzten Algorithmen des Deep Learnings zu der Klasse, die nicht deterministisch sind, d.h. deren Ergebnis nicht immer eindeutig und schwer kontrollierbar ist. Unternehmen wie z.B. Facebook verwenden eine Vielzahl von Deep Learning Algorithmen und verlieren zunehmend die Kontrolle über deren Entscheidungen. Im folgenden 6-minütigen Video wird das schön dargestellt an Mark Zuckerberg herangetragen:</p>
-<p><a href="https://peertube.social/videos/watch/e8870cad-0170-4bcf-b785-e4a3a4e87cfc" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-1540 size-full" src="https://bitleaf.de/wp-content/uploads/2018/07/peertube-guy-verhofstadt-zuckerberg-1.png" alt="" width="888" height="494" /></a></p>
+<p><a href="https://peertube.social/videos/watch/e8870cad-0170-4bcf-b785-e4a3a4e87cfc" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-1540 size-full" src="https://bitleaf.de/wp-content/uploads/2018/07/peertube-guy-verhofstadt-zuckerberg-1.png" alt="" width="888" height="494"></a></p>
 <p>Was können wir also tun? Die Produkte von Facebook &amp; Co nicht oder möglichst wenig nutzen. Das reduziert - wenn auch sehr sehr geringfügig - die Nachfrage nach deren Produkten und damit (hoffentlich irgendwann einmal) ihre Daseinsberechtigung.</p>
 <p>Lasst uns also Verantwortung für unsere Zukunft übernehmen, indem wir Produkte nutzen, die unsere Daten respektieren.</p>
 <h3>Was muss eine gute Suchmaschine bieten?</h3>
@@ -35,7 +35,7 @@ post_date: 2018-07-15 11:59:23
 </ul>
 <p>Ich beschränke mich durch die letzte Anforderung bewusst auf leicht verwendbare Suchmaschinen, die nicht selbst gehostet werden müssen. Sonst würde ich zu viele Nicht-ITler ausschließen. Die Nutzung von Suchmaschinen über das <a href="https://de.wikipedia.org/wiki/Tor_%28Netzwerk%29">Anonymisierungs-Netzwerk Tor</a> schließe ich damit auch aus.</p>
 <h3>Beste Lösung: Qwant</h3>
-<p><img class="aligncenter wp-image-1543 size-medium" src="https://bitleaf.de/wp-content/uploads/2018/07/qwant-logo-1-276x300.png" alt="" width="276" height="300" /></p>
+<p><img class="aligncenter wp-image-1543 size-medium" src="https://bitleaf.de/wp-content/uploads/2018/07/qwant-logo-1-276x300.png" alt="" width="276" height="300"></p>
 <p>Die fünf Jahre junge Suchmaschine <a href="https://www.qwant.com/">Qwant</a> erfüllt Anforderungen zu einem sehr hohen Grad:</p>
 <ul>
 <li>Der Hersteller sitzt in Paris.</li>
@@ -63,7 +63,7 @@ post_date: 2018-07-15 11:59:23
 <h3>Wie installiere ich Qwant?</h3>
 <p><strong>Firefox</strong>: Dieses <a href="https://addons.mozilla.org/de/firefox/addon/qwantcom-for-firefox/">Addon</a> installieren - fertig. Ich habe keine Möglichkeit gefunden, die Suchmaschine ohne diese Erweiterung zu installieren.</p>
 <p>Optional empfehle ich noch, beim Öffnen eines neuen Fensters oder Tabs eine leere Seite einzustellen. Dadurch werden unnötige Informationen nicht angezeigt, und der Browser reagiert etwas schneller. Dazu in der Adresszeile in Firefox das Folgende eingeben und "Enter" drücken: <em>about:preferences#home </em>. Danach folgende Option wie hier dargestellt auswählen:</p>
-<p><img class="alignnone wp-image-1547 size-full" src="https://bitleaf.de/wp-content/uploads/2018/07/Bildschirmfoto-vom-2018-07-15-02-30-30-arrow.png" alt="" width="969" height="430" /></p>
+<p><img class="alignnone wp-image-1547 size-full" src="https://bitleaf.de/wp-content/uploads/2018/07/Bildschirmfoto-vom-2018-07-15-02-30-30-arrow.png" alt="" width="969" height="430"></p>
 <p><strong>Chrome</strong>: Wie auch in Firefox muss das <a href="https://chrome.google.com/webstore/detail/qwant-for-chrome/hnlkiofnhhoahaiimdicppgemmmomijo">Add-On von Qwant</a> installiert werden - fertig. Wird Qwant ohne dieses Add-On als Suchmaschine eingestellt, wird diese Einstellung nach einem Neustart von Chrome wieder entfernt sein.</p>
 <h3>Was ist mit anderen Suchmaschinen?</h3>
 <p><a href="https://duckduckgo.com/">DuckDuckGo</a><strong>: </strong><a href="https://de.wikipedia.org/wiki/DuckDuckGo">Hauptsitz in den USA</a>. Dadurch erfüllt DuckDuckGo eine der Anforderungen nicht. <a href="https://www.kuketz-blog.de/duckduckgo-datenschutz-nur-auf-dem-papier/">Details hier</a>.</p>
@@ -72,7 +72,7 @@ post_date: 2018-07-15 11:59:23
 <p>Findx: Die erste Suchmaschine, die nicht nur alle Anforderungen erfüllt hat, sondern sogar Open Source war! Das ist wie HImmel auf Erden. Sie wurde leider im Dez 2018 eingestellt. Hier der <a href="https://privacore.github.io/">Shutdown-Erklärung</a> des Gründers.</p>
 <h3>Ausblick</h3>
 <p>Qwant will in Europa einen Marktanteil von 5 bis 10 Prozent erreichen. In Frankreich sind es schon heute 5 Prozent (<a href="https://www.heise.de/newsticker/meldung/Suchmaschine-Qwant-Neues-Design-zum-5-Geburtstag-4103431.html">Quelle</a>). Lasst uns Qwant nutzen, damit dieses Ziel schneller erreicht wird.</p>
-<p> </p>
+<p></p>
 <p>p.s. Ich erhalte von keiner Suchmaschine oder irgendeinem der hier erwähnten Unternehmen oder Personen eine finanzielle Förderung.</p>
 
 <!-- wp:paragraph -->
